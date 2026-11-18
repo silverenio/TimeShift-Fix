@@ -1,0 +1,10 @@
+#define IDR_DLL       101
+#define IDR_LANG_RU   102
+#define IDR_LANG_UK   103
+#define IDD_MAIN      200
+#define IDC_PATH      201
+#define IDC_EN        210
+#define IDC_RU        211
+#define IDC_UK        212
+#define IDC_UNINSTALL 220
+#define IDC_STATUS    221

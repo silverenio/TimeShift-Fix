@@ -1,0 +1,595 @@
+3010	vo_zcs_3_rbl2_theres_no_time	Немає часу! Вперед!
+3011	vo_zcs_3_rbl3_who_are_you	А ти хто?
+3012	vo_zcs_3_rbl4_who_this_guy	Це хто такий?
+3013	vo_zcs_3_rbl5_whats_with_suit	А як же костюм?
+3014	vo_zcs_3_rbl6_send_you	Тебе Кук послав?
+3015	vo_zcs_3_rbl1_rescue	Потрібна допомога!
+3016	vo_zcs_3_rbl2_are_we_sure	А він точно з наших?
+3017	vo_zcs_3_rbl3_its_just_one	Це все один хлопець?!!
+3018	vo_zcs_3_rbl4_let_me_out	Випустіть! Швидше!
+3019	vo_zcs_3_rbl5_wait_he_one	Стій, це ж людина Крона!
+3020	vo_zcs_3_rbl6_kill_em_all	Мочи всіх! Урра!!!
+3021	vo_zcs_3_rbl1_he_alone	Він сам!
+3022	vo_zcs_3_rbl2_saved_boys	Хлопці, ми врятовані!
+3023	vo_zcs_3_rbl3_dont_like_this	Не подобається мені це! Він один із них!
+3024	vo_zcs_3_rbl4_hurry_coming_back	Швидше! Вони повертаються!
+3025	vo_zcs_3_rbl5_open_em_up	Відчиняй! Давай!
+3026	vo_zcs_3_rbl6_let_us_outta	Випусти нас звідси.
+3027	vo_zcs_3_rbl1_knew_it	Так я і знав!
+3028	vo_zcs_3_rbl2_no_way	Неможливо. Ніяк!
+3029	vo_zcs_3_rbl3_saved	Врятовані!
+3030	vo_zcs_3_rbl4_we_gonne_make	Так, усе вийде!
+3031	vo_zcs_3_rbl5_hell_yes	Так, чорт забирай!
+3032	vo_zcs_3_rbl6_those_assholes	Пусти, я їм покажу!
+3033	vo_zcs_3_rbl1_the_rest	Де решта?
+3034	vo_zcs_3_rbl2_open_the_cells	Камери! Відчини клітки!
+3035	vo_zcs_3_rbl3_switches_control	Вимикачі - у кімнаті керування.
+3036	vo_zcs_3_rbl4_hurry_bro	Жвавіше, братику!
+3037	vo_zcs_3_rbl5_get_to_control_room	Тобі треба в кімнату керування.
+3038	vo_zcs_3_rbl6_switch_in_the	Перемикач - у кімнаті керування.
+3039	vo_zcs_3_rbl1_dont_leave_us	Не кидайте нас!
+3040	vo_zcs_3_rbl2_switch_the_doors	Перемикач! Відчини двері!
+3041	vo_zcs_3_rbl3_almost_there_hurry	Майже дійшли. Жвавіше!
+3042	vo_zcs_3_autovo_intruder_alert_security	Сторонній на території. Сторонній на території. Службу безпеки сповіщено.
+3043	vo_zcs_3_rbl1_what_happened	Що сталося?
+3044	vo_zcs_3_rbl2_come_on	Ходімо!
+3045	vo_zcs_3_rbl3_who_did_this	Хто це зробив?
+3046	vo_zcs_3_rbl4_wheres_cooke	Де Кук?
+3047	vo_zcs_3_rbl5_bring_on	Тягніть їх сюди!
+3048	vo_zcs_3_rbl6_everyo_dead	Усі мертві!
+3049	vo_zcs_3_rbl1_danny	Де Денні?!
+3050	vo_zcs_3_rbl2_ya_krone	Кроне, чекай нас у гості!
+3051	vo_zcs_3_rbl3_yeah	Та-а!!!
+3052	vo_zcs_3_rbl4_im_hurt	Я поранений!
+3053	vo_zcs_3_rbl5_hurry	Жвавіше!
+3054	vo_zcs_3_rbl6_sons_a_bitch	От покидьки!
+3055	vo_zcs_3_rbl1_lets_go	Вперед!
+3056	vo_zcs_3_rbl2_o_malley	Хто бачив О'Меллі?
+3057	vo_zcs_3_rbl3_they_all_dead	Вони всі мертві?!
+3058	vo_zcs_3_rbl4_i_need_help	Мені потрібна допомога!
+3059	vo_zcs_3_rbl5_faster	Швидше!
+3060	vo_zcs_3_rbl6_what_the_hell	Що за чорт?
+3061	vo_zcs_3_rbl1_be_quiet	Тихо!!!
+3062	vo_zcs_3_rbl2_they_are_dead	Вони мертві!
+3063	vo_zcs_3_rbl3_got_you	Зрозуміло!
+3064	vo_zcs_3_rbl4_krone_bastard	Кроне, падлюко!
+3065	vo_zcs_3_rbl5_get_up_get	Вставай, вставай!
+3066	vo_zcs_3_rbl6_yay_1	Ура! Ууух!
+3067	vo_zcs_3_rbl1_yay_2	Егегей!
+3068	vo_zcs_3_rbl2_yay_3	Так!
+3069	vo_zcs_3_rbl3_yay_4	Ура!
+3070	vo_zcs_3_rbl4_yay_5	Таак!
+3071	vo_zcs_3_rbl5_yay_6	Таак!
+3072	vo_zcs_3_rbl6_yay_7	Ура!
+3073	vo_zcs_3_rbl1_yay_8	Ехей!
+3074	vo_zcs_3_rbl2_yay_9	Йаа!
+3075	vo_zcs_3_rbl3_yay_10	Ура!
+3076	vo_zcs_3_rbl4_woot_1	Ух!
+3077	vo_zcs_3_rbl5_woot_2	Ух!
+3078	vo_zcs_3_rbl6_woot_3	Ух!
+3079	vo_zcs_3_rbl1_woot_4	Ух ти!
+3080	vo_zcs_3_rbl2_woot_5	Ухх!
+3081	vo_zcs_3_rbl3_woot_6	Ух-хо-хо!
+3082	vo_zcs_3_rbl4_woot_7	Ух!
+3083	vo_zcs_3_rbl5_woot_8	Ух!
+3084	vo_zcs_3_rbl6_woot_9	Ух!
+3085	vo_zcs_3_rbl1_woot_10	Ух!
+3086	vo_zcs_3_cooke_magistrate_comm	Магістрат гуде, як розтривожений вулик. Кажуть про вторгнення п'ятого рівня. Сучий ти сину, ти таки це зробив!..
+3087	vo_zcs_3_cooke_real_challenge_for	На тебе чекає дуже складне завдання; а поки піднімайся на платформу. У батальйоні \"Дельта\" є поранені, їх треба евакуювати.
+3088	vo_zcs_3_cooke_digging_through_intel	Ми тут переглянули дані, які ти зібрав, і ось що я хочу сказати. Нам уже давно відомо, що Крон  розробляє нову зброю. Тепер ми знаємо, яку саме.
+3089	vo_zcs_3_cooke_digging_through_intel2	Якщо ти проникнеш усередину і зробиш усе, що треба, можливо, ми зуміємо дістатися до Крона. Знайди транспорт і вирушай на південь... там на тебе чекатиме підкріплення.
+3090	vo_so_1_sam_initiating_neural	Починаю нейростимуляцію.
+3091	vo_so_1_cooke_good_time	Поки ти непогано справляєшся, але розслаблятися зарано. Магістрат перекрив дороги. Підкріплення чекає на тебе біля входу на завод.
+3092	vo_sam_system_frequency_proximity	УВАГА. Сигнали на системній частоті... виявлено альфа-спорядження.
+3093	vo_sam_krone_located	Виявлено доктора Ейдена Крона.
+3094	vo_so_1_sam_scanning_diag	Альфа-діагностика... система в нормі.
+3095	vo_sam_temp_origin_drive	Перевірка двигуна зворотного перенесення...
+3096	vo_so_1_sam_component_intact_analyzing	Компонент у нормі... аналіз характеристик...
+3097	vo_so_1_sam_identical	Компоненти ідентичні.
+3098	vo_so_1_sam_suit_origin_drive	Установіть двигун зворотного перенесення.
+3099	vo_so_2_cooke_i_read_you	Бачу, де ти перебуваєш. Просто перед тобою вхід на військовий завод. Кажуть, поруч є мінне поле, тож будь обережний. Дістанешся до місця - шукай наш загін. Він має бути поблизу.
+3100	vo_so_2_rbl5_hey_over_here	Гей, сюди!
+3101	vo_so_2_rbl5_cooke_said_our	Кук казав, що новачок добрий, але не попередив, що він такий моторошний на вигляд...
+3102	vo_so_2_rbl5_just_over_this	Вхід на завод одразу за пагорбом. Розвідка повідомляє, що підкріплення Магістрату вже в дорозі, але ми ще встигнемо дати їм перцю.
+3103	vo_so_2_rbl5_just_over_this2	Кажуть, ти до біса швидкий - відволікатимеш. Бери набої і вперед. Ми за тобою!
+3104	vo_so_2_rbl5_up_the_hill	На пагорб, марш, марш!
+3105	vo_so_2_rbl5_let_s_go	Ходімо, жвавіше!
+3106	vo_so_2_rbl5_come_on_you	Іди, відволічи їх!
+3107	vo_so_2_rbl5_clear_a_path	Розчисть нам дорогу!
+3108	vo_so_2_rbl5_what_s_the_hold	Чому затримка?
+3109	vo_so_2_rbl5_turret_watch	Кулемет! Не лізь під обстріл!
+3110	vo_so_2_rbl5_take_out	Зніми того стрільця!
+3111	vo_so_2_rbl6_we_gotta_take	Зніми його! Ми маємо взяти пагорб.
+3112	vo_so_2_rbl2_cover_our_man	Прикрий того хлопця, він іде до кулемета!
+3113	vo_so_2_rbl6_suppressing	Змусьте стрільця замовкнути!
+3114	vo_so_2_rbl5_hit_the_bunker	О, так! А ну, в бункер! Заходимо!
+3115	vo_so_2_rbl6_up_there_take	Нагорі! Зняти їх!
+3116	vo_so_2_rbl2_dig_in_finish	Окопаємося і доб'ємо їх!
+3117	vo_so_2_rbl6_shit_more_across	Чорт... Тут ще прийшли! Через колії!
+3118	vo_so_2_rbl5_damn_take_cover	Чорт! В укриття!
+3119	vo_so_2_rbl5_we_r_pinned	Чорт, нас притиснули. Гей, ковбою, йди розчисть шлях! Вони лізуть із того бункера, вхід на завод, мабуть, там. Ми прикриємо, пішов, пішов!
+3120	vo_so_2_rbl6_we_said_go	Сказано, пішов!
+3121	vo_so_2_rbl5_what_you_doing	Що ти робиш?!
+3122	vo_so_2_rbl6_move_it	Вперед!!!
+3123	vo_so_2_rbl5_no_time	Немає часу!
+3124	vo_so_2_sam_transport_station	Виявлено транспортну станцію. Уточнюю координати.
+3125	vo_so_2_sam_damage_assessment	Оцінка пошкоджень... помилка. Помилка.
+3126	vo_gf_1_cooke_you_there	Ти там? Відповідай! Ну ж бо...
+3127	vo_gf_1_cooke_scared_for	Налякав ти мене, хлопче... Але я знав, що ти впораєшся!
+3128	vo_gf_1_cooke_channel_clear	Не займай частоту. Я вийду на зв'язок, щойно дізнаюся щось нове. А поки знайди спосіб проникнути в комплекс. Успіху!
+3129	vo_gf_1_autovo_def_act	Сторонній на території. Систему захисту ввімкнено.
+3130	vo_gf_1_autovo_node1_disarmed	Вузол 1 знешкоджено.
+3131	vo_gf_1_autovo_node2_disarmed	Вузол 2 знешкоджено.
+3132	vo_gf_1_autovo_node3_disarmed	Вузол 3 знешкоджено.
+3133	vo_gf_1_autovo_def_sys_disabled	Системи захисту вимкнено.
+3134	vo_gf_1_autovo_exh_shaft_rotating	Увага. До ввімкнення витяжної системи...
+3138	vo_gf_1_autovo_exhaust_sys_online	Увага. Витяжну систему ввімкнено. Залиште територію.
+3139	vo_gf_1_wrk3_security_sys_malfunct	Якого біса, що тут за метушня? Що, знову система безпеки барахлить?
+3140	vo_gf_1_wrk1_gotta_be_overkill	Мабуть. Через ворота не пройти.
+3141	vo_gf_1_wrk3_not_our_lifetime	Хм, не за нашого життя... Гей, слухай, а що там із показниками по шахті відходів?
+3142	vo_gf_1_wrk1_air_quality_fine	Повітря придатне. Температура... стабільна.
+3143	vo_gf_1_wrk3_let_me_know	Добре; тільки не забудь мені сказати, коли ми маємо замінити другу станцію.
+3144	vo_gf_1_sld2_outta_thin_air	Якого біса?! Звідки він тут узявся?!
+3145	vo_gf_1_sld3_down_the_shaft	Відправте його в шахту!
+3146	vo_gf_2_cooke_read_munitions_warehouse	Зрозумів, ти на збройовому складі. Він добре охороняється. Будь насторожі.
+3147	vo_gf_2_autovom_all_workers_exercise	Перебуваючи на складі, усі працівники зобов'язані дотримуватися обережності. Винних у будь-яких інцидентах зі зброєю та боєприпасами суворо карають.
+3148	vo_gf_2_autovom_all_workers_stored	Пам'ятайте, що на складі зберігаються вибухові речовини. Служба безпеки отримує інформацію про всі випадки недбалого поводження з боєприпасами.
+3149	vo_gf_2_police_2_intruder	Гей! Чужий на карнизі!
+3150	vo_gf_2_autovom_crane_conveyor	Транспортер увімкнено. Залиште зону завантаження.
+3151	vo_gf_3_cooke_at_assembly_lines	Ти біля центральної складальної лінії. Іди далі, центральна частина вже близько.
+3152	vo_gf_3_wrk2_falling_behind	Швидше там. Знову від графіка відстаємо...
+3153	vo_gf_3_wrk3_enough_with_schedule	Досить уже про графік, гаразд? Вмикаю...
+3154	vo_gf_3_autovo_asm_line_act	Увага. Головну складальну лінію ввімкнено.
+3155	vo_gf_3_autovom_full_capacity	Увага всім. Складальна лінія працює на повну потужність. Підтримуйте продуктивність праці на належному рівні.
+3156	vo_gf_3_autovof_caution_around_belts	Збройовий завод є зоною підвищеної небезпеки. Будьте обережні біля конвеєрів і складальних ліній.
+3157	vo_gf_3_autovom_trade_secrets	Увага всім. Магістрат Крона нагадує про необхідність дотримання конфіденційності. Будь-яке обговорення виробничих технологій є злочином.
+3158	vo_gf_3_autovof_off_limits	Усім працівникам збройового заводу після закінчення зміни приписано негайно залишити територію.
+3159	vo_gf_3_autovom_successfully_gone	Важлива інформація. Наш завод успішно випустив...
+3160	vo_gf_3_autovom_zero	Нуль.
+3161	vo_gf_3_autovom_days_wo_acc	Подій немає.
+3162	Vo_gf_3_autovo_catwalk_ladder	Драбину висунуто.
+3163	vo_gf_4_cooke_i_copy_your_intel	Зрозумів. Зараз я передам тобі технічний опис заводу - там є одне вразливе місце, на яке Крон уже давно заплющує очі. Приймай дані.
+3164	vo_gf_4_cooke_plants_core_runs	Судячи з цих планів, центральний реактор заводу працює на прострочених паливних елементах. Якщо звідти викачати хоча б третину охолоджувальної рідини, там усе розплавиться...
+3165	vo_gf_4_cooke_flush_it	Звісно, ти все це підірвеш.
+3166	vo_gf_4_autovom_dolly1_act	Перший візок стартував.
+3167	vo_gf_4_autovom_dolly2_act	Другий візок стартував.
+3168	vo_gf_4_autovom_dolly1_at_pos_a	Перший візок повертається.
+3169	vo_gf_4_autovom_dolly2_at_pos_a	Другий візок повертається.
+3173	vo_gf_4_autovom_entering_plant	Увага. Невстановлені особи в активній зоні реактора.
+3174	vo_gf_4_sam_proximity_alert	УВАГА. Ви прибули до пункту призначення.
+3175	vo_gf_4_autovom_coolant_purge	Увага. Триває злив охолоджувача реактора...
+3176	vo_gf_4_autovom_core_temp_unstable	Увага. Температура реактора нестабільна.
+3177	vo_gf_4_cooke_there_you_r	А ось і ти, чудово. Ми щойно перехопили повідомлення противника. Тебе шукають. Вибирайся звідти. Судячи з планів будівлі, найзручніший вихід - через ангар планерів. Піднімайся нагору. Поквапся.
+3178	vo_gf_5_sam_instability_detected	УВАГА. Структура нестабільна...
+3179	vo_gf_5_sam_recomend_evac	УВАГА. Рекомендовано негайну евакуацію.
+3180	vo_gf_5_sam_instability_increasing	УВАГА. Нестабільність зростає.
+3181	vo_gf_5_sam_instability_critical	УВАГА. Критичний рівень нестабільності.
+3182	vo_gf_5_sam_failure_imminent	ТРИВОГА. Неусувний збій.
+3183	vo_gf_5_sld1_where_r_they	Де вони, чорт забирай?! Ми не можемо більше чекати!
+3184	vo_gf_5_sld3_found_another_way	Схоже, вони знайшли інший шлях... гаразд, ходімо.
+3185	vo_gf_5_sld1_where_could_they	Де вони можуть бути?
+3186	vo_gf_5_sld3_dont_like_this	Мені це не подобається. Тут щось затівається. Треба йти.
+3187	vo_gf_5_autuvom_bay_doors_opened	Увага. Перед запуском планера відчиніть ворота шлюзу.
+3188	vo_gf_5_autuvom_gate_2_bay	Увага: відчиняються ворота другого шлюзу.
+3189	vo_gf_5_cooke_we_could_feel	Чудово, чорт забирай! Нас навіть тут струснуло! Розвідка каже, ти всю гору навпіл розколов!
+3190	vo_gf_5_cooke_set_the_auto_pilot	Увімкни автопілот і надягни кисневу маску. Вона тобі знадобиться...
+3191	vo_zf_1_cooke_u_r_with_us	Радий, що ти живий. Це добре - у нас ще купа справ.
+3192	vo_zf_1_cooke_lay_real_simple	Гаразд. Слухайте. Спробую все пояснити на пальцях.
+3193	vo_zf_1_cooke_with_considerable_help	Цей новий хлопець нам дуже допоміг. Тепер у них не буде ні зброї, ні підкріплень. Розвідка доповідає, що Вартовий Крона відступає в район \"Альфа\". Що ж, ми підемо за ним...
+3194	vo_zf_1_cooke_no_doubt	Тут і думати нічого, напевно Крон уже укріпив периметр.
+3195	vo_zf_1_cooke_so_we_r_gonna_drop	Отже, ми звалимося на них, як грім серед ясного неба.
+3196	vo_zf_1_cooke_to_do_that_we_got	Для цього нам потрібен дирижабль. Доведеться позичити його в ангарі - який ми, до речі, і штурмуємо.
+3197	vo_zf_1_cooke_damn_they_mustve	Чорт... схоже, нас таки помітили...
+3198	vo_zf_1_cooke_lets_roll_out	Час висуватися!
+3199	vo_zf_1_cooke_looking_forward_son	Хочу подивитися на тебе в роботі, синку.
+3200	vo_zf_1_cooke_they_r_coming_up	Вони наближаються! Знищимо їх!
+3201	vo_zf_1_sld3_on_the_turret	До кулемета!
+3202	vo_zf_1_rbl1_gettin_closer	Вони наздоганяють!
+3203	vo_zf_1_rbl2_go_hurry	Марш, марш! Жваво!
+3204	vo_zf_1_rbl2_we_cant_shake_them	Не відірватися!
+3205	vo_zf_1_rbl1_take_out_turret	Бий по турелі!
+3206	vo_zf_1_rbl2_quad_incoming	Тривога! Вони йдуть!
+3207	vo_zf_1_rbl1_driver_side	Ліворуч! Ліворуч!
+3208	vo_zf_1_sld3_nooo	Ні-і!
+3209	vo_zf_1_rbl2_lost_michael	Майкл загинув!
+3210	vo_zf_1_rbl1_they_r_raising	Міст піднімається! Тисни!
+3211	vo_zf_1_rbl2_come_on_2x	Давай, давай...
+3212	vo_zf_1_sld2_no_stop	Ні! Стій! Стій!!
+3213	vo_zf_1_sld1_aaaa	Аххх!
+3214	vo_zf_1_sld2_noooo	Ні-і!
+3215	vo_zf_1_sld3_noooo_alt	Ні-і!!!
+3216	vo_zf_1_sld3_youre_dead_man	Тепер ти труп! Зрозумів?! Ти небіжчик!
+3217	vo_zf_1_rbl2_just_few_more	Залишилося небагато! Давайте!
+3218	vo_zf_1_rbl1_yeah_nice_driving	Класно кермуєш, друже!
+3219	vo_zf_1_rbl2_more_of_them	Там ще, на дорозі!
+3220	vo_zf_1_cooke_damn_were_never	Нам не пройти повз цей бункер! Доведеться тобі попрацювати. Йди всередину і вбий стрільця.
+3221	vo_zf_1_cooke_clear_that_gunner	Ми під обстрілом! Убий стрільця!
+3222	vo_zf_1_cooke_try_to_flank	Зайди збоку! Зроби хоч щось!
+3223	vo_zf_1_cooke_whatre_you_doing	Що ти робиш!? Стріляй, швидше!
+3224	vo_zf_1_rbl1_they_ve_got_us	Вони нас накрили!
+3225	vo_zf_1_rbl1_we_r_stuck	Ми застрягли!
+3226	vo_zf_1_rbl1_maybe_cut_middle	Зріжемо по центру!
+3227	vo_zf_1_rbl1_take_that_thing	Гаси цю штуку!
+3228	vo_zf_1_rbl1_we_gotta_move	Рухаємося далі!
+3229	vo_zf_1_rbl2_they_r_inside	Вони всередині!
+3230	vo_zf_1_rbl2_chase_em_out	Жени їх назовні!
+3231	vo_zf_1_rbl2_clear_out	Забирайтеся звідси!
+3232	vo_zf_1_rbl2_kill_those_bastards	Смерть виродкам!
+3233	vo_zf_1_cooke_we_gotta_open	Треба відчинити ворота! У цьому бункері має бути рубильник!
+3234	vo_zf_1_cooke_son_ofa_bitch	Ми марно гаємо час. Просто так нам не пройти. Потрібна твоя допомога, синку. Проникни всередину і відчини ворота зсередини. Швидше!
+3235	vo_zf_1_cooke_get_moving	Швидше! Довго ми тут не протримаємося!
+3236	vo_zf_1_cooke_we_need_you	Ти нам потрібен! Швидше!
+3237	vo_zf_1_cooke_cmon_move	Пішов, жвавіше, жвавіше!
+3238	vo_zf_1_cooke_what_waiting_for	Гей, солдате, чого ти чекаєш?!
+3239	vo_zf_1_cooke_weve_taken_out	Схоже, з охороною воріт покінчено. Зараз ми закріпимо успіх, а ти придумай, як відчинити ворота.
+3240	vo_zf_1_autovo_train_exiting	Увага. Просимо вас відійти від колій. Починається транспортування.
+3241	vo_zf_1_wrk2_hey_who_you	Гей? Ти хто такий?!
+3242	vo_zf_1_autovo_cargo_in_motion	Увага. Усім залишити зону завантаження. Платформа в русі.
+3243	vo_zf_2_sld3_rebel_offensive_talk	Як гадаєш, у всій цій балаканині повстанців є хоч слово правди?
+3244	vo_zf_2_sld2_those_occupant_guys	А, ти про цих, про повстанців... можливо.
+3245	vo_zf_2_sld3_they_sound_organized	Так, дещо я чув. Схоже, у них усе серйозно...
+3246	vo_zf_2_cooke_have_your_visual	Бачу тебе. Ми на вантажівці. Відчиняй ворота, швидше!
+3247	vo_zf_2_cooke_find_controls_gates	Треба відчинити ворота! Жвавіше, солдате!
+3248	vo_zf_2_cooke_quicker_we_get	Що швидше ми опинимося всередині, то раніше захопимо дирижабль! Вперед!
+3249	vo_zf_2_autovo_control_2_not_act	Панель 2 не ввімкнено. Скасування операції.
+3250	vo_zf_2_autovo_gate_opening	Ворота відчиняються.
+3251	vo_zf_2_cooke_well_done	Чудово!
+3252	vo_zf_2_rbl2_bird	Повітря!
+3253	vo_zf_2_rbl1_heads_up	Обережно! Бережись!
+3254	vo_zf_2_rbl6_shit_missed	Чорт, схибив! В укриття, в укриття!
+3255	vo_zf_2_cooke_grab_launcher	Чорт забирай! Хапай гранатомет! Збий його!
+3256	vo_zf_2_cooke_find_ammo	Потрібні боєприпаси! Терміново!
+3257	vo_zf_2_cooke_thats_how_do	Ага! Давай, ось так!
+3258	vo_zf_2_cooke_find_explosives	Знову вони! Знайди вибухівку і підірви ворота!
+3259	vo_zf_2_cooke_hurry_that_gate	Швидше! Вибивай ці ворота!
+3260	vo_zf_2_cooke_get_in_gear	Давайте, хлопці, жвавіше!
+3261	vo_zf_2_cooke_wasting_time	Ми гаємо час! Підривай ворота!
+3262	vo_zf_2_cooke_lets_go_move	Давай, давай, жвавіше!
+3263	vo_zf_2_cooke_double_time	Сюди! Жвавіше!
+3264	vo_zf_2_cooke_need_ya	Ти нам потрібен, хлопче! Давай, швидше!
+3265	vo_zf_2_cooke_waiting_for	Чого ти чекаєш?!
+3266	vo_zf_3_cooke_not_loaded	Чорт! Планер навіть не завантажили на дирижабль! Деніелсе, нам доведеться самим вантажити його на потяг...
+3267	vo_zf_3_rbl2_ok_cover_me	Гаразд. Прикрий мене.
+3268	vo_zf_3_sld2_turn_it_on	Тут чужий! Вмикай!!
+3269	vo_zf_3_cooke_get_back_here	Гей, ти куди?
+3270	vo_zf_3_cooke_nooo	Ні-і!
+3271	vo_zf_3_rbl2_nooo	Ні! Ні... А-а-а!
+3272	vo_zf_3_cooke_you_bastards	Падлюки!
+3273	vo_zf_3_cooke_put_to_use	Час пустити в хід цей скафандр. Спробуй пройти тунель і вимкнути турбіну. Давай! Швидше!
+3274	vo_zf_3_autovo_turbine_act2	Увага. Запуск турбіни. Усім працівникам залишити тунель.
+3275	vo_zf_3_autovo_turbine_act3	Увага. Турбіну ввімкнено. Усім залишити район тунелю.
+3276	vo_zf_3_autovo_turbine_deact2	Увага. Турбіну зупинено. Доступ до тунелю дозволено.
+3277	vo_zf_3_cooke_well_done	Чудово. Ми заходимо. Треба завантажити планер на машину, щоб доставити його в ангар до дирижабля.
+3278	vo_zf_3_cooke_delay_taunt1	Давай, вантаж планер! Без нього в нас нічого не вийде.
+3279	vo_zf_3_cooke_delay_taunt2	Гей, солдате! Вантаж планер!
+3280	vo_zf_3_autovo_glider_loading	Увага! Триває завантаження планера. Усім звільнити майданчик.
+3281	vo_zf_3_cooke_great_job_open	Чудово. Тепер відчини двері ангара. Зала керування - на першому поверсі.
+3282	vo_zf_3_cooke_running_out_time	У нас майже немає часу! Відчиняй двері!
+3283	vo_zf_3_cooke_whats_the_problem	У чому проблема?! Спускайся вниз і відчини ворота ангара!
+3284	vo_zf_3_autovo_doors_open	Будьте обережні: відчиняються ворота шлюзу. Планер залишає тунель.
+3285	vo_zf_3_cooke_loading_drop_jet	Триває завантаження планера. Зустрічайте нас біля воріт; захопимо дирижабль.
+3286	vo_zf_4_cooke_one_piece	Поки що ми цілі, але небезпека ще не минула.
+3287	vo_zf_4_rbl1_were_ready	Є, сер. Роздобудемо дирижабль!
+3288	vo_zf_4_cooke_gotta_get_outta	Давай на потяг! Треба вибиратися звідси!
+3289	vo_zf_4_autovo_bay_doors_opening	Увага. Відчиняються ворота шлюзу.
+3290	vo_zf_4_sld2_what_the_hell	Гей, якого дідька?!..
+3291	vo_zf_4_sld1_call_for_backup	Повстанці! Викликай підкріплення!
+3292	vo_zf_4_sld2_the_drop_jet	Планер!
+3293	vo_zf_4_cooke_think_areas_clear	Схоже, тут усе чисто. Тобі треба пройти всередину і відчинити двері ангара. Ми охоронятимемо планер.
+3294	vo_zf_4_cooke_side_entrance	Спробуй бічний вхід.
+3295	vo_zf_4_cooke_come_side_entrance	Спробуй зайти збоку!
+3296	vo_zf_4_cooke_what_waiting_for	Чого ти чекаєш?! Заходь!
+3297	vo_zf_4_rb1_got_zero_time	Час! Іди через бічний вхід!
+3298	vo_zf_4_cooke_raise_tracks	Треба придумати, як підняти вантажну рампу, і якнайшвидше.
+3299	vo_zf_4_autovo_cargo_tracks_motion	Увага. Усім відійти від платформи. Триває транспортування вантажу.
+3300	vo_zf_4_cooke_hangar_gates	Відчини ворота ангара, щоб ми змогли завести туди планер. Швидше!
+3301	vo_zf_4_cooke_get_those_gates	Відчиняй ворота! Швидше! Тут ми як на долоні!
+3302	vo_zf_4_cooke_find_switch	Знайди рубильник і відчини ворота!
+3303	vo_zf_4_autovo_hangar_doors_opening	Увага. Усім залишити зону завантаження. Відчиняються ворота ангара.
+3304	vo_zf_4_cooke_were_coming	Чудово. Заходимо!
+3305	vo_zf_4_cooke_ready_the_cockpit	Ми йдемо в кабіну. Іди в залу керування, терміново! Прибираємо якорі й забираємося звідси к бісовій матері!
+3306	vo_zf_4_cooke_anchor_release	Треба підняти якір! Знайди рубильник, він десь тут!
+3307	vo_zf_4_cooke_release_the_anchors	Прибери якорі - і йдемо звідси!
+3308	vo_zf_4_cooke_out_of_time	Час спливає! Віддати якорі!
+3309	vo_zf_4_autovo_anchors_released	Увага... Якорі прибрано.
+3310	vo_zf_4_cooke_make_a_run	Ч-чорт! Давай! Біжи, жвавіше!
+3311	vo_zr_2_cooke_krones_movement	Розвідка доповіла, що Крон досі в секторі А...
+3312	vo_zr_2_autovom_reserves_low	Увага. Запаси палива закінчуються. Увага. Запаси палива закінчуються.
+3313	vo_zr_2_cooke_cant_make_it	Прокляття. До місця нам не дістатися. Паливо закінчується.
+3314	vo_zr_2_cooke_intel_shows	Поблизу є паливний склад, але він під землею.
+3315	vo_zr_2_cooke_cant_dock	До турелей! Поки нас обстрілюють, усе марно!
+3316	vo_zr_2_cooke_watch_out	Наближаємося до складу палива. Стережися охоронних систем. Спробуй завдати удару, поки противник на  відкритій місцевості.
+3317	vo_zr_2_cooke_helos_ahead	Гелікоптер! Попереду!
+3318	vo_zr_2_cooke_get_in_there	Давай усередину, жвавіше! Нам потрібне пальне!
+3319	vo_zr_2_cooke_enemy_gunfire	Ми під обстрілом! Вниз! Обережно!
+3320	vo_zr_2_cooke_find_a_way	Ага! Тепер спробуй проникнути на базу.
+3321	vo_zr_2_cooke_hurry_soldier	Швидше! Паливо закінчується!
+3322	vo_zr_2_cooke_cant_wait_much_longer	Ми більше не можемо чекати! Нам потрібне пальне! Терміново!
+3323	vo_zr_2_cooke_lets_go	Ходімо! Жвавіше! Час підтискає!
+3324	vo_zr_2_cooke_now_get_in	Давай усередину, ми тебе прикриємо!
+3325	vo_zr_2_sld3_take_that	Отримуй, виродку!
+3326	vo_zr_2_sld3_youre_alive	Ти що, ще живий?! Як ти це робиш?!
+3327	vo_zr_2_cooke_we_felt_that	Чорт! Навіть нас струснуло! Якщо ти ще живий, іди до командного пункту. Там буде цистерна з пальним, її треба завантажити на вантажівку.
+3328	vo_zr_2_2_autovo_cargo_loading	Увага. Не підходьте до платформи. Триває завантаження.
+3329	vo_zr_2_rbl1_back_to_zep	Так, усі на дирижабль, швидко!
+3330	vo_zr_2_cooke_approaching_district	Наближаємося до периметра. На планер, швидко! Я скину вас просто на порозі Крона.
+3331	vo_zr_2_cooke_my_squad	Щойно ми закріпимося, мої хлопці вийдуть на зв'язок. Успіху!
+3332	vo_zr_2_sam_mission_risk	УВАГА. Ризик невдачі: ПІДВИЩЕНИЙ. Імовірність провалу: ВИСОКА. Рекомендую припинити виконання завдання.
+3333	vo_city_final_sam_optimizing_reflexes	Оптимізація рефлексів для тактичної переваги...
+3334	vo_city_final_sam_component_detected	Виявлено компонент.
+3335	vo_city_final_sam_suggest	Рек... рекомендовано...
+3336	vo_city_final_sam_we_acquire	Отримано двигун зворотного перенесення для альфа-спорядження.
+3337	vo_city_final_sam_tracking_component_location	Визначення координат компонента.
+3338	vo_city_final_rbl1_you_like_how	Ну що, подобається, га?!
+3339	vo_city_final_pol4_no_stop_please	Ні, будь ласка!
+3340	vo_city_final_rbl1_almighty_krone_now	Ну і де тепер цей ваш непереможний Крон?
+3341	vo_city_final_rbl1_hes_running_away	Він тікає, ти в курсі?
+3342	vo_city_final_rbl1_this_is_over	Готово!
+3343	vo_city_final_rbl1_magistrates_done	Магістрату кришка!!
+3344	vo_city_final_rbl1_not_so_tough	Що, скис, дупо?
+3345	vo_city_final_rbl2_you_feel_that	Відчуваєш? Вони злякалися, вони справді злякалися!!!
+3346	vo_city_final_rbl3_cause_they_know	Вони знають, що ми прийдемо по них! По кожного з них!
+3347	vo_city_final_rbl3_cause_they_know_alt	Вони знають, що ми прийдемо по них! По кожного з них!
+3348	vo_city_final_rbl2_krones_next	Крон. Хочу його вбити. Крон - наступний! Ага!
+3349	vo_city_final_rbl3_hell_yeah	О-о так!
+3354	vo_city_final_rbl4_keep_walking	Не стояти, придурки!
+3355	vo_city_final_rbl5_not_talking_anymore	Притих ти, я дивлюся... Щось не так, га?
+3356	vo_city_final_rbl4_remember_you_guys	Ага, пам'ятаю. Ви, хлопці, багато балакаєте.
+3357	vo_city_final_rbl5_talk_real_good	Їм доведеться багато брехати, щоб викрутитися...
+3358	vo_city_final_rbl4_cocky_bastards	Нахабні покидьки... Ех, швидше б.
+3359	vo_city_final_cooke_krones_moving_fast	Зрозумів. Крон досі десь близько, але він швидко переміщається. І якщо ми хочемо зупинити його Вартового, треба піднятися вище!
+3360	vo_city_final_krone_socalled_savior	До уваги таємничого союзника повстанців. Я не знаю вашого імені, Докторе, але знаю, хто ви і звідки. Утім, це не має значення. Ви загинете тут, у моїй реальності. Ваша поразка неминуча.
+3361	vo_city_final_sam_hostile_weapons	УВАГА. Переважні сили противника.
+3362	vo_city_final_sam_evasive_action	УВАГА. Виконайте маневр ухилення.
+3363	vo_city_final_cooke_heavy_artillery	Стережися! У них важка артилерія!
+3364	vo_city_final_cooke_stay_on_move	Вперед, жвавіше!!!
+3365	vo_city_final_rbl1_things_huge	Здоровенна штука!
+3366	vo_city_final_rbl2_its_huge	Оце так!
+3367	vo_city_final_rbl1_bring_it_down	Валимо його!
+3368	vo_city_final_rbl3_keep_firing	Продовжувати вогонь!
+3369	vo_city_final_rbl4_keep_slowing_down	Ще, він сповільнюється!
+3370	vo_city_final_rbl5_keep_shooting	Впораємося, стріляйте!
+3371	vo_city_final_rbl4_keep_firing_2x	Стріляйте! Стріляйте!
+3372	vo_city_final_rbl6_concentrate_fire	Зосередити вогонь!
+3373	vo_city_final_rbl1_its_working	Вийшло! Не зупинятися!
+3374	vo_city_final_rbl3_things_going_down	Дивіться, падає!
+3375	vo_city_final_rbl3_take_it_down	Завалимо його!
+3376	vo_city_final_rbl3_dont_stop	Не гальмувати!
+3377	vo_city_final_rbl4_make_it_count	Ось-ось, так і треба!
+3378	vo_city_final_rbl4_shoot_here	Бий по ногах!
+3379	vo_city_final_rbl5_right_there	Ось так! Просто в ціль!
+3380	vo_city_final_rbl6_dont_let	Не дайте йому піти!
+3381	vo_city_final_rbl6_too_high_up	Височенько!
+3382	vo_city_final_rbl1_too_big	Надто великий!
+3383	vo_city_final_rbl2_watch_legs	Стережися, ноги!
+3384	vo_city_final_rbl3_look_out	Кулемети. Стережися!
+3385	vo_city_final_rbl6_spread_fire_there	Розосередити вогонь!
+3386	vo_city_final_rbl4_spread_fire	Розосередити вогонь!
+3387	vo_city_final_rbl5_pushing_back	Піднатисни! Не підпускай!
+3388	vo_city_final_rbl6_not_long	Залишилося недовго!
+3389	vo_city_final_rbl1_dammit_die	Та що ж ти не здихаєш?!
+3390	vo_city_final_rbl2_drop_this_thing	Ну ж бо! Кидайте!
+3391	vo_city_final_rbl1_take_out_legs	Бий по ногах!
+3392	vo_city_final_rbl2_take_out_legs_a	Бий по ногах!
+3393	vo_city_final_rbl3_shoot_legs	Стріляй у ноги!
+3394	vo_city_final_rbl4_shoot_legs_a	Бий по ногах!
+3395	vo_city_final_rbl3_go_for_legs	У ноги! По ногах!
+3396	vo_city_final_rbl4_everyone_legs	Стріляйте! По ногах!
+3397	vo_city_final_rbl5_vulnerable_legs	Слабке місце! Ноги! По ногах!!!
+3398	vo_city_final_rbl6_target_legs	Стріляйте! Цільтеся в ноги!
+3399	vo_city_final_rbl5_aim_for_legs	Цілься в ноги!
+3400	vo_city_final_sam_mobility_failure_legs	Стабільність структури порушено. Рухові функції порушено.
+3401	vo_city_final_rbl1_take_out_middle	Бий у центр!
+3402	vo_city_final_rbl2_take_out_middle_a	Бий у середину!
+3403	vo_city_final_rbl3_shoot_belly	Стріляй у черево!
+3404	vo_city_final_rbl4_shoot_belly_a	Бий у черево!
+3405	vo_city_final_rbl3_go_for_belly	Черево! Бий у черево!
+3406	vo_city_final_rbl4_everyone_belly	Стріляйте! Корпус, черево!
+3407	vo_city_final_rbl1_vulnerable_belly	Він уразливий! Черево!
+3408	vo_city_final_rbl6_target_belly	Стріляйте! Цільтеся в черево!
+3409	vo_city_final_rbl5_aim_for_belly	Цілься в середину!
+3410	vo_city_final_sam_hull_failure_belly	Стабільність структури порушено. Обшивку пошкоджено.
+3411	vo_city_final_sam_objective_accomplished	Завдання виконано.
+3412	vo_city_final_rbl1_yeah	Та-а!
+3413	vo_city_final_rbl2_shit_yeah	Чорт, є!!!
+3414	vo_city_final_rbl5_we_did_it	Вийшло! Вийшло!
+3415	vo_city_final_rbl4_hell_yes	Чорт, є!
+3416	vo_city_final_rbl5_you_like_that	Гей, Кроне, сподобалося? Га?!!
+3417	vo_city_final_rbl6_its_over_2x	От і все! От і все!
+3418	vo_city_final_rbl1_dont_believe_it	Неймовірно!!!
+3419	vo_city_final_rbl2_is_it_over	Тепер усе?
+3420	vo_city_final_rbl3_we_did_it	Так! Ми це зробили! Готово!
+3421	vo_city_final_rbl4_we_won_2x	Зроблено! Ми перемогли. Так!!!
+3422	vo_city_final_sam_we_win	Ми перемогли.
+3423	vo_city_final_sam_origin_drive_acquirable	УВАГА. Доступний двигун зворотного перенесення.
+3424	vo_city_final_sam_component_located	Координати компонента зафіксовано.
+3425	vo_city_final_sam_component_accepted	Компонент прийнято. Передача координат повернення альфа-системи... альфа-координати повернення прийнято.
+3426	vo_city_final_sam_return_jump	Починаю послідовність перенесень.
+3427	vo_city_final_cooke_whoever_you_thanks	Слухай, хоч би ким ти був... Дякую.
+3428	vo_city_final_cooke_whoever_you_thanks_alt	Слухай, хоч би ким ти був... Дякую.
+3429	vo_city_final_sam_jump_sequence	Виконується послідовність перенесень.
+3430	vo_sam_timeshift_viable	Тактику вдосконалено. Можливий зсув у ручному режимі.
+3431	vo_sam_agility_required	Потрібна підвищена рухливість
+3432	vo_sam_lethal_heat	Виявлено теплове джерело загрози
+3433	vo_sam_corrective_timeshift	Можливий коригувальний зсув
+3434	vo_sam_lethal_electrical	Виявлено електричне джерело загрози
+3435	vo_sam_concealed_threat	Виявлено приховане джерело загрози
+3436	vo_sam_unbalanced_surface	Виявлено нестабільну поверхню.
+3437	vo_sam_time_slow_threat	Виявлено загрозу сповільнення часу.
+3438	vo_sam_time_stop_threat	Виявлено загрозу зупинки часу.
+3439	vo_sam_shield_threat	Виявлено захищене джерело загрози
+3440	vo_sam_enemy_weapon	Зброя противника в зоні досяжності
+3441	vo_sam_incoming_threat	Наближається джерело загрози
+3442	vo_sam_ballistic_threat	Виявлено стрілецьку зброю
+3443	vo_sam_timed_threat	Виявлено джерело загрози сповільненої дії
+3444	vo_city_1_krone_all_symp	До уваги всіх, хто співчуває заколотникам:
+3445	vo_city_1_krone_final_act	Я розглядаю ваші зусилля з підриву влади як акт відчаю. Востаннє пропоную вам замислитися про майбутнє...
+3446	vo_city_1_krone_final_act2	Магістрат Крона бореться за краще життя для всіх громадян. Радимо вам якнайшвидше припинити безглуздий опір.
+3447	vo_city_1_krone_stop_reflect	Пропоную вам подивитися на речі тверезо. Уже зараз очевидно, що ви приречені на поразку. Ваших людей небагато, і вони погано навчені, а Магістрат має необмежені ресурси.
+3448	vo_city_1_krone_continued_failure	Ваше нерозуміння і спроби опору спричинили ескалацію напруги. У результаті ми були змушені стратити всіх військовополонених.
+3449	vo_city_1_krone_continued_failure2	Якщо ви не припините безглузде кровопролиття, вас спіткає та сама доля. Часу залишилося мало.
+3450	vo_city_1_krone_embrace_protection	Магістрат сподівається, що всі зареєстровані громадяни правильно оцінять ситуацію. Просимо вас і членів ваших родин якнайшвидше пройти реєстрацію.
+3451	vo_city_1_krone_embrace_protection2	Зі скорботою повідомляю, що останні терміни реєстрації громадян минули. Можливо, ваша безвідповідальна відмова від співпраці з нами вже призвела до ліквідації ваших незареєстрованих рідних і близьких.
+3452	vo_city_1_krone_please_remember	Заради безпеки та добробуту вас і ваших близьких просимо не забувати, що Магістрат Крона створено для захисту громадян від будь-якої зовнішньої загрози.
+3453	vo_city_1_krone_please_remember2	Востаннє прошу припинити цей безглуздий конфлікт. Ми обіцяємо вам краще життя. Вибір за вами, і я не раджу вам гаяти час.
+3454	vo_city_2_3_ss_1_krone_outside_threats	До уваги всіх зареєстрованих громадян. У зв'язку з атмосферними експериментами Магістрату, спрямованими на ваш захист, тривалість сезону дощів може збільшитися. Перепрошуємо за завдані незручності.
+3455	vo_city_2_3_ss_1_krone_recent_uprising	До уваги всіх, хто підтримує повстанців. Я вкрай розчарований таким поворотом подій і востаннє пропоную вам обміркувати свої дії. Якщо ви й далі демонструватимете відкриту непокору, я буду змушений вас знищити.
+3456	vo_city_2_3_ss_1_krone_no_surprise	Очевидно, що так званий повстанський рух від самого початку приречений на невдачу. Учорашній замах лише підтверджує цю істину.
+3457	vo_city_2_3_ss_1_krone_no_surprise2	Можу сказати лише одне: будь-які спроби з'ясувати моє місцеперебування припинятимуться в зародку.
+3458	vo_city_2_3_ss_1_krone_must_reiterate	Вважаю своїм обов'язком нагадати про наслідки подальшої ескалації насильства. Якщо акції непокори не припиняться, ми будемо змушені стратити всіх військовополонених.
+3459	vo_city_2_3_ss_1_krone_must_reiterate2	Наразі їхнє знищення не є необхідним. Однак ваша бездіяльність - це теж вибір, від якого залежить їхнє життя.
+3460	vo_city_2_3_ss_1_krone_also_emphasize	Що ж до військовополонених, я знову маю наголосити на важливості своєчасної реєстрації громадян. Пам'ятайте: часу залишилося не так багато.
+3461	vo_city_2_3_ss_1_krone_also_emphasize2	Якщо ваші рідні та близькі не пройдуть реєстрацію, їх буде оголошено ворогами Магістрату. Зареєструйтеся самі, зареєструйте свою родину. Пам'ятайте: наш захист поширюється лише на зареєстрованих громадян.
+3462	vo_city_2_3_ss_1_krone_better_life	Ми пропонуємо вам краще життя. Магістрат Крона було засновано для блага і захисту всіх лояльних зареєстрованих громадян. Сподіваюся, ви всі зробите правильний вибір - і зробите його вчасно.
+3463	vo_city_final_cooke_every_member	Усім повстанцям та їхнім прихильникам. До вас звертається командир Кук.
+3464	vo_city_final_cooke_the_downfall	Падіння Магістрату не за горами.
+3465	vo_city_final_cooke_your_help	Тепер перевага за нами, проте нам і далі потрібна ваша допомога. Нехай усі, хто може, стануть пліч-о-пліч із нами в цьому бою.
+3466	vo_city_final_cooke_delta_battalion	Солдатів батальйону \"Дельта\" та всіх інших військовополонених врятовано.
+3467	vo_city_final_cooke_family_members	Наші родини поза небезпекою; заплановане знищення незареєстрованих громадян відвернуто.
+3468	vo_city_final_cooke_munitions_plant	Збройовий завод Магістрату знищено. У людей Крона більше немає ні артилерії, ні авіації. Решти зброї їм вистачить ненадовго.
+3469	vo_city_final_cooke_the_location	Повстанцям удалося проникнути в розвідувальну мережу Магістрату і з'ясувати місцеперебування штабу Крона.
+3470	vo_city_final_cooke_the_location2	Він перебуває всередині Вартового. Крон якраз намагається втекти на цій машині - але спершу йому треба пройти зону \"альфа\". Завалівши цю залізяку, ми покінчимо і з Магістратом, і з Кроном. Назавжди.
+3471	vo_city_final_cooke_krones_death	Зі смертю Крона війна закінчиться назавжди. Настане епоха свободи для всіх і кожного! Але щоб досягти цієї високої мети, нам потрібна ваша допомога!
+3472	vo_city_final_cooke_join_us	Вступайте до наших лав.
+3473	mpt_afv_5_min_left	Залишилося 5 хвилин.
+3474	mpt_afv_3_min_left	Залишилося 3 хвилини.
+3475	mpt_afv_1_min_left	Залишилася 1 хвилина.
+3486	mpt_afv_round_started	Раунд почався.
+3487	mpt_afv_round_ended	Раунд закінчено.
+3488	mpt_afv_game_start_in_15_sec	Гра почнеться за 15 секунд
+3489	mpt_afv_game_start_in_30_sec	Гра почнеться за 30 секунд
+3490	mpt_afv_game_start_in_1_min	Гра почнеться за 1 хвилину
+3491	mpt_afv_round_start_in_15_sec	Раунд почнеться за 15 секунд
+3492	mpt_afv_round_start_in_30_sec	Раунд почнеться за 30 секунд.
+3493	mpt_afv_round_start_in_1_min	Раунд почнеться за 1 хвилину.
+3494	mpt_afv_round_start_in	До початку раунду...
+3495	mpt_afv_game_started	Гра почалася.
+3496	mpt_afv_headshot	У голову!
+3497	mpt_afv_double_kill	Двоє вбитих!
+3498	mpt_afv_hat_trick	Троє вбитих!
+3499	mpt_afv_quadra_kill	Четверо вбитих!
+3500	mpt_afv_fury_kill	Масове вбивство!
+3501	mpt_afv_master_of_kill	Кривава різанина
+3502	mpt_afv_killing_rage	Берсерк
+3503	mpt_afv_untouchable	Недоторканний
+3504	mpt_afv_mass_murdere	Серійний убивця
+3505	mpt_afv_grim_reaper	Втілення смерті
+3506	mpt_afv_new_king	У нас новий король!
+3507	mpt_afv_king_is_dead	Король мертвий!
+3508	mpt_afv_u_r_king	Ви стали королем!
+3509	mpt_afv_reset	Таймер обнулено
+3510	mpt_afv_base_under_attack	Реактор під загрозою!
+3511	mpt_afv_successful_attack_launched	Успішна атака!
+3512	mpt_afv_enemy_reactor_ready	Реактор противника в критичному режимі.
+3513	mpt_afv_your_reactor_ready	Критичний режим реактора.
+3514	mpt_afv_enemy_reactor_20_ready	Перегрів реактора противника: 25%.
+3515	mpt_afv_your_reactor_20_ready	Перегрів реактора: 25%.
+3516	mpt_afv_enemy_reactor_50_ready	Перегрів реактора противника: 50%.
+3517	mpt_afv_your_reactor_50_ready	Перегрів реактора: 50%.
+3518	mpt_afv_enemy_reactor_75_ready	Перегрів реактора противника: 75%.
+3519	mpt_afv_your_reactor_75_ready	Перегрів реактора: 75%.
+3520	mpt_afv_enemy_reactor_90_ready	Перегрів реактора противника: 90%.
+3521	mpt_afv_your_reactor_90_ready	Перегрів реактора: 90%.
+3522	mpt_afv_time_resistance	Опір
+3523	mpt_afv_dmg_amp	Важкі пошкодження
+3524	mpt_afv_you_ve_taken_lead	Ви вийшли в лідери
+3525	mpt_afv_your_ve_lost_lead	Ви поступилися лідерством
+3526	mpt_afv_tie	Нічия
+3527	mpt_afv_tied	Ви зрівняли рахунок із лідером
+3528	mpt_afv_new_leader	Новий лідер
+3529	mpt_afv_red_team_takes_lead	Лідирує команда \"червоних\"
+3530	mpt_afv_tied_teams	Нічия
+3531	mpt_afv_blue_team_takes_lead	Лідирує команда \"синіх\"
+3532	mpt_afv_won_match	Ви виграли матч
+3533	mpt_afv_won_round	Ви виграли раунд
+3534	mpt_afv_lost_match	Ви програли матч
+3535	mpt_afv_lost_round	Ви програли раунд
+3536	mpt_afv_red_team_wins_round	Раунд виграли \"червоні\"
+3537	mpt_afv_red_team_wins_match	Матч виграли \"червоні\"
+3538	mpt_afv_blue_team_wins_round	Раунд виграли \"сині\"
+3539	mpt_afv_blue_team_wins_match	Матч виграли \"сині\"
+3540	mpt_afv_overtime	Час минув
+3541	mpt_afv_sudden_death	Раптова смерть
+3542	mpt_afv_time_sphere_reset	Сферу часу відновлено
+3543	mpt_afv_energy_field	Енергетичне поле ввімкнено
+3544	mpt_afv_ready_begin	Приготувалися... Старт.
+3545	mp_afv_suck	Нікчема
+3546	mp_afv_camper	Вбивство із засідки
+3547	mp_afv_spawn_kill	Смерть під час відродження
+3548	mpt_afv_voting_started	Голосування почалося
+3549	mpt_afv_voting_succed	Голосування завершено
+3550	mpt_afv_voting_failed	Голосування провалено
+3551	mpt_afv_voting_canceled	Голосування скасовано
+3552	mpt_afv_red_flag_taken	Прапор червоних узято
+3553	mpt_afv_red_flag_dropped	Прапор червоних кинуто
+3554	mpt_afv_red_flag_retrieved	Прапор червоних повернуто
+3555	mpt_afv_red_flag_captured	Прапор червоних захоплено
+3556	mpt_afv_blue_flag_taken	Прапор синіх узято
+3557	mpt_afv_blue_flag_dropped	Прапор синіх кинуто
+3558	mpt_afv_blue_flag_retrieved	Прапор синіх повернуто
+3559	mpt_afv_blue_flag_captured	Прапор синіх захоплено
+3560	mpt_afv_your_flag_taken	Ваш прапор захоплено!
+3561	mpt_afv_red_flag_reset	Прапор червоних повернуто
+3562	mpt_afv_blue_flag_reset	Прапор синіх повернуто
+3563	mpt_afv_have_flag	Прапор у вас!
+3564	mpt_afv_rank_increase	Підвищення рангу
+3565	mpt_amv_5_min_left	Залишилося 5 хвилин.
+3566	mpt_amv_3_min_left	Залишилося 3 хвилини.
+3567	mpt_amv_1_min_left	Залишилася 1 хвилина.
+3578	mpt_amv_round_started	Раунд почався
+3579	mpt_amv_round_ended	Раунд закінчено
+3580	mpt_amv_game_start_in_15_sec	Гра почнеться за 15 секунд
+3581	mpt_amv_game_start_in_30_sec	Гра почнеться за 30 секунд
+3582	mpt_amv_game_start_in_1_min	Гра почнеться за 1 хвилину
+3583	mpt_amv_round_start_in_15_sec	Раунд почнеться за 15 секунд
+3584	mpt_amv_round_start_in_30_sec	Раунд почнеться за 30 секунд
+3585	mpt_amv_round_start_in_1_min	Раунд почнеться за 1 хвилину
+3586	mpt_amv_round_start_in	До початку раунду...
+3587	mpt_amv_game_started	Гра почалася.
+3588	mpt_amv_headshot	У голову!
+3589	mpt_amv_double_kill	Двоє вбитих!
+3590	mpt_amv_hat_trick	Троє вбитих!
+3591	mpt_amv_quadra_kill	Четверо вбитих!
+3592	mpt_amv_fury_kill	Убито багато людей!
+3593	mpt_amv_master_of_kill	Кривавий убивця
+3594	mpt_amv_killing_rage	Берсерк
+3595	mpt_amv_untouchable	Недоторканний
+3596	mpt_amv_mass_murdere	Серійний убивця
+3597	mpt_amv_grim_reaper	Втілення смерті
+3598	mpt_amv_new_king	У нас новий король!
+3599	mpt_amv_king_is_dead	Король мертвий!
+3600	mpt_amv_u_r_king	Ви стали королем!
+3601	mpt_amv_reset	Пристрій обнулено
+3602	mpt_amv_base_under_attack	Реактор під загрозою!
+3603	mpt_amv_successful_attack_launched	Успішна атака!
+3604	mpt_amv_enemy_reactor_ready	Реактор противника в критичному режимі.
+3605	mpt_amv_your_reactor_ready	Критичний режим реактора.
+3606	mpt_amv_enemy_reactor_30_ready	Перегрів реактора противника: 25%.
+3607	mpt_amv_your_reactor_30_ready	Перегрів реактора: 25%.
+3608	mpt_amv_enemy_reactor_50_ready	Перегрів реактора противника: 50%.
+3609	mpt_amv_your_reactor_50_ready	Перегрів реактора: 50%.
+3610	mpt_amv_enemy_reactor_75_ready	Перегрів реактора противника: 75%.
+3611	mpt_amv_your_reactor_75_ready	Перегрів реактора: 75%.
+3612	mpt_amv_enemy_reactor_90_ready	Перегрів реактора противника: 90%.
+3613	mpt_amv_your_reactor_90_ready	Перегрів реактора: 90%.
+3614	mpt_amv_time_resistance	Опір
+3615	mpt_amv_dmg_amp	Важкі пошкодження.
+3616	mpt_amv_you_ve_taken_lead	Ви лідируєте
+3617	mpt_amv_your_ve_lost_lead	Ви поступилися лідерством
+3618	mpt_amv_tie	Нічия
+3619	mpt_amv_tied	Ви зрівняли рахунок із лідером
+3620	mpt_amv_new_leader	Новий лідер
+3621	mpt_amv_red_team_takes_lead	Лідирує команда \"червоних\"
+3622	mpt_amv_tied_teams	Нічия
+3623	mpt_amv_blue_team_takes_lead	Лідирує команда \"синіх\"
+3624	mpt_amv_won_match	Ви виграли матч
+3625	mpt_amv_won_round	Ви виграли раунд
+3626	mpt_amv_lost_match	Ви програли матч
+3627	mpt_amv_lost_round	Ви програли раунд
+3628	mpt_amv_red_team_wins_round	Раунд виграли \"червоні\"
+3629	mpt_amv_red_team_wins_match	Матч виграли \"червоні\"
+3630	mpt_amv_blue_team_wins_round	Раунд виграли \"сині\"
+3631	mpt_amv_blue_team_wins_match	Матч виграли \"сині\"
+3632	mpt_amv_overtime	Час минув
+3633	mpt_amv_sudden_death	Раптова смерть
+3634	mpt_amv_time_sphere_reset	Сферу часу відновлено

@@ -1,0 +1,568 @@
+1064	UI_EXIT_MAIN_CONFIRM_DEMO	Перейти до головного меню? Усі ігрові досягнення буде втрачено.
+1065	UI_MSG_DEMO_END	Демоверсію завершено
+1066	UI_MSG_CHECKPOINT_REACHED	Контрольна точка
+1067	UI_GAME_OVERWRITE_CONFIRM	Перезаписати збережену гру?
+1068	UI_OVERWRITE_CONFIRM_CAP	ЗБЕРЕЖЕННЯ ГРИ
+1069	UI_GAME_LOST_CONFIRM	Завантажити гру? Усі незбережені досягнення буде втрачено.
+1070	UI_LOST_CONFIRM_CAP	ЗАВАНТАЖЕННЯ ГРИ
+1071	UI_MULTI_DEFAULTS_CONFIRM	Відновити параметри \nколективної гри за замовчуванням?
+1072	UI_PROFILE_DELETE_SAVES_CONFIRM	Видалити збережені ігри \nдля цього облікового запису?
+1073	UI_REPLAY_CONFIRM	Почати проходження демоверсії знову? Усі досягнення буде втрачено.
+1074	UI_SAVE_RESULT_OK	Гру збережено
+1075	UI_SAVE_RESULT_ERROR	Не вдалося зберегти гру
+1076	UI_SAVE_RESULT_ERROR_NO_SPACE	Не вдалося зберегти гру. На вибраному носії даних недостатньо місця.
+1077	UI_SAVE_RESULT_ERROR_NO_SPACE_PS3	Не вдалося зберегти гру. На жорсткому диску недостатньо місця.
+1078	UI_LOAD_RESULT_ERROR	Не вдалося завантажити гру
+1079	UI_RESUME_RESULT_ERROR	Не вдалося продовжити гру
+1080	UI_WAIT_LOADING	Завантаження списку файлів збереження. Зачекайте.
+1081	UI_WAIT_LOADING_DLC	Завантаження списку додаткових матеріалів
+1082	UI_WAIT_SEARCH	Пошук останнього файлу збереження. Зачекайте.
+1083	UI_MSG_DEMO_END_1_1	Повстання триватиме у 2007 році
+1084	UI_MSG_DEMO_END_1_2	- Мистецтво хроноконтролю: навчіться сповільнювати й зупиняти час, а також повертати його назад!
+1085	UI_MSG_DEMO_END_1_3	- Різноманітні ландшафти, що змінюються в реальному часі!
+1086	UI_MSG_DEMO_END_1_4	- 9 видів зброї з двома режимами вогню!
+1087	UI_MSG_DEMO_END_2_2	- До 16 користувачів в одній грі.
+1088	UI_MSG_DEMO_END_2_3	- 14 карт і безліч різноманітних модифікацій.
+1089	UI_MSG_DEMO_END_2_4	- Нові режими колективної гри \"Катастрофа\", \"Король часу\" і \"Дуель\", а також класичні \"Кожен сам за себе\", \"Командний бій\" і \"Захоплення прапора\".
+1090	UI_MSG_DEMO_END_2_5	Щоб отримати додаткову інформацію та ексклюзивні пропозиції, відвідайте вебсайт www.timeshiftgame.com.
+1091	UI_MSG_DEMO_END_2_6	© 2007 Sierra Entertainment, Inc. Усі права захищено. Розробник - Saber Interactive. Назви TimeShift, Sierra та логотип Sierra є зареєстрованими товарними знаками або товарними знаками Sierra Entertainment, Inc. у США та/або інших країнах. Усі інші товарні знаки належать відповідним власникам.
+1092	UI_MSG_DEMO_END_2_6_XENON	© 2007 Sierra Entertainment, Inc. Усі права захищено. Розробник - Saber Interactive. Назви TimeShift, Sierra та логотип Sierra є зареєстрованими товарними знаками або товарними знаками Sierra Entertainment, Inc. у США та/або інших країнах. Назви Microsoft, Xbox, Xbox 360, Xbox LIVE і відповідні логотипи є зареєстрованими товарними знаками або товарними знаками групи компаній Microsoft. Усі інші товарні знаки належать відповідним власникам.
+1093	UI_LOGOUT_MSG	Статус змінено. Вихід до головного меню.
+1094	UI_LOGOUT_MSG_PS3	Ви вийшли з PLAYSTATION®Network. Зараз ви повернетеся до головного меню.
+1095	UI_LOGOUT_CAP	Статус змінено.
+1096	UI_WO_PROFILE_CONFIRM	Обліковий запис не вибрано. Після завершення гри всі досягнення й параметри буде втрачено. Продовжити?
+1097	UI_STORAGE_WAIT	Очікування вибраного носія даних...
+1098	UI_WO_STORAGE_CONFIRM	Носій даних недоступний. Збереження неможливе. Вибрати інший носій?
+1099	UI_WO_STORAGE_CONFIRM_PS3	Не вдалося зберегти гру. Продовжити без збереження?
+1100	UI_WO_SPACE_CONFIRM	На вибраному носії даних недостатньо місця для збереження гри. Вибрати інший носій?
+1101	UI_WO_SPACE_CONFIRM_PS3	Не вдалося зберегти гру. На жорсткому диску недостатньо місця. Бажаєте видалити старі збережені ігри?
+1102	UI_WO_STORAGE_START	Не вибрано носій даних. Продовжити без збереження?
+1103	UI_WO_STORAGE_USER_NEW	Щоб зберегти гру, потрібно вибрати носій даних. Зробити це зараз?
+1104	UI_MSG_DEMO_ON	Режим демонстрації увімкнено.
+1105	UI_MSG_DEMO_OFF	Режим демонстрації вимкнено.
+1106	UI_MSG_STORAGE	Вибраний носій даних недоступний. Виберіть інший пристрій або скасуйте збереження.
+1107	UI_MSG_STORAGE_NEW	Носій даних не вибрано. Ви можете вибрати його зараз або продовжити без збереження.
+1108	UI_MSG_SAVES_MAXNUM	Кількість файлів автозбереження обмежена (255). Можливий перезапис старих файлів.
+1109	UI_MSG_GAME_PAUSED	Пауза
+1110	UI_MSG_NEWGAME_CONFIRM	На початку нової гри останній файл автозбереження буде перезаписано. Продовжити?
+1111	UI_MSG_NEWLEVEL_CONFIRM	Під час повторного проходження епізоду останній файл автозбереження буде перезаписано. Продовжити?
+1116	UI_SAVE_CONFIRM_CAP	ПІДТВЕРДЬТЕ ЗБЕРЕЖЕННЯ
+1117	UI_SAVE_CONFIRM	Перезаписати збережену гру? \n%s
+1118	UI_DELETE_CONFIRM_CAP	ПІДТВЕРДЬТЕ ВИДАЛЕННЯ
+1119	UI_DELETE_CONFIRM	Видалити збережену гру\n%s?
+1120	UI_QUICKSAVE	Швидке збереження
+1121	UI_AUTOSAVE	Автозбереження
+1123	UI_MSG_BROKEN_SAVE	Файл пошкоджено
+1124	UI_MSG_LOAD_FAILED	Помилка завантаження
+1125	UI_MSG_RESUME_FAILED_DAMAGED	Неможливо продовжити гру: файл пошкоджено.
+1126	UI_MSG_RESUME_FAILED_NO_DEVICE	Неможливо продовжити гру: носій даних недоступний.
+1128	UI_MSG_LOAD_FAILED_DAMAGED	Завантаження неможливе: збережену гру пошкоджено.
+1129	UI_MSG_LOAD_FAILED_NO_DEVICE	Завантаження неможливе: носій даних недоступний.
+1131	UI_MSG_RESUME_FAILED_NO_LASTSAVE	Неможливо продовжити гру: останню збережену гру не знайдено.
+1132	UI_ADV_SERVER_SERVERNAME	Назва сервера
+1133	UI_ADV_SERVER_USE_MAP_LIST	Список карт
+1134	UI_ADV_SERVER_RECOMMENDED_PLAYERS	Рекомендована кількість гравців: %d1 - %d2.
+1135	UI_ADVSERV_GAME_MODE	Режим гри
+1136	UI_ADVSERV_LOCATION	Карта
+1137	UI_ADVSERV_MAX_PLAYERS	Макс. гравців
+1138	UI_ADVSERV_MIN_PLAYERS	Мін. гравців
+1139	UI_ADVSERV_PRIVATE_SLOTS	Макс. закритих слотів
+1140	UI_ADVSERV_PUBLIC_SLOTS	Макс. відкритих слотів
+1141	UI_ADVSERV_MAX_SPECTATORS	Макс. глядачів
+1142	UI_ADVSERV_MAX_SPECTATORS_HINT	Допустима кількість глядачів гри.
+1143	UI_ADVSERV_TIMELIMIT	Макс. час
+1144	UI_ADVSERV_TIMELIMIT_NONE	Ні
+1145	UI_ADVSERV_TIMELIMIT_HINT	Тривалість гри.
+1146	UI_ADVSERV_FRAGLIMIT	Ліміт жертв
+1147	UI_ADVSERV_FRAGLIMIT_NONE	Ні
+1148	UI_ADVSERV_FRAGLIMIT_HINT	Кількість жертв, потрібна для перемоги.
+1149	UI_ADVSERV_SCORELIMIT	Макс. рахунок
+1150	UI_ADVSERV_ROUNDS_TO_WIN	Раундів для перемоги
+1151	UI_ADVSERV_PASSWORD	Пароль
+1152	UI_ADVSERV_SCORELIMIT_NONE	Ні
+1153	UI_ADVSERV_GOAD	Невразливість після відродження (сек.)
+1154	UI_ADVSERV_GOAD_NONE	Ні
+1155	UI_ADVSERV_ALLOW_HEALTH	Здоров'я
+1156	UI_ADVSERV_ALLOW_ARMOR	Захист
+1157	UI_ADVSERV_DIFFICULTY	Складність
+1158	UI_ADVSERV_DIFF_0	Новачок
+1159	UI_ADVSERV_DIFF_1	Боєць
+1160	UI_ADVSERV_DIFF_2	Ветеран
+1161	UI_ADVSERV_UNLIMITED_AMMO	Необмежений боєзапас
+1162	UI_ADVSERV_FRIENDLY_FIRE	Шкода своїм
+1163	UI_ADVSERV_KEEPITEMS	Розподіл предметів
+1164	UI_ADVSERV_CUR_PLAYERS	Кількість гравців
+1165	UI_CREATE_SERVER_DEDICATED_MODE	Виділений сервер
+1166	UI_CREATE_SERVER_MODE_NORMAL	Так
+1167	UI_CREATE_SERVER_MODE_DEDICATED	Ні
+1168	UI_ADVSERVER_ITEMS_ONE	Один гравець
+1169	UI_ADVSERVER_ITEMS_ALL	Усі гравці
+1170	UI_SERVER_DETAILED_INFO	ДОКЛАДНІШЕ
+1171	UI_SERVER_SETTINGS_INFO	Параметри сервера
+1172	UI_SERVER_GAMEPLAY_INFO	Ігровий процес
+1173	UI_SERVER_BONUS_INFO	Призи
+1174	UI_SERVER_PHYSICS_INFO	Фізика
+1175	UI_SERVER_TIME_INFO	Час
+1176	UI_VIEW_MAP	КАРТА
+1177	UI_JOIN_SERVER_WAIT	Приєднання до гри. Зачекайте...
+1178	UI_JOIN_INFO_CONNECTION_TESTING	Перевірка...
+1179	UI_CREATE_SERVER_WAIT	Створення гри. Зачекайте...
+1180	UI_SEARCH_SERVER_WIAT	Пошук ігор. Зачекайте...
+1181	UI_SEARCH_NO_RESULT	Ігор не знайдено. Створити нову гру?
+1182	UI_LOGON_WAIT	Вхід у систему. Зачекайте...
+1183	UI_LOGON_LIVE_WAIT	Вхід в Xbox LIVE. Зачекайте...
+1184	UI_SERVER_SLOT_ERROR	У грі має бути щонайменше 2 вільні слоти.
+1185	UI_SERVER_SLOT_MAX_ERROR	Загальна кількість слотів перевищує максимальну кількість учасників для вибраного режиму гри.
+1186	UI_SERVER_CANT_APPLY_GRAVITY	Увага: на цій карті недоступний модифікатор \"Низька гравітація\".
+1187	UI_SERVER_CANT_APPLY_SLOW	Увага: модифікатор \"Смерть у часі\" недоступний у режимі \"Король часу\".
+1188	UI_SERVER_CANT_APPLY_SLOW_TIME_CONTROL	Увага: модифікатор \"Смерть у часі\" несумісний з поточними параметрами гри.
+1189	UI_SERVER_CANT_APPLY_GAME_TYPE	Модифікатор несумісний з вибраним набором правил.
+1190	UI_DELETE_ALL_MODIFIERS_HINT	Вимкнути всі модифікатори
+1191	UI_MOVE_ARROW_UP	Перемістити карту вгору за списком
+1192	UI_MOVE_ARROW_DOWN	Перемістити карту вниз за списком
+1193	UI_DELETE_ALL_MAPS_HINT	Видалити всі карти
+1194	UI_SERVER_MAP_PLAYERS	Рекомендована кількість гравців:
+1195	UI_SERVER_INVALID_PASSWORD	Неправильний пароль
+1196	UI_SERVER_PASSWORD_ENTER	Введіть пароль
+1197	UI_SERVER_NO_MAP_SELECTED	Ви не вибрали жодної карти
+1198	UI_SERVER_TEAM_SAY	Командне спілкування
+1199	UI_SERVER_ENTER_IP	Адреса сервера
+1200	UI_SERVER_ENTER_PORT	Порт сервера
+1201	UI_SERVER_ENTER_ADDRESS	Адреса
+1202	UI_CHAT_PULBIC	(спілкування)
+1203	UI_CHAT_TEAM	(повідомлення команді)
+1204	UI_CHAT_SPECTATOR	(повідомлення глядачам)
+1205	UI_MUSIC_VOLUME	Гучність музики
+1206	UI_VOICE_VOLUME	Гучність голосу
+1207	UI_EFFECTS_VOLUME	Гучність ефектів
+1208	UI_SFX_VOLUME	ГУЧНІСТЬ ЕФЕКТІВ
+1209	UI_REVERSESTEREO	Інверсія стерео
+1210	UI_EAX	Луна
+1211	UI_HWMIXING	Апаратна обробка
+1212	UI_MUSIC_5_1	Музика 5.1
+1213	UI_SFX_MUTE	Вимкнути
+1214	UI_MUSIC_VOLUME_HINT	Регулювання гучності музики.
+1215	UI_VOICE_VOLUME_HINT	Регулювання гучності мовлення.
+1216	UI_EFFECTS_VOLUME_HINT	Регулювання гучності ефектів.
+1217	UI_SFX_VOLUME_HINT	Регулювання гучності ефектів.
+1218	UI_REVERSESTEREO_HINT	Перемикання правого й лівого стереоканалів.
+1219	UI_EAX_HINT	Увімкнення й вимкнення ефектів луни.
+1220	UI_HWMIXING_HINT	Апаратне прискорення обробки звуку.
+1221	UI_MUSIC_5_1_HINT	Відтворення музики у форматі 5.1.
+1222	UI_PHYSIC_GROUP	Фізика
+1223	UI_DAMAGE_GROUP	Шкода
+1224	UI_WEAPON_GROUP	Зброя
+1225	UI_GAMEPLAY_GROUP	Ігровий процес
+1226	UI_ROUND_SYSTEM_GROUP	Раунди
+1227	UI_MISC_GROUP	Інше
+1228	UI_PLAYER_GROUP	Гравець
+1229	UI_ITEM_GROUP	Предмети
+1230	UI_TIME_CONTROL_GROUP	Хроноконтроль
+1231	UI_FORCE_RESPAWN	Примус. відродження
+1232	UI_DEAD_TIME_MAX	Макс. час смерті
+1233	UI_DEAD_TIME_EVER	Вічно
+1234	UI_RESPAWN_DELAY	Затримка смерті
+1235	UI_RESPAWN_PROTECTION	Захист відродження
+1236	UI_TIME_CONTROL	Хроноконтроль
+1237	UI_PLAYER_TIME_ENERGY	Енергія часу
+1238	UI_WARMUP	Підготовка
+1239	UI_WARMUP_TIME	Час підготовки
+1240	UI_READY_SYSTEM	Система готовності
+1241	UI_WEAPONS_STAY	Постійні предмети
+1242	UI_START_WEAPON1	Початкова зброя 1
+1243	UI_START_WEAPON2	Початкова зброя 2
+1244	UI_START_WEAPON3	Початкова зброя 3
+1245	UI_START_PROJECTILES	Початкові гранати-липучки
+1246	UI_START_WASP	Початкові рій-гранати
+1247	UI_ROUND_SYSTEM	Система раундів
+1248	UI_BONUS_LIVE	Додаткові життя
+1249	UI_FRIENDLY_FIRE	Шкода своїм
+1250	UI_ROUNDS_COUNT	Кількість раундів
+1251	UI_ROUND_TIME	Макс. тривалість раундів
+1252	UI_ROUND_SWITCH_TIME	Перерва між раундами
+1253	UI_BIG_SHIELD	Червоний захист
+1254	UI_BIG_SHIELD_RESPAWN	Відновлення червоного захисту
+1255	UI_SMALL_SHIELD	Жовтий захист
+1256	UI_SMALL_SHIELD_RESPAWN	Відновлення жовтого захисту
+1257	UI_DMG_AMP	Підсилювач шкоди
+1258	UI_TIME_RESISTANCE	Хронозахист
+1259	UI_TIME_RESISTANCE_RESPAWN	Відновлення хронозахисту
+1260	UI_TIME_ENERGY_PACKS	Накопичувачі енергії
+1261	UI_MAX_LIVES	Макс. життів
+1262	UI_ERROR_GAME_TYPE_WEAPON	Початкова зброя має бути різною. Замініть об'єкт: {STRING}.
+1263	UI_ASK_GAME_TYPE_RESET	Усі незбережені зміни правил буде втрачено. Завантажити стандартні правила?
+1264	UI_ASK_GAMETYPE_RESET	Відновити стандартні правила?
+1265	UI_GAME_TYPE_NAME	Час:
+1266	UI_OVER_TIME_TYPE	Дод. час
+1267	UI_OVER_TIME_DURATION	Тривалість дод. часу
+1268	UI_RADAR_ON	Радар
+1269	UI_RADAR_FRIENDLY	Свої
+1270	UI_RADAR_ALL	Усі
+1271	UI_HIT_SOUND	Звук при влучанні
+1272	UI_NO_OVERTIME	Без дод. часу
+1273	UI_OVER_TIME	Дод. час
+1274	UI_SUDDEN_DEATH	Раптова смерть
+1275	UI_AUTOBALANCE	Автобаланс
+1276	UI_AUTOBALANCE_SIMPLE	Простий
+1277	UI_AUTOBALANCE_SMART	Складний
+1278	UI_RESET_ROUND	Скидання на початку раунду
+1279	UI_TIME_SEC	{STRING} сек.
+1280	UI_TIME_MIN	{STRING} хв.
+1281	UI_GAME_TYPE_CUSTOM	Нестандартні правила
+1282	UI_GAME_MODE_CUSTOM	Нестандартний режим
+1283	UI_GAME_MODE_HINT	Один із заздалегідь заданих режимів.
+1284	UI_BTN_GAME_SETTINGS_HINT	Параметри гравця
+1285	UI_BTN_WARMUP_SETTINGS_HINT	Перед початком гри відводиться час на підготовку, протягом якого гравці можуть тренуватися без нарахування очок.
+1286	UI_BTN_WEAPONS_SETTINGS_HINT	Параметри зброї.
+1287	UI_BTN_ROUNDS_SETTINGS_HINT	Параметри раунду (лише в командних режимах гри, команда отримує очки лише за перемогу).
+1288	UI_BTN_ITEMS_SETTINGS_HINT	Параметри предметів.
+1289	UI_FORCE_RESPAWN_HINT	Час, протягом якого гравець може залишатися мертвим до примусового відродження.
+1290	UI_RESPAWN_DELAY_HINT	Час, до завершення якого гравець не зможе відродитися.
+1291	UI_RESPAWN_PROTECTION_HINT	Час, протягом якого відроджений гравець залишається невразливим.
+1292	UI_TIME_CONTROL_HINT	Зони керування часом і хроногранати
+1293	UI_PLAYER_TIME_ENERGY_HINT	Завдяки енергії часу ви можете кидати хроногранати.
+1294	UI_SWARMGUN_MP_HINT	Дозвіл використовувати цю зброю в грі.
+1295	UI_BIG_SHIELD_HINT	Доступність червоного захисту. Гравець, який підібрав цей предмет, отримує додатковий захист.
+1296	UI_BIG_SHIElD_VALUE_HINT	Ефективність жовтого захисту.
+1297	UI_BIG_SHIELD_RESPAWN_HINT	Час відновлення жовтого захисту.
+1298	UI_SMALL_SHIELD_HINT	Доступність жовтого захисту. Гравець, який підібрав цей предмет, отримує додатковий захист.
+1299	UI_SMALL_SHIELD_VALUE_HINT	Ефективність червоного захисту.
+1300	UI_SMALL_SHIELD_RESPAWN_HINT	Час відновлення червоного захисту.
+1301	UI_TIME_RESISTANCE_VALUE_HINT	Час дії хронозахисту.
+1302	UI_TIME_RESISTANCE_RESPAWN_HINT	Час відновлення хронозахисту.
+1303	UI_TIME_RESISTANCE_HINT	Доступність хронозахисту. Гравець, який підібрав такий захист, невразливий для будь-яких ефектів хронозсуву.
+1304	UI_WASP_GRENADE_VALUE_HINT	Запас енергії в накопичувачі.
+1305	UI_WASP_GRENADE_RESPAWN_HINT	Час відновлення накопичувачів енергії.
+1306	UI_TIME_ENERGY_PACKS_HINT	Доступність накопичувачів, що дають змогу поповнити запас енергії часу.
+1307	UI_DMG_AMP_HINT	Доступність підсилювачів шкоди. Гравець, який підібрав такий підсилювач, завдає більшої шкоди з будь-якої зброї.
+1308	UI_ROUNDS_COUNT_HINT	Максимальна кількість раундів за гру.
+1309	UI_ROUND_TIME_HINT	Максимальна тривалість раундів.
+1310	UI_ROUND_SWITCH_TIME_HINT	Тривалість перерви між раундами.
+1311	UI_WARMUP_TIME_HINT	Час на підготовку, протягом якого не нараховуються очки.
+1312	UI_READY_SYSTEM_HINT	Гра починається, коли всі гравці заявляють про свою готовність.
+1313	UI_WEAPONS_STAY_HINT	Зброя і предмети миттєво відновлюються.
+1314	UI_START_WEAPON1_HINT	Початкова зброя в слоті 1.
+1315	UI_START_WEAPON2_HINT	Початкова зброя в слоті 2.
+1316	UI_START_WEAPON3_HINT	Початкова зброя в слоті 3.
+1317	UI_START_PROJECTILES_HINT	Кількість гранат-липучок на початку гри.
+1318	UI_FRIENDLY_FIRE_HINT	Завдання шкоди дружнім військам.
+1319	UI_MAX_LIVES_HINT	Максимальна кількість життів.
+1320	UI_WARMUP_HINT	Увімкнення й вимкнення системи підготовки.
+1321	UI_START_WASP_HINT	Кількість рій-гранат на початку гри.
+1322	UI_ROUND_SYSTEM_HINT	Увімкнення й вимкнення системи раундів.
+1323	UI_BTN_MISC_SETTINGS_HINT	Додаткові параметри.
+1324	UI_BTN_ARMOR_SETTINGS_HINT	Параметри захисту.
+1325	UI_BTN_TIME_SETTINGS_HINT	Налаштування параметрів енергії.
+1326	UI_OVER_TIME_TYPE_HINT	Увімкнення й вимкнення додаткового часу.
+1327	UI_OVER_TIME_DURATION_HINT	Тривалість додаткового часу в разі нічиєї.
+1328	UI_RADAR_ON_HINT	Увімкнення й вимкнення радара.
+1329	UI_HIT_SOUND_HINT	Відтворення звуку при влучанні в противника.
+1330	UI_RESET_ROUND_HINT	Якщо цей параметр вимкнено, гравці зберігають підібрані предмети під час переходу до наступного раунду.
+1331	UI_AUTOBALANCE_HINT	Система автобалансу допомагає забезпечити чесну гру.
+1332	UI_GT_DM	Кожен сам за себе.
+1333	UI_GT_TDM	Перемагає команда з максимальною кількістю жертв.
+1334	UI_GT_KOT	Гравець, який узяв сферу часу, стає королем часу, невразливим для хроноефектів.
+1335	UI_GT_STM	Щоб вивести машину суперника з ладу, киньте в неї хроногранату. Перемагає команда, машина якої завершить зворотний відлік.
+1336	UI_GT_LMS	Кількість ваших життів обмежена. Щоб перемогти, залишайтеся живими якомога довше.
+1337	UI_GT_TA	Поєднання режимів \"Командний бій\" і \"Виживання\".
+1338	UI_GT_1V1	Смертельна битва один на один!
+1339	UI_GT_CTF	Заберіть прапор противника й віднесіть його на свою базу.
+1340	UI_MODIFIER_CREATE	Введіть назву шаблону
+1341	UI_ONLY_WEAPON	Обмеження зброї
+1342	UI_DAMAGE_SCALE	Потужність зброї
+1343	UI_DAMAGE_SELF_SCALE	Шкода собі
+1344	UI_DAMAGE_BALANCE	Баланс захисту
+1345	UI_DAMAGE_SLOWED	Шкода в часовому полі
+1346	UI_HEALTH_START	Початкове здоров'я
+1347	UI_HEALTH_REGENERATION	Відновлення здоров'я
+1348	UI_REGENERATION_LIMIT	Ліміт відновлення
+1349	UI_REGENERATION_STRENGTH	Швидкість відновлення
+1350	UI_DECREASING	Зменшення
+1351	UI_DECREASING_LIMIT	Ліміт зменшення
+1352	UI_DECREASING_STRENGTH	Швидкість зменшення
+1353	UI_ARMOR_START	Початковий захист
+1354	UI_ARMOR_REGENERATION	Відновлення захисту
+1355	UI_ARMOR_REGENERATION_LIMIT	Ліміт відновлення
+1356	UI_ARMOR_REGENERATION_STRENGTH	Швидкість відновлення
+1357	UI_ARMOR_DECREASING	Зменшення
+1358	UI_ARMOR_DECREASING_LIMIT	Ліміт зменшення
+1359	UI_ARMOR_DECREASING_STRENGTH	Швидкість зменшення
+1360	UI_TIME_START	Початкова енергія
+1361	UI_ENERGY_REGENERATION	Відновлення енергії
+1362	UI_ENERGY_REGENERATION_LIMIT	Ліміт відновлення
+1363	UI_TIME_REGENERATION_STRENGTH	Швидкість відновлення
+1364	UI_TIME_DECREASING	Зменшення
+1365	UI_TIME_DECREASING_LIMIT	Ліміт зменшення
+1366	UI_TIME_DECREASING_STRENGTH	Швидкість зменшення
+1367	UI_SPEED_MULTIPLIER	Швидкість переміщення
+1368	UI_JUMP_HEIGHT	Висота стрибка
+1369	UI_GRAVITATION_STRENGTH	Гравітація
+1370	UI_BONUS_HEALTH	Здоров'я за вбивство
+1371	UI_BONUS_ARMOR	Захист за вбивство
+1372	UI_BONUS_TIME	Енергія за вбивство
+1373	UI_BONUS_LIVE_MOD	Дод. життя за вбивство
+1374	UI_MODIFIER_NAME	Назва:
+1375	UI_ASK_MODIFIER_BACK	Усі незбережені зміни шаблону буде втрачено. Продовжити?
+1376	UI_ASK_MODIFIER_PART_BACK	Останні зміни шаблону буде втрачено. Продовжити?
+1377	UI_ASK_MODIFIER_CANCEL	Скасування шаблону
+1378	UI_ASK_MODIFIER_RESET	Відновити стандартні параметри шаблону?
+1379	UI_ERROR_MODIFIER_RENAME	Ви не можете перейменувати стандартний шаблон.
+1380	UI_ASK_MODIFIER_DELETE	Видалити цей шаблон?
+1381	UI_ERROR_MODIFIER_DELETE	Ви не можете видалити стандартний шаблон.
+1382	UI_ERROR_MODIFIER_ADD	Не вдалося додати шаблон із цією назвою.
+1383	UI_ERROR_MODIFIER_NAME	Назва шаблону неприпустима або вже використовується. Введіть іншу назву.
+1384	UI_ERROR_MERGE_FAILED	Цей шаблон несумісний з попереднім.
+1385	UI_CUSTOM_MODIFIER	Нестандартний шаблон
+1386	UI_BTN_WEAPONS_HINT	Зміна параметрів зброї.
+1387	UI_BTN_PLAYER_SETTINGS_HINT	Зміна параметрів гравця.
+1388	UI_BTN_PHYSICS_HINT	Зміна параметрів фізичної моделі.
+1389	UI_BTN_BONUSES_HINT	Зміна призів за вбивство противника.
+1390	UI_BONUS_HEALTH_HINT	Збільшення запасу здоров'я за вбивство противника.
+1391	UI_BONUS_ARMOR_HINT	Посилення захисту за вбивство противника.
+1392	UI_BONUS_TIME_HINT	Збільшення запасу енергії за вбивство противника.
+1393	UI_BONUS_LIVE_MOD_HINT	Додаткові життя за вбивство противника.
+1394	UI_SPEED_MULTIPLIER_HINT	Швидкість переміщення всіх гравців.
+1395	UI_JUMP_HEIGHT_HINT	Максимальна висота стрибка гравців.
+1396	UI_GRAVITATION_STRENGTH_HINT	Вплив гравітації на гравців.
+1397	UI_HEALTH_START_HINT	Запас здоров'я на початку гри.
+1398	UI_HEALTH_REGENERATION_HINT	Тип і швидкість відновлення здоров'я.
+1399	UI_REGENERATION_LIMIT_HINT	Максимальний запас здоров'я після відновлення.
+1400	UI_REGENERATION_STRENGTH_HINT	Швидкість відновлення здоров'я.
+1401	UI_DECREASING_HINT	Зменшення запасу здоров'я.
+1402	UI_DECREASING_LIMIT_HINT	Мінімальний запас здоров'я при зменшенні.
+1403	UI_DECREASING_STRENGTH_HINT	Швидкість зменшення запасу здоров'я.
+1404	UI_ARMOR_START_HINT	Захист на початку гри.
+1405	UI_ARMOR_REGENERATION_HINT	Тип і швидкість відновлення захисту.
+1406	UI_ARMOR_REGENERATION_LIMIT_HINT	Максимальний захист після відновлення.
+1407	UI_ARMOR_REGENERATION_STRENGTH_HINT	Швидкість відновлення захисту.
+1408	UI_ARMOR_DECREASING_HINT	Зменшення захисту.
+1409	UI_ARMOR_DECREASING_LIMIT_HINT	Мінімальний захист при зменшенні.
+1410	UI_ARMOR_DECREASING_STRENGTH_HINT	Швидкість зменшення захисту.
+1411	UI_TIME_START_HINT	Запас енергії на початку гри. ПРИМІТКА: недоступно при вимкненому хроноконтролі.
+1412	UI_ENERGY_REGENERATION_HINT	Тип і швидкість відновлення здоров'я. ПРИМІТКА: недоступно при вимкненому хроноконтролі.
+1413	UI_ENERGY_REGENERATION_LIMIT_HINT	Максимальний запас здоров'я після відновлення. ПРИМІТКА: недоступно при вимкненому хроноконтролі.
+1414	UI_TIME_REGENERATION_STRENGTH_HINT	Швидкість відновлення здоров'я.
+1415	UI_TIME_DECREASING_HINT	Зменшення запасу енергії.
+1416	UI_TIME_DECREASING_LIMIT_HINT	Мінімальний запас енергії при зменшенні.
+1417	UI_TIME_DECREASING_STRENGTH_HINT	Швидкість зменшення запасу енергії.
+1418	UI_BONUS_LIVE_HINT	Додавання 1 життя за вбивство кожного противника.
+1419	UI_ONLY_WEAPON_HINT	Використання лише одного виду зброї.
+1420	UI_DAMAGE_SCALE_HINT	Зміна шкоди, яку завдає зброя.
+1421	UI_DAMAGE_SELF_SCALE_HINT	Зміна шкоди, яку гравець може завдати сам собі.
+1422	UI_DAMAGE_BALANCE_HINT	Відсоток шкоди, що поглинається захистом
+1423	UI_DAMAGE_SLOWED_HINT	Шкоду можна завдавати лише гравцям, які перебувають у часовому полі. ПРИМІТКА: недоступно при вимкненому хроноконтролі.
+1424	UI_FRAME_PRESETS	Шаблони
+1425	UI_PRESETS_SELECT	Шаблон
+1426	UI_FRAME_MATCHSERVER	Пошук
+1427	UI_MATCHSERVER_TYPE	Тип
+1428	UI_MATCHSERVER_PLAYERS	Макс. гравців
+1429	UI_MATCHSERVER_ALL	Усі
+1430	UI_MATCHSERVER_TEAM	Команди
+1431	UI_MATCHSERVER_NONTEAM	Кожен сам за себе
+1432	UI_MATCHSERVER_STANDARD	Стандартні
+1433	UI_MATCHSERVER_ANY	Будь-які
+1434	UI_MATCHSERVER_GAMETYPES	Набори правил
+1435	UI_RANKED	Рейтингові
+1436	UI_NONRANKED	ЗВИЧАЙНА ГРА
+1437	UI_BTN_MATCHSERVER_FIND	ПОШУК
+1438	UI_MATCHSERVER_QUICK	ШВИДКИЙ ПОШУК
+1439	UI_MATCHSERVER_CUSTOM_SEL	Звичайні
+1440	UI_MATCHSERVER_STANDARD_SEL	Стандартні
+1441	UI_MATCHSERVER_CLASSIC_SEL	Класичні
+1442	UI_MATCHSERVER_REQUIRE	Потрібно
+1443	UI_MATCHSERVER_ALLOW	Допускається
+1444	UI_MATCHSERVER_TYPE_HINT	Рейтинговий або звичайний сервер
+1445	UI_MATCHSERVER_PLAYERS_HINT	Максимум гравців на сервері
+1446	UI_MATCHSERVER_GAMETYPES_HINT	Набір правил, що діють на сервері
+1447	UI_MATCHSERVER_MODIFIERS_HINT	Шаблон, вибраний на сервері
+1448	UI_MATCHSERVER_GAMEMODE_HINT	Режим гри, вибраний на сервері
+1449	GAME_LEVEL_COMPLETE	Епізод завершено. Натисніть {PARAM}, щоб перейти до наступного епізоду.
+1450	GAME_LEVEL_COMPLETE_PC	Епізод завершено. Натисніть {PARAM}, щоб перейти до наступного епізоду.
+1451	GAME_LEVEL_COMPLETE_PS3	Епізод завершено. Натисніть {PARAM}, щоб перейти до наступного епізоду.
+1452	GAME_WAIT_FOR_SERVER	Очікування сервера.
+1453	UI_JOIN_SERVER_CONTACTED	Зв'язок встановлено. Очікування відповіді.
+1454	GAME_WAIT_FOR_SERVER_REPLY	Очікування відповіді сервера... {STRING}
+1455	GAME_LEVEL_FINISHED	Гру закінчено. Перегляд статистики... {STRING}
+1456	GAME_RANKED_FINISHED	Гру закінчено. Перегляд статистики... {STRING}\nНатисніть {PARAM}, щоб вийти до головного меню.
+1457	GAME_LEVEL_RESTARTING_MAP	Нова гра... {STRING}
+1458	GAME_LEVEL_SWITCHING	Зміна карти... {STRING}
+1459	GAME_LEVEL_RESTART_SERVER	Нова гра... {STRING}\nНатисніть {PARAM}, щоб почати гру вручну
+1460	GAME_LEVEL_RESTART_SERVER_PC	Нова гра... {STRING}\nНатисніть {PARAM}, щоб почати гру вручну
+1461	GAME_LEVEL_RESTART_SERVER_PS3	Нова гра... {STRING}\nНатисніть {PARAM}, щоб почати гру вручну
+1462	GAME_LEVEL_SWITCH_SERVER	Зміна карти... {STRING}\nНатисніть {PARAM}, щоб змінити карту вручну
+1463	GAME_LEVEL_SWITCH_SERVER_PC	Зміна карти... {STRING}\nНатисніть {PARAM}, щоб змінити карту вручну
+1464	GAME_LEVEL_SWITCH_SERVER_PS3	Зміна карти... {STRING}\nНатисніть {PARAM}, щоб змінити карту вручну
+1465	GAME_LEVEL_NEW_SETTINGS	Нові параметри набули чинності
+1466	GAME_SPAM_PROTECTION	Захист від зловживань! Зачекайте {STRING} сек.
+1467	GAME_OVER	Гру закінчено. Натисніть {PARAM}, щоб вийти до меню.
+1468	GAME_OVER_PC	Гру закінчено. Натисніть {PARAM}, щоб вийти до меню.
+1469	GAME_OVER_PS3	Гру закінчено. Натисніть {PARAM}, щоб вийти до меню.
+1470	GAME_OVER_SERVER	Гру закінчено. Натисніть {PARAM}, щоб завантажити наступну карту.
+1471	GAME_OVER_SERVER_PC	Гру закінчено. Натисніть {PARAM}, щоб завантажити наступну карту.
+1472	GAME_OVER_SERVER_PS3	Гру закінчено. Натисніть {PARAM}, щоб завантажити наступну карту.
+1473	GAME_OVER_SERVER_PROCEED	Гру закінчено. Натисніть {PARAM}, щоб продовжити.
+1474	GAME_OVER_SERVER_PROCEED_PC	Гру закінчено. Натисніть {PARAM}, щоб продовжити.
+1475	GAME_OVER_SERVER_PROCEED_PS3	Гру закінчено. Натисніть {PARAM}, щоб продовжити.
+1476	GAME_OVER_CLIENT	Гру закінчено. Очікування сервера.
+1477	DEMO_OVER	Натисніть {PARAM}, щоб вийти до меню.
+1478	DEMO_OVER_PC	Натисніть {PARAM}, щоб вийти до меню.
+1479	DEMO_OVER_PS3	Натисніть {PARAM}, щоб вийти до меню.
+1480	GAME_PLAYER_REVITALIZED	Гравця воскрешено!
+1481	GAME_PLAYER_MISSION_FAILED	Завдання провалено! \n{STRING} \nНатисніть {PARAM}, щоб продовжити.
+1482	GAME_PLAYER_MISSION_FAILED_PC	Завдання провалено! \n{STRING} \nНатисніть {PARAM}, щоб продовжити.
+1483	GAME_PLAYER_MISSION_FAILED_PS3	Завдання провалено! \n{STRING} \nНатисніть {PARAM}, щоб продовжити.
+1484	GAME_PLAYER_IS_DEAD_RETAIL	Ви загинули. \nПам'ятайте: керування часом необхідне для виживання. \nНатисніть {PARAM}, щоб продовжити.
+1485	GAME_PLAYER_IS_DEAD_RETAIL_PC	Ви загинули. \nПам'ятайте: керування часом необхідне для виживання. \nНатисніть {PARAM}, щоб продовжити.
+1486	GAME_PLAYER_IS_DEAD_RETAIL_PS3	Ви загинули. \nПам'ятайте: керування часом необхідне для виживання. \nНатисніть {PARAM}, щоб продовжити.
+1487	GAME_PLAYER_IS_DEAD_RETAIL_SHORT	Ви загинули. \nНатисніть {PARAM}, щоб продовжити.
+1488	GAME_PLAYER_IS_DEAD_RETAIL_SHORT_PC	Ви загинули. \nНатисніть {PARAM}, щоб продовжити.
+1489	GAME_PLAYER_IS_DEAD_RETAIL_SHORT_PS3	Ви загинули. \nНатисніть {PARAM}, щоб продовжити.
+1490	GAME_PLAYER_IS_DEAD_DEBUG_XENON	Ви загинули. \nПам'ятайте: керування часом необхідне для виживання. \nНатисніть {PARAM}, щоб продовжити.
+1491	GAME_PLAYER_IS_DEAD_DEBUG_PC	Ви загинули. \nПам'ятайте: керування часом необхідне для виживання. \nНатисніть {PARAM}, щоб продовжити. \nНатисніть Alt+4, щоб продовжити гру.
+1492	GAME_PLAYER_IS_DEAD_DEBUG_PS3	Ви загинули. \nПам'ятайте: керування часом необхідне для виживання. \nНатисніть {PARAM}, щоб продовжити.
+1493	GAME_PLAYER_IS_DEAD_DEBUG_SHORT_XENON	Ви загинули. \nНатисніть {PARAM}, щоб продовжити.
+1494	GAME_PLAYER_IS_DEAD_DEBUG_SHORT_PC	Ви загинули. \nНатисніть {PARAM}, щоб продовжити. \nНатисніть Alt+4, щоб продовжити гру.
+1495	GAME_PLAYER_IS_DEAD_DEBUG_SHORT_PS3	Ви загинули. \nНатисніть {PARAM}, щоб продовжити.
+1496	GAME_PLAYER_IS_DEAD_MP_DELAY	Очікування відродження... {STRING}
+1497	GAME_PLAYER_IS_DEAD_MP_FORCE	До відродження залишилося: {STRING} \nВідхиліть {PARAM}, щоб відродитися зараз.
+1498	GAME_PLAYER_IS_DEAD_MP_FORCE_PC	До відродження залишилося: {STRING} \nНатисніть {PARAM}, щоб відродитися зараз.
+1499	GAME_PLAYER_IS_DEAD_MP_FORCE_PS3	До відродження залишилося: {STRING} \nВідхиліть {PARAM}, щоб відродитися зараз.
+1500	GAME_PLAYER_IS_DEAD_MP	Щоб відродитися, відхиліть {PARAM}!
+1501	GAME_PLAYER_IS_DEAD_MP_PC	Щоб відродитися, натисніть {PARAM}!
+1502	GAME_PLAYER_IS_DEAD_MP_PS3	Щоб відродитися, відхиліть {PARAM}!
+1503	GAME_PLAYER_IS_DEAD_MP_NO_LIVES_LEFT	Відродження неможливе. \nУ вас не залишилося життів.
+1504	GAME_TIP_USE_MONITOR	Натисніть і утримуйте {PARAM}, щоб змінити ракурс камери
+1505	GAME_TIP_USE_MONITOR_PC	Натисніть {PARAM}, щоб змінити режим огляду
+1506	GAME_TIP_USE_MONITOR_PS3	Натисніть і утримуйте {PARAM}, щоб змінити ракурс камери
+1507	GAME_TIP_USE	Використати
+1508	GAME_TIP_USE_WPN	Натисніть {PARAM}, щоб узяти: {PARAM}
+1509	GAME_TIP_USE_WPN_PC	Натисніть {PARAM}, щоб узяти: {PARAM}
+1510	GAME_TIP_USE_WPN_PS3	Натисніть {PARAM}, щоб узяти: {PARAM}
+1511	GAME_TIP_USE_OPP	Натисніть {PARAM}, щоб узяти зброю
+1512	GAME_TIP_USE_OPP_PC	Натисніть {PARAM}, щоб узяти зброю
+1513	GAME_TIP_USE_OPP_PS3	Натисніть {PARAM}, щоб узяти зброю
+1514	GAME_TIP_USE_TUR	Натисніть {PARAM}, щоб скористатися кулеметом
+1515	GAME_TIP_USE_TUR_PC	Натисніть {PARAM}, щоб скористатися кулеметом
+1516	GAME_TIP_USE_TUR_PS3	Натисніть {PARAM}, щоб скористатися кулеметом
+1517	GAME_TIP_USE_BIKE	Натисніть {PARAM}, щоб сісти за кермо
+1518	GAME_TIP_USE_BIKE_PC	Натисніть {PARAM}, щоб сісти за кермо
+1519	GAME_TIP_USE_BIKE_PS3	Натисніть {PARAM}, щоб сісти за кермо
+1520	GAME_TIP_USE_BUT	Натисніть {PARAM}, щоб натиснути кнопку
+1521	GAME_TIP_USE_BUT_PC	Натисніть {PARAM}, щоб натиснути кнопку
+1522	GAME_TIP_USE_BUT_PS3	Натисніть {PARAM}, щоб натиснути кнопку
+1523	GAME_TIP_USE_LEVER	Натисніть {PARAM}, щоб потягнути за важіль
+1524	GAME_TIP_USE_LEVER_PC	Натисніть {PARAM}, щоб потягнути за важіль
+1525	GAME_TIP_USE_LEVER_PS3	Натисніть {PARAM}, щоб потягнути за важіль
+1526	GAME_TIP_TURN_WHEEL	Натисніть і утримуйте {PARAM}, щоб повертати колесо
+1527	GAME_TIP_TURN_WHEEL_PC	Натисніть і утримуйте {PARAM}, щоб повертати колесо
+1528	GAME_TIP_TURN_WHEEL_PS3	Натисніть і утримуйте {PARAM}, щоб повертати колесо
+1529	GAME_TIP_USE_TIMER_EXPL	Натисніть {PARAM}, щоб узяти вибухівку
+1530	GAME_TIP_USE_TIMER_EXPL_PC	Натисніть {PARAM}, щоб узяти вибухівку
+1531	GAME_TIP_USE_TIMER_EXPL_PS3	Натисніть {PARAM}, щоб узяти вибухівку
+1532	GAME_TIP_CANT_USE_TIMER_EXPL	У вас забагато вибухівки
+1533	GAME_TIP_TURN_OFF_VALVE	Натисніть і утримуйте {PARAM}, щоб закрити кран
+1534	GAME_TIP_TURN_OFF_VALVE_PC	Натисніть {PARAM}, щоб закрити кран
+1535	GAME_TIP_TURN_OFF_VALVE_PS3	Натисніть і утримуйте {PARAM}, щоб закрити кран
+1536	GAME_TIP_USE_TSLOW	Натисніть {PARAM} для сповільнення часу
+1537	GAME_TIP_USE_TSLOW_PC	Натисніть {PARAM} для сповільнення часу
+1538	GAME_TIP_USE_TSLOW_PS3	Натисніть {PARAM} для сповільнення часу
+1539	GAME_TIP_USE_TSTOP	Натисніть {PARAM} для зупинки часу
+1540	GAME_TIP_USE_TSTOP_PC	Натисніть {PARAM} для зупинки часу
+1541	GAME_TIP_USE_TSTOP_PS3	Натисніть {PARAM} для зупинки часу
+1542	GAME_TIP_USE_TRVS	Натисніть {PARAM} для інверсії часу
+1543	GAME_TIP_USE_TRVS_PC	Натисніть {PARAM} для інверсії часу
+1544	GAME_TIP_USE_TRVS_PS3	Натисніть {PARAM} для інверсії часу
+1545	GAME_TIP_OPERATE_TRAIN	Натисніть {PARAM}, щоб керувати потягом
+1546	GAME_TIP_OPERATE_TRAIN_PC	Натисніть {PARAM}, щоб керувати потягом
+1547	GAME_TIP_OPERATE_TRAIN_PS3	Натисніть {PARAM}, щоб керувати потягом
+1548	GAME_TIP_TURN_KNOB	Натисніть {PARAM}, щоб повернути верньєр
+1549	GAME_TIP_TURN_KNOB_PC	Натисніть {PARAM}, щоб повернути верньєр
+1550	GAME_TIP_TURN_KNOB_PS3	Натисніть {PARAM}, щоб повернути верньєр
+1551	GAME_TIP_SET_EXPL	Натисніть {PARAM}, щоб закласти вибухівку
+1552	GAME_TIP_SET_EXPL_PC	Натисніть {PARAM}, щоб закласти вибухівку
+1553	GAME_TIP_SET_EXPL_PS3	Натисніть {PARAM}, щоб закласти вибухівку
+1554	GAME_TIP_SLIDE_PANEL	Натисніть {PARAM}, щоб зсунути панель
+1555	GAME_TIP_SLIDE_PANEL_PC	Натисніть {PARAM}, щоб зсунути панель
+1556	GAME_TIP_SLIDE_PANEL_PS3	Натисніть {PARAM}, щоб зсунути панель
+1557	GAME_ZEP_DESTROYED	Дирижабль знищено.
+1558	GAME_MSG_GOT_	Отримано: %s
+1559	GAME_MSG_GOT_AMMO	Отримано боєприпаси (%s1): +%i2
+1560	GAME_MSG_GOT_HEALTH	Здоров'я +%i
+1561	GAME_MSG_GOT_ARMOR	Захист +%i
+1562	GAME_MSG_GOT_ENERGY_PACK	Отримано: енергія часу
+1563	GAME_MSG_AMMO_FULL	Максимум боєприпасів
+1564	GAME_MSG_RECHARGING	Отримання боєприпасів...
+1565	GAME_MSG_GOT_WASP_GRENADE	Отримано: рій-граната
+1566	GAME_MSG_GOT_GRENADE_SWARM_NUM	Отримано: рій-граната (%i)
+1567	GAME_MSG_GOT_GRENADE_CLUTCH_NUM	Отримано: граната-липучка (%i)
+1568	GAME_MSG_GOT_GRENADE_PACK	Отримано: гранати-липучки
+1569	GAME_MSG_GOT_GRENADE	Отримано: граната-липучка
+1570	GAME_MSG_GOT_LAND_MINE	Отримано: міна-жаба
+1571	GAME_MSG_GOT_LASER_MINE	Отримано: лазерна міна
+1572	GAME_MSG_GOT_LAND_MINE_NUM	Отримано: міна-жаба (%i)
+1573	GAME_MSG_GOT_LASER_MINE_NUM	Отримано: лазерна міна (%i)
+1574	GAME_MSG_GOT_GRENADE_REAL	Отримано: набір гранат
+1575	GAME_MSG_GOT_TIME_RESISTANCE	Отримано: хронозахист
+1576	GAME_MSG_GOT_HEAVY_DAMAGE	Отримано: підсилювач шкоди
+1577	GAME_MSG_PAUSED	Пауза
+1578	GAME_MSG_RESUMED	Гра триває
+1579	GAME_MSG_DOOR_UNLOCKED	Двері відчинено
+1580	GAME_MSG_DOOR_LOCKED	Двері замкнено
+1581	GAME_MSG_SAVE_SCREENSHOT	Знімок збережено \n%S
+1582	GAME_MSG_GAME_SAVED	Гру збережено
+1583	GAME_MSG_GAME_LOADED	Гру завантажено
+1584	GAME_MSG_GAME_SAVING	Збереження гри...
+1585	GAME_MSG_GAME_SAVING_XENON	Збереження даних. Не вимикайте систему.
+1586	GAME_MSG_GAME_BEFORE_SAVING	Дані гри зберігаються автоматично. Не вимикайте живлення, коли блимає індикатор доступу до жорсткого диска.
+1587	GAME_MSG_GAME_DATA_SAVING	Блимання індикатора HDD означає, що гра зберігає дані. Не вимикайте живлення в цей час.
+1588	GAME_MSG_TIGHT_GRIP	Противник тримає зброю надто міцно.
+1589	GAME_MSG_TIME_FUEL_LEFT	Час до вибуху дирижабля
+1590	GAME_MSG_TIME_LEFT_ZEP_EXPL	Час до відмови двигуна
+1591	GAME_MSG_FUEL_LEFT	Залишок пального
+1592	UI_LOADING_SCR_DEMOHINT_1	МІСЦЕВІСТЬ:
+1593	UI_LOADING_SCR_DEMOHINT_2	НЕВІДОМО...
+1594	UI_LOADING_SCR_DEMOHINT_3	АЛЬТЕРНАТИВНИЙ ПОТІК ЧАСУ.
+1595	UI_LOADING_SCR_DEMOHINT_4	СТАН КОСТЮМА:
+1596	UI_LOADING_SCR_DEMOHINT_5	ЗАФІКСОВАНО ЗБІЙ...
+1597	UI_LOADING_SCR_DEMOHINT_6	СТАТУС:
+1598	UI_LOADING_SCR_DEMOHINT_7	ТАКТИЧНИЙ БЛОК ОНОВЛЕНО...
+1599	UI_LOADING_SCR_DEMOHINT_8	МОЖЛИВИЙ ЗСУВ У РУЧНОМУ РЕЖИМІ.
+1600	UI_LOADING_SCR_DEMOHINT_9	РЕКОМЕНДАЦІЯ:
+1601	UI_LOADING_SCR_DEMOHINT_10	ПІДТРИМАТИ ПОВСТАННЯ
+1602	UI_LOADING_SCR_DEMOHINT_11	ПРОТИ МАГІСТРАТУ КРОНА.
+1603	UI_LOADING_SCR_HINT_1	Ви - авторитетний учений-фізик, який бере участь у секретному проєкті з переміщення в часі.
+1604	UI_LOADING_SCR_HINT_2	У межах проєкту з переміщення в часі було створено два варіанти спорядження - альфа і бета.
+1605	UI_LOADING_SCR_HINT_3	Бета-спорядження розроблено для військових потреб, і воно містить систему штучного інтелекту.
+1606	UI_LOADING_SCR_HINT_4	Система штучного інтелекту, втілена в нанокомп'ютерній мережі бета-спорядження, призначена для збору даних і захисту користувача.
+1607	UI_LOADING_SCR_HINT_5	Штучний інтелект бета-спорядження регулює роботу всіх систем костюма й стежить за основними показниками життєдіяльності користувача.
+1608	UI_LOADING_SCR_HINT_6	Якщо вас поранять, бета-спорядження зафіксує зміну показників життєдіяльності й відновить ваше здоров'я.
+1609	UI_LOADING_SCR_HINT_7	Ваш костюм може зупиняти, сповільнювати й інвертувати час.
+1610	UI_LOADING_SCR_HINT_8	Ефект хроноконтролю зазвичай вибирає комп'ютер костюма, проте за бажання користувач може керувати зсувом вручну.
+1611	UI_LOADING_SCR_HINT_9	Комп'ютер блокує інверсію часу, якщо її застосування може призвести до парадоксу.
+1612	UI_LOADING_SCR_HINT_10	Захист і енергія костюма відновлюються автоматично.
+1613	UI_LOADING_SCR_HINT_11	У сутичці з сильнішим противником використовуйте хронозсув, щоб здобути перевагу.
+1614	UI_LOADING_SCR_HINT_12	За допомогою хронозсуву можна позбавити противників їхньої зброї.
+1615	UI_LOADING_SCR_HINT_13	На екрані бета-спорядження є індикатори здоров'я, зброї та енергії, а також радар, що допомагає знаходити ключові об'єкти.
+1616	UI_LOADING_SCR_HINT_14	Використовуйте хронозсув, щоб здобути тактичну перевагу.
+1617	UI_LOADING_SCR_HINT_15	Під час інверсії часу ви не можете фізично впливати на матеріальні об'єкти, зокрема на живих істот.
+1618	UI_LOADING_SCR_HINT_16	Утримуючи кнопку альтернативного вогню карабіна, ви можете затримати вибух гранати.
+1619	UI_LOADING_SCR_HINT_17	Уся зброя може вести вогонь у двох режимах: основному й додатковому. Експериментуйте з ними!
+1620	UI_LOADING_SCR_HINT_18	Зупинка часу діє не лише на ворогів, а й на вогонь, воду і навіть електрику.
+1621	UI_LOADING_SCR_HINT_19	Захист костюма відновлюється з часом. Щоб пришвидшити цей процес, знайдіть укриття.
+1622	UI_LOADING_SCR_HINT_20	Бракує боєприпасів? Шукайте контейнери!
+1623	UI_LOADING_SCR_HINT_21	Комп'ютер костюма може давати вам тактичні поради.
+1624	UI_LOADING_SCR_HINT_22	Червона позначка на радарі позначає противника, синя - ціль завдання, зелена - союзника, а жовта - транспортний засіб.
+1625	UI_LOADING_SCR_HINT_23	Дробовик не обов'язково перезаряджати після кожного пострілу.
+1626	UI_LOADING_SCR_HINT_24	Деякі противники мають при собі гранати. Не забувайте обшукувати трупи!
+1627	UI_LOADING_SCR_HINT_25	Ви можете мати при собі не більше 3 одиниць зброї одночасно. Випробуйте всі доступні види зброї.
+1628	UI_LOADING_SCR_HINT_26	Боєзапас вибраної зброї показують відповідні індикатори. Стежте за ними - інакше ризикуєте вступити в бій із порожнім магазином!
+1629	UI_LOADING_SCR_HINT_27	Усі зусилля, прикладені до об'єкта під час зупинки часу, сумуються.
+1630	UI_LOADING_SCR_HINT_28	Хроноконтроль - ключ до перемоги. Учіться мислити в чотирьох вимірах!
+1631	UI_LOADING_SCR_HINT_29	Використовуючи прискорювач квадроцикла, ви можете прориватися крізь засідки.
+1632	UI_LOADING_SCR_HINT_30	Спробуйте кинути рій-гранату в центр скупчення противників.
+1633	UI_LOADING_SCR_HINT_31	На вас летить ракета? Сповільніть час, ретельно прицільтеся й збийте її!
+1634	UI_LOADING_SCR_HINT_32	В альтернативному режимі ПРК \"Бладгаунд\" ви можете керувати ракетами, змушуючи їх облітати перешкоди.
+1635	UI_LOADING_SCR_HINT_33	У вас кинули гранату? Зупиніть час і відійдіть подалі.
+1636	UI_LOADING_SCR_HINT_34	Стежте за списком завдань - ваші цілі можуть змінюватися!
+1637	UI_LOADING_SCR_HINT_35	З електромагнітної гармати можна стріляти крізь стіни.
+1638	UI_LOADING_SCR_HINT_36	Хроноконтроль допоможе вам виграти дорогоцінний час у критичній ситуації.

@@ -1,0 +1,618 @@
+2380	UI_CREDITS_STRING_31_4	TimeShift, Sierra і логотип Sierra є зареєстрованими товарними знаками
+2381	UI_CREDITS_STRING_31_5	або товарними знаками Sierra Entertainment, Inc. у США та/або інших країнах.
+2382	UI_CREDITS_STRING_31_6_PS3	Використовується технологія, ліцензована
+2384	UI_CREDITS_STRING_31_8_PS3	GameSpy і елемент дизайну “Powered by GameSpy”' є товарними знаками
+2385	UI_CREDITS_STRING_31_9_PS3	GameSpy Industries, Inc. Усі права захищено.
+2386	UI_CREDITS_STRING_31_6_PC	Використовується технологія, ліцензована
+2388	UI_CREDITS_STRING_31_8_PC	GameSpy і елемент дизайну “Powered by GameSpy”' є товарними знаками
+2389	UI_CREDITS_STRING_31_9_PC	GameSpy Industries, Inc. Усі права захищено.
+2390	UI_CREDITS_STRING_32_1	Використовується Havok® Physics. © 1999-2007 Havok.com, Inc.
+2391	UI_CREDITS_STRING_32_2	(та ліцензіари). Усі права захищено. Докладніше див. www.havok.com.
+2393	UI_CREDITS_STRING_32_4	Pty, Ltd., 1994-2007. Технології кодування звуку MPEG Layer -2 і MPEG Layer-3
+2394	UI_CREDITS_STRING_32_5	використовуються за ліцензією Fraunhofer IIS і Thomson multimedia.
+2395	UI_CREDITS_STRING_32_6	Використовується технологія Bink Video. © 1997-2007  RAD Game Tools, Inc.
+2397	UI_CREDITS_STRING_32_7_XENON	Microsoft, Xbox, Xbox 360, Xbox LIVE і логотипи Xbox
+2398	UI_CREDITS_STRING_32_8_XENON	є товарними знаками групи компаній Microsoft.
+2399	UI_CREDITS_STRING_32_7_PC	NVIDIA, GeForce і логотип “The Way It's Meant To Be Played”
+2400	UI_CREDITS_STRING_32_8_PC	є зареєстрованими товарними знаками або товарними знаками NVIDIA
+2401	UI_CREDITS_STRING_32_9_PC	Corporation у США та/або інших країнах.
+2402	UI_CREDITS_STRING_32_10_PC	Windows, Windows Vista і DirectX є зареєстрованими товарними
+2403	UI_CREDITS_STRING_32_11_PC	знаками або товарними знаками Microsoft Corporation у США та/або інших країнах
+2404	UI_CREDITS_STRING_32_12_PC	і використовуються за ліцензією Microsoft. Intel Core і Pentium є товарними
+2405	UI_CREDITS_STRING_32_13_PC	знаками Intel Corporation у США та інших країнах. AMD Athlon є товарним
+2406	UI_CREDITS_STRING_32_14_PC	знаком Advanced Micro Devices, Inc. ATI і Radeon використовуються за ліцензією
+2407	UI_CREDITS_STRING_32_15_PC	і є зареєстрованими товарними знаками або товарними знаками
+2408	UI_CREDITS_STRING_32_16_PC	ATI Technologies Inc. у США та інших країнах. Назва й логотип Sound Blaster,
+2409	UI_CREDITS_STRING_32_17_PC	X-Fi і логотип EAX є зареєстрованими товарними знаками Creative
+2410	UI_CREDITS_STRING_32_18_PC	Technology Ltd. або Cambridge SoundWorks, Inc. у США
+2411	UI_CREDITS_STRING_32_19_PC	та/або інших країнах. Dolby і символ double-D
+2412	UI_CREDITS_STRING_32_20_PC	є товарними знаками Dolby Laboratories.
+2414	UI_CREDITS_STRING_33_1	Усі інші товарні знаки є власністю відповідних власників.
+2415	UI_CREDITS_STRING_33_2	Виробництво й маркетинг - Vivendi Games, Inc., Fresno, CA.
+2416	UI_CREDITS_SAM_33_3	/це ще не все
+2417	FE_DXERROR	Для запуску гри потрібен DirectX версії 9.0 або новішої.
+2418	FE_MEM128	Доступно менше 128 Мб пам'яті.\nПродуктивність гри знижено.
+2419	FE_SWAP_MEM128	Доступно менше 128 Мб віртуальної пам'яті.\nПродуктивність гри знижено.
+2420	FE_VIDEOERROR	Для запуску гри потрібна відеокарта GeForce3 або аналогічна.
+2421	UI_DRIVERS_MESSAGE1	З застарілими драйверами\nгра може працювати з помилками.\n
+2422	UI_DRIVERS_MESSAGE2	\nУ вашій системі виявлено застарілі драйвери. \nЗавантажте й установіть останню версію драйверів відеокарти.\n
+2423	UI_OLD_DRIVERS_EXIT	Вихід
+2424	UI_OLD_DRIVERS_GET	Завантажити підтримувані драйвери
+2425	UI_OLD_DRIVERS_PLAY	Запуск
+2426	UI_OLD_DRIVERS_CAPTION	Непідтримуваний драйвер
+2427	LG_LCD_STATUS	Статус
+2428	LG_LCD_HEALTH	здоров'я
+2429	LG_LCD_ENERGY	енергія
+2430	LG_LCD_MP_ARMOR_HEALTH	броня / здоров'я
+2431	LG_LCD_MP_GRENADES	Гранати
+2432	LG_LCD_MP_RANK	Звання:
+2433	LG_LCD_MP_GAME_MODE	Режим:
+2434	LG_LCD_MP_LATENCY	Затримка:
+2435	LG_LCD_MP_MAP	Карта:
+2436	LG_LCD_HINT	Костюм
+2437	LG_LCD_OBJECTIVES	Завдання
+2438	LG_LCD_DIFFICULTY	Складність:
+2440	LG_LCD_MP_SCORE	Рахунок:
+2441	LG_LCD_GAME_INFO	Відомості про гру
+2442	LG_LCD_LEVEL	Рівень:
+2443	fmv_scene01_24_01_reporter_building_collapsed	...ціла будівля перетворилася на руїни... під нею був великий підземний об'єкт... можливо, саме в цьому причина перебоїв з енергією...
+2444	fmv_scene01_24_02_marissa_got_msg	Я отримала ваше повідомлення, сер... Гей, що ви... Заберіть це!
+2445	fmv_scene01_24_03_reporter_massive_explosion	...найімовірніше, це був потужний вибух... якщо в будівлі були люди, вони просто не могли вижити...
+2447	fmv_scene01_24_05_tucker_evac	Усі на вихід! Бігом! Бігом!
+2449	fmv_scene01_24_07_sam_id_accepted	Ідентифікацію виконано.
+2450	fmv_scene01_24_08_tucker_suit_not_ready	Здурів?! Спорядження не готове!
+2451	fmv_scene01_24_09_tucker_come_on	Давай же!!!
+2452	fmv_scene01_24_10_tucker_we_gotta	Ми мусимо!.. Аааа!
+2453	fmv_scene25_01_tucker_reset_sam	Я налаштував систему на перехоплення будь-яких відеопотоків... сподіваюся, все готово.
+2454	fmv_scene27_01_marissa_how_auto_return	Ну, Такере, а як щодо системи повернення?
+2455	fmv_scene27_02_tucker_perfect	Ну, теоретично... вона ідеальна.
+2456	fmv_scene28_01_tucker_i_used_sam	Минулої ночі я випробував режим активного стрибка - не просто спостереження, а втручання в минуле. Ось, помилуйся наслідками...
+2457	fmv_scene29_30_01_marissa_krone_saw_betasuit	Учора ввечері Крон побачив варіант \"Бета\". Він був просто вражений. Такер сказав йому, що ми випереджаємо графік завдяки тобі...
+2458	fmv_scene31_32_01_marissa_krone_reversed	Яка муха вкусила Крона?! Він щойно відхилив усі вдосконалення \"Бети\"!
+2459	fmv_scene31_32_02_marissa_he_said	Він каже, що ми намагаємося стрибнути вище голови, він проти будь-яких змін, навіть проти системи повернення. Фактично він хоче повернутися до варіанта \"Альфа\"...
+2460	fmv_scene33_01_voice_found_data	...я дещо знайшов на комп'ютері Крона... Схоже, він просунувся набагато далі, ніж ми думали. Треба поспішати. Знадобиться допомога - звертайся.
+2461	fmv_scene34_01_tucker_i_had	Я прорахував можливість перетину нашого й альтернативного потоків. Сто разів перевірив...
+2462	fmv_scene35_36_01_marissa_proposal	Отримала твоє повідомлення. Це що, ділова пропозиція? Я заінтригована. Побачимося о восьмій.
+2463	fmv_scene37_01_voice_jump_made	Проблема не в тому, що написано в його нотатках... А в тому, як це написано. Наче це не теорія, а факти. Наче він уже здійснив перехід...
+2464	fmv_scene38_01_marissa_about_offer	Щодо твоєї пропозиції - я згодна. Але якщо Крон про це дізнається, моїй кар'єрі кінець. Я покладаюся на тебе...
+2465	fmv_scene39_01_voice_krone_told	Крон повідомив Департамент, що випробування \"Альфи\" відстають від графіка. Але записи цьому суперечать...
+2466	fmv_scene41_01_tucker_i_think	Схоже, Крон тебе всерйоз боїться...
+2467	fmv_scene42_01_marissa_what_r_u	Ти щось недоговорюєш...
+2468	fmv_scene43_01_marissa_need_2_talk	Нам треба поговорити. Здається, Крон дізнався, що я тобі допомагаю. Не знаю, що робити... він мене лякає.
+2469	fmv_scene44_01_voice_we_r_a_go	Ми в небезпеці. Повторюю, в небезпеці. Якщо Крон спробує стрибнути, вбийте його.
+2470	fmv_scene45_53_01_sam_paradox	Парадокс неминучий. Розрахунок послідовності перенесення.
+2472	vo_city_1_sam_jump_successful	Перенесення виконано успішно. Запитую координати.
+2476	vo_city_1_sam_1939	Координати належать до альтернативного часу. Найближчий еквівалент - 1939 рік нашої ери.
+2477	vo_sam_warning_vital_signs	УВАГА. Життєві показники нестабільні. Починаю нейростимуляцію.
+2478	vo_city_1_rbl1_get_up	Давай, вставай. Ми боялися тебе чіпати, поки твій костюм шумів. Ходімо, час вибиратися звідси...
+2479	vo_city_1_rbl1_get_up_alt	Давай, вставай. Ми боялися тебе чіпати, поки костюм шумів. Ходімо, треба звідси вибиратися.
+2480	vo_city_1_rbl1_theyre_close	Чорт, вони поруч! Вставай, живо!
+2481	vo_city_1_rbl1_evacuating_rendezvous	Відходимо! Командир Кук чекає всіх на Центральній площі, північно-східний бік.
+2482	vo_city_1_rbl1_first_to_go	Радіограму надіслано. Ми йдемо першими.
+2483	vo_city_1_cooke_double_time	Дженкінсе! Де ви там?! У нас мало часу!
+2484	vo_city_1_rbl1_lets_hustle	Чув? Поспішай!
+2485	vo_city_1_rbl1_delay_taunt1	Ходімо!
+2486	vo_city_1_rbl1_delay_taunt2	Усе, йдемо...
+2487	vo_city_1_rbl1_delay_taunt3	Гей! За мною, швидко!
+2488	vo_city_1_rbl1_delay_taunt4	А ти чого чекаєш?
+2489	vo_city_1_rbl2_always_raining	Сподіваюся, твій костюмчик води не боїться. Дякувати Крону, тут завжди дощ...
+2490	vo_city_1_rbl2_underwater_soon	Зуб даю, скоро весь округ буде під водою!
+2491	vo_city_1_rbl2_rebel_get_out	Тікай, як зможеш.
+2492	vo_city_1_rbl3_get_outta	Це ще хто? Пішов звідси.
+2493	vo_city_1_rbl3_said_get_out	Я сказав, пішов звідси!
+2494	vo_city_1_rbl3_hell_outta	А ну пішов звідси!
+2495	vo_city_1_rbl4_spider_thing	У Крона є цей, типу, павук... здоровенний - не повіриш.
+2496	vo_city_1_rbl4_like_flies	Полетіли. Прямо як мухи... осиний рій...
+2497	vo_city_1_rbl4_smell_him	Вони йдуть, я чую... чую, як вони йдуть.
+2498	vo_city_1_rbl5_cookes_orders	Чув я наказ Кука. Мені б іще пару хвилин...
+2499	vo_city_1_rbl5_were_ambushed	Потрапили в засідку... Вибрався тільки я один...
+2500	vo_city_1_rbl5_gimme_second	Ехх... Одну секун...
+2501	vo_city_1_rbl6_out_of_ammo	Чим тепер стріляти?!
+2502	vo_city_1_rbl6_nothing_left	Жодної кулі... нічого.
+2503	vo_city_1_rbl6_something_anything	Ну ж бо, придумай... Що-небудь.
+2504	vo_city_1_rbl2_ohhh	Ох-х...
+2505	vo_city_1_rbl3_almost_there	Ну, ще трохи... майже дійшли.
+2506	vo_city_1_rbl3_stay_with	Тримайся!
+2507	vo_city_1_rbl3_for_the_others	Сходжу по інших... а ти тримайся.
+2508	vo_city_1_rbl4_not_waiting	...сподіваюся, на нас не чекають...
+2509	vo_city_1_rbl6_even_closer	Ще ближче пройшла...
+2510	vo_city_1_rbl6_flush_us_out	Хочуть нас викурити.
+2511	vo_city_1_rbl6_without_a_fight	Без бою ми не здамося!
+2512	vo_city_1_rbl1_killing_everything	Ми тебе тільки затягли, і тут кронівці почали зачистку. Б'ють по всьому, що рухається!
+2513	vo_city_1_rbl1_right_on_top	Чорт, просто над нами...
+2514	vo_city_1_rbl1_evac_path	Ми викличемо вогонь на себе й прикриємо відхід решти. Здобудемо тобі зброю, щойно зможемо.
+2515	vo_city_1_rbl1_follow_me	За мною, сюди.
+2516	vo_city_1_rbl1_getting_closer	Швидше, вони наздоганяють.
+2517	vo_city_1_rbl1_there_you_are	Ось ти де. Ходімо.
+2518	vo_city_1_rbl1_stay_outta_sight	Ходімо, не світися.
+2519	vo_city_1_rbl1_open_up	Ми тут, відчиняй!
+2520	vo_city_1_rbl1_cookes_direct_orders	Починаємо евакуацію, наказ Кука!
+2521	vo_city_1_rbl1_bring_up_the_rear	Ми їх відволікаємо, прикриваємо вихід. Ваша група прикриває тил.
+2522	vo_city_1_rbl1_delay_taunt5	Вставай! Час!
+2523	vo_city_1_rbl1_delay_taunt6	Жвавіше! Давай сюди!
+2524	vo_city_1_rbl3_right_outside	Тихо! Вони надворі.
+2525	vo_city_1_rbl1_only_exit_point	Вихід тільки звідси?
+2526	vo_city_1_rbl3_not_for_long	Гаразд, тільки швидко. Патрулі ходять.
+2527	vo_city_1_rbl4_sentry	Вартовий!!!
+2528	vo_city_1_rbl5_get_down	Лягай!
+2529	vo_city_1_rbl3_go_go_go	Марш, марш, марш!
+2530	vo_city_1_rbl1_come_on	Давай!!!
+2531	vo_city_1_rbl1_shit_lets_go	Чорт! Вперед, марш!
+2532	vo_city_1_rbl1_take_the_alleys	Підемо провулками!
+2533	vo_city_1_rbl1_helo_get_back	Гей! Назад! Ааааа!!!
+2534	vo_city_1_rbl4_move_quietly	Тс-с-с! Іди тихо, вони поруч!
+2535	vo_city_1_rbl4_got_this_area	Я тебе прикрию, рухайся!
+2536	vo_city_1_rbl4_get_outta_here	Давай! Тікай!
+2537	vo_city_1_rbl5_keep_it_down	Ану, тихо... Ні, лишайся там.
+2538	vo_city_1_pol1_pick_up_the_pace	Вперед пішов!
+2539	vo_city_1_pol2_friends_go	Ну і де всі твої приятелі?
+2540	vo_city_1_pol1_keep_moving	Мовчати! Ворушися!
+2541	vo_city_1_rbl5_stay_down	А ну, лежи! Ти що, здурів?
+2542	vo_city_1_rbl5_okay_they_r_gone	Фух... Здається, пішли. Давай через пожежну, я прикрию.
+2543	vo_city_1_rbl5_we_re_ready	Ми готові!
+2544	vo_city_1_rbl5_get_up_there	Нагору. Живо.
+2545	vo_city_1_rbl5_get_us_killed	Жвавіше давай! Хочеш, щоб нас убили?
+2546	vo_city_1_rbl5_up_the_ladder	На драбину. Швидко!
+2547	vo_city_1_rbl5_keep_moving_lets	Не стояти, вперед!
+2548	vo_city_1_rbl5_ass_up_there	А ну, ворушися! Живо!
+2549	vo_city_1_rbl2_you_re_not_gonna	Без зброї ти не впораєшся. Ось, тримай.
+2550	vo_city_1_rbl2_now_listen_up	Дивись. Ми тут дещо змінили - тепер ти можеш керувати гранатою. Усе просто: після кидка тримай кнопку альтернативного вогню, щойно відпустиш - граната вибухне. Тобі сподобається, обіцяю.
+2551	vo_city_1_rbl2_just_stand_there	Так і стоятимеш? Швидше!
+2552	vo_city_1_rbl2_cookes_waiting	Ходімо, Кук на тебе чекає!
+2553	vo_city_1_rbl2_thompsons_gun	Бери пушку Томпсона. Йому вона вже не потрібна.
+2554	vo_city_1_rbl1_come_on_breathe	Давай же, дихай!
+2555	vo_city_1_rbl1_stay_with_me_2x	Не відключайся. Не йди!
+2556	vo_city_1_rbl1_gotta_try_man	Давай, друже! Не вмирай!
+2557	vo_city_1_rbl1_no_no	Ні... ні!
+2558	vo_city_1_rbl1_no_dead	Ні...
+2559	vo_city_1_rbl1_now_what	І що тепер?
+2560	vo_city_1_rbl1_going_to_do	Що нам тепер робити...
+2561	vo_city_1_pol3_they_re_inside	Вони всередині!!!
+2562	vo_city_1_pol4_that_door_open	Відчинити двері! Швидко!!!
+2563	vo_city_1_rbl3_shit_they_found	Чорт! Нас виявили.
+2564	vo_city_1_rbl6_we_can_hold	Ми їх затримаємо.
+2565	vo_city_1_pol3_get_the_charge	Підривай двері... тримай.
+2566	vo_city_1_rbl3_what_now	Що тепер?
+2567	vo_city_1_rbl6_well_be_ready	Якщо прорвуться, ми їх зустрінемо.
+2568	vo_city_1_rbl6_wait_get_back	Стій! Назад!
+2569	vo_city_1_pol3_find_another_way	Чорт! Шукай інший вхід!
+2570	vo_city_1_pol4_door_on_rooftop	На даху мають бути двері...
+2571	vo_city_1_rbl2_wheres_the_launcher	Гранатомет де?! Хапай!
+2572	vo_city_1_rbl5_next_door	Уже поруч!
+2573	vo_city_1_rbl2_shit_panicked	Чорт!
+2574	vo_city_1_rbl5_take_cover	В укриття!
+2575	vo_city_1_rbl4_you_over_here	Ти, в костюмі! Біжи сюди!
+2576	vo_city_1_rbl4_flyovers_for_hours	Вони давно тут літають. Думаєш, тебе помітили?
+2577	vo_city_1_rbl4_squad_got_flanked	Нас накрили на пожежному виході, ледве до вас дістався.
+2578	vo_city_1_rbl4_its_just_us	Схоже, ми самі.
+2579	vo_city_1_rbl4_get_down_get	Лягай! Лягай!
+2580	vo_city_1_pol2_move_it_walk	Ворушися! Живо!
+2581	vo_city_1_rbl1_trying_ok	Стараюся, не бачиш?
+2582	vo_city_1_pol2_move_yelling	ПІШОВ!
+2583	vo_city_1_pol2_piece_of_shit	Ось виродок...
+2584	vo_city_1_pol1_who_the_hell	Що за чортівня?!
+2585	vo_city_1_sam_vital_signs_stable	Життєві показники стабільні.
+2586	vo_city_1_cooke_who_the_hell_are_you	Гей, а ти ще хто такий?! І де Дженкінс?
+2587	vo_city_1_rbl6_where_is_everyone	Де всі? Хто ще вибрався?
+2588	vo_city_1_rbl3_oh_my_god	Господи...
+2589	vo_city_1_cooke_find_cover	В укриття! Швидше! Швидше!
+2590	vo_city_1_rbl3_its_huge	Велетень!
+2591	vo_city_1_rbl6_its_firing	Стріляє!
+2592	vo_city_1_cooke_watch_your_flank	На фланзі!
+2593	vo_city_1_rbl5_fall_back	Назад! Назад!
+2594	vo_city_1_rbl2_get_outta_here	Тікай звідси!
+2595	vo_city_1_cooke_fire_at_joints	Бийте по стиках!
+2596	vo_city_1_cooke_get_underneath	Заходьте знизу!
+2597	vo_city_1_cooke_keep_firing	Стріляйте!
+2598	vo_city_1_sam_alert_auto_return	УВАГА. Починаю автоматичне повернення.
+2599	vo_city_1_sam_auto_return_initiated	Починаю автоматичне повернення.
+2600	vo_city_1_sam_triangulating_departure	Обчислення координат пункту відправлення в альтернативному часі...
+2601	vo_city_1_sam_alert_system_malfunction	УВАГА. Збій системи.
+2602	vo_city_1_sam_triangulating_destination	Обчислення координат пункту призначення в альтернативному часі...
+2603	vo_city_1_sam_destination_data_corrupt	Дані про пункт призначення пошкоджено.
+2604	vo_city_1_sam_auto_return_aborted	Повернення перервано.
+2605	vo_city_2_sam_jump_failure	Помилка перенесення. Повернення перервано...
+2606	vo_city_2_sam_re_acquiring_temporal	Повторний запит темпоральних координат.
+2607	vo_city_2_sam_temporal_anomaly	УВАГА. Зафіксовано темпоральну аномалію...
+2608	vo_city_2_sam_error_temporal	Помилка. Невідомі темпоральні координати.
+2609	vo_city_2_sam_origin_drive_damaged	Двигун зворотного перенесення пошкоджено.
+2610	vo_city_2_sam_data_corrupt	Дані пошкоджено.
+2611	vo_city_2_sam_replacement_required	УВАГА. Для зворотного перенесення потрібні вихідні координати.
+2612	vo_city_2_sam_functionality_altered	Функції системи змінено.
+2613	vo_city_2_sam_tactics_enhanced	Тактичний блок оновлено.
+2614	vo_city_2_sam_manual_timeshift_viable	Можливий зсув у ручному режимі.
+2615	vo_city_2_pol4_beg_for_your_life	Здавайся! Кому кажу! Благай про пощаду!
+2616	vo_city_2_rbl4_beaten_sounds	Ух-х...
+2617	vo_city_2_pol2_lets_hear_it	Чув? Двічі повторювати не будемо!
+2618	vo_city_2_rbl4_stop_please	Стійте. Будь ласка.
+2619	vo_city_2_pol2_stop_please_mocking	Будь ласочка, не треба.
+2620	vo_city_2_pol4_fight_back	Ну давай, покажи зубки!
+2621	vo_city_2_pol2_get_up_tough_guy	Підйом, живо!
+2622	vo_city_2_pol4_gonna_take_that	Що, так і мовчатимемо?
+2623	vo_city_2_pol2_occupants_are_pussies	Повстанці, теж мені...
+2624	vo_city_2_pol4_playin_dead	Прикидаються.
+2625	vo_city_2_pol2_wait_all_night	Ха-ха, гаразд, часу в нас багато.
+2626	vo_city_2_pol4_making_an_example	Хай вони будуть прикладом для всіх.
+2627	vo_city_2_pol2_want_to_do	Ти шо хочеш робити?
+2628	vo_city_2_pol4_leave_them_here	Залишимо їх тут, тільки ноги прострелимо.
+2629	vo_city_2_pol2_i_like_that	Від-мін-но.
+2630	vo_city_2_pol3_hold_it_asshole	Відставити! Лежати, скотино! Лежати, я сказав!
+2631	vo_city_2_pol3_on_your_knees	На коліна, падлюко! Рахую до одного і стріляю!
+2632	vo_city_2_pol3_one_count	Р-раз...
+2633	vo_city_2_rbl4_that_was_impossible_grunts	(гарчить)
+2634	vo_city_2_rbl4_that_was_impossible	(стогін) Це... неможливо ... (стогін)
+2635	vo_city_2_rbl3_what_happened	Е, що таке? Як ти це зробив? А-ах!
+2636	vo_city_2_rbl4_thanks_we_owe	Дякую.
+2637	vo_city_2_rbl4_saved_our_ass	Він нас урятував. І мені байдуже, як саме...
+2638	vo_city_2_rbl4_lets_get_back	Давайте повернемося.
+2639	vo_city_2_rbl3_cooke_would_give	Стій, стій. Кук нас уб'є.
+2640	vo_city_2_rbl3_check_out_suit	Перевір костюмчик, може, зійдеш у них за свого?.. Хм...
+2641	vo_city_2_rbl3_check_out_suit_alt	Перевір костюмчик, може, зійдеш у них за свого?.. Хм...
+2642	vo_city_2_rbl4_hes_right	Він має рацію. Командувач захоче тебе побачити... ай... поки що будеш гарувати з нами, якщо хочеш, щоб Крона не стало.
+2643	vo_city_2_rbl4_lets_move_out	Ходімо, відходимо.
+2644	vo_city_2_rbl4_lets_go_adr	Ходімо!
+2645	vo_city_2_rbl4_come_on_this_way	Ходімо, сюди!
+2646	vo_city_2_rbl3_were_pinned_down	О, чорт! Нас притисли!
+2647	vo_city_2_rbl2_hang_on	Тримайся. Виживеш!
+2648	vo_city_2_rbl5_hoffman_get_up	Ходімо! Гоффмане! Вставай!
+2649	vo_city_2_rbl5_you_bastards	Покидьки!
+2650	vo_city_2_rbl6_head_down	Не висовуйся! Шукай укриття!
+2651	vo_city_2_rbl1_hurry_take_out	Швидше! Зніми їх, поки не викликали підмогу!
+2652	vo_city_2_rbl6_sentry_get_down	Вартовий! Лягай! Лягай!
+2653	vo_city_2_rbl1_its_firing	Стріляє! Стережися!
+2654	vo_city_2_rbl6_get_inside	Гей, швидко в будівлю! Ми з ними розберемося, чекай з того боку!
+2655	vo_city_2_rbl4_clear_the_perimeter	Треба зачистити периметр, але й усередині потрібні люди.
+2656	vo_city_2_rbl4_exterminate_those_bastards	Знищимо покидьків із Магістрату й зберемося на будмайданчику. Я прикрию, марш, марш!
+2657	vo_city_2_rbl6_what_u_waitin	Чого стоїш? А ну, йди всередину! Пішов! Пішов!
+2658	vo_city_2_rbl6_get_in_hurry	Швидко всередину! Живо, живо!
+2659	vo_city_2_rbl6_soldier_get_in	Солдате! А ну, гайда всередину! Живо!
+2660	vo_city_2_rbl4_delay_taunt7	Давай, давай сюди!
+2661	vo_city_2_rbl4_delay_taunt8	А ти чого чекаєш?
+2662	vo_city_2_rbl4_delay_taunt9	Швидше, в будівлю!
+2663	vo_city_2_rbl4_delay_taunt10	Чого ти чекаєш?
+2664	vo_city_2_sld1_unregistered_citizens	Поблизу помічено незареєстрованих цивільних! Термін минув!
+2665	vo_city_2_rbl6_gimme_cover_fire	Гей! Іди сюди, прикрий мене!
+2666	vo_city_2_rbl2_saved_mills	Це ти врятував Міллза? Іди за мною.
+2667	vo_city_2_rbl4_fastest_guy_seen	Ось про цього, в костюмі, я тобі казав. Швидкий, як чорт!
+2668	vo_city_2_rbl4_get_on_turret	Їх забагато! Давай до кулемета!
+2669	vo_city_2_rbl4_battle1	Вони наступають!
+2670	vo_city_2_rbl2_battle1a	Вони наступають!
+2671	vo_city_2_rbl4_battle2	Он там! Праворуч!
+2672	vo_city_2_rbl2_battle2a	Он там! Праворуч!
+2673	vo_city_2_rbl4_battle3	Стережися!
+2674	vo_city_2_rbl2_battle3a	Стережися!
+2675	vo_city_2_rbl3_battle4	Обережно! Праворуч!
+2676	vo_city_2_rbl4_battle5	Ліворуч!
+2677	vo_city_2_rbl2_battle5a	Тримати лівий фланг!
+2678	vo_city_2_rbl4_battle6	На землю!
+2679	vo_city_2_rbl3_battle6a	Лягай!
+2680	vo_city_2_rbl4_battle7	В укриття!
+2681	vo_city_2_rbl2_battle7a	Лишатися в укритті!
+2682	vo_city_2_rbl4_battle8	Противник ліворуч.
+2683	vo_city_2_rbl4_battle9	Лягай!
+2684	vo_city_2_rbl3_battle9a	Вниз!
+2685	vo_city_2_rbl4_battle10	Стережися!
+2686	vo_city_2_rbl2_battle10a	Стережися!
+2687	vo_city_2_rbl4_battle11	Чорт! Вони всюди!
+2688	vo_city_2_rbl3_battle11a	Чорт! Вони всюди!!
+2689	vo_city_2_rbl4_battle12	Прикрий мене.
+2690	vo_city_2_rbl2_battle12a	Прикрий мене.
+2691	vo_city_2_rbl3_battle13	Вогонь! Попереду ліворуч!
+2692	vo_city_2_rbl4_battle14	Беруть у кліщі!
+2693	vo_city_2_rbl2_battle14a	Беруть у кліщі!
+2694	vo_city_2_rbl4_battle15	Ух, мало не влучили.
+2695	vo_city_2_rbl3_battle15a	Ух! мало не влучили!
+2696	vo_city_2_rbl4_battle16	Праворуч!
+2697	vo_city_2_rbl2_battle16a	Заходять праворуч!
+2698	vo_city_2_rbl4_battle17	Лягай!
+2699	vo_city_2_rbl3_battle17a	Пригнись!
+2700	vo_city_2_rbl2_battle18	Ще противник! Унизу!
+2701	vo_city_2_rbl4_battle19	Ні!
+2702	vo_city_2_rbl4_battle19a	Ні!
+2703	vo_city_2_rbl3_battle19b	Ні!
+2704	vo_city_2_rbl2_battle19c	Ні!
+2705	vo_city_2_rbl3_battle19d	Ні!
+2706	vo_city_2_rbl4_battle20	О боже!
+2707	vo_city_2_rbl2_battle20a	О боже!
+2708	vo_city_2_rbl4_battle21	От лайно!
+2709	vo_city_2_rbl3_battle21a	От лайно!
+2710	vo_city_2_rbl4_building_down1	Бачили це?
+2711	vo_city_2_rbl3_building_down1a	Ви це бачили?
+2712	vo_city_2_rbl2_building_down2	Чорт!
+2713	vo_city_2_rbl4_building_down2a	Чорт!!!
+2714	vo_city_2_rbl3_building_down3	Будівля!
+2715	vo_city_2_rbl2_building_down3a	Будівля!
+2716	vo_city_2_rbl4_building_down4	Вона завалилася!
+2717	vo_city_2_rbl3_building_down4a	Вона завалилася!
+2718	vo_city_2_rbl3_building_down5	Сучий син!
+2719	vo_city_2_rbl4_building_down5a	Сучий син!
+2720	vo_city_2_rbl2_building_down6	Ні!!!
+2721	vo_city_2_rbl3_building_down6a	Ні!!!
+2722	vo_city_2_rbl4_building_down6b	Ні!!!
+2723	vo_city_2_rbl3_building_down7	Пітерс був там?
+2724	vo_city_2_rbl4_building_down8	Скільки було всередині?
+2725	vo_city_2_rbl2_building_down8a	Скільки людей там було?
+2726	vo_city_2_rbl4_building_down9	Загинули. Усім кінець.
+2727	vo_city_2_rbl2_building_down9a	Загинули. Усі загинули.
+2728	vo_city_2_rbl3_building_down10	Покидьки!
+2729	vo_city_2_rbl4_building_down10a	Покидьки!
+2730	vo_city_2_rbl4_gotta_fall_back	Треба відступати! Ми не впораємося; відходимо!
+2731	vo_city_2_rbl2_take_the_tunnel	Ідемо тунелем. Вперед, вперед!
+2732	vo_city_2_rbl3_down_here	Швидко! Сюди, вниз!
+2733	vo_city_2_rbl3_pulling_back	Відходимо, нам їх не зупинити...
+2734	vo_city_2_rbl3_demo_speech	Отже, ми оголосили Кронові війну! На вершинах гір і в морських глибинах, у повітрі й на землі не буде йому спокою. Ми знищимо Магістрат Крона! Панове, на нас чекають великі справи.
+2735	vo_city_2_rbl3_demo_speech2	Отже, ми оголосили Кронові війну! На вершинах гір і в морських глибинах, у повітрі й на землі не буде йому спокою. Ми знищимо Магістрат Крона! Панове, на нас чекають великі справи.
+2736	ex_reb4_expl_stuck_01	Я жити хочу!
+2737	ex_sld2_btl_cnt_al_05	Ти зробив помилку!
+2738	ex_pol3_respplr_bt_04	Пушку на землю!
+2739	ex_pol1_btl_cnt_gr_06	Тримайте його!
+2740	ex_sld1_respplr_bt_07	Ціль у межах видимості!
+2741	ex_sld2_btl_cnt_gr_03	Загоне! Знищити його!
+2742	ex_sld1_respplr_bt_03	Кидай зброю!
+2743	ex_slw1_hearyou_al_02	Сенсори ввімкнено.
+2744	ex_pol4_btl_cnt_al_02	Диспетчере, сповістіть усі загони!
+2745	ex_sld3_respplr_bt_03	Я його бачу!
+2746	ex_sld4_btl_cnt_gr_06	Загоне! Тримати стрій!
+2747	ex_sld4_ch_flanknw_06	Обходимо по периметру!
+2748	ex_sld4_rpplrsk_gr_04	Бачу ціль!
+2749	ex_sld3_btl_cnt_gr_02	Знищити ціль!
+2750	ex_eng1_spotplr_al_02	Як ви сюди потрапили?
+2751	ex_sld2_rpplrsk_al_01	Гей, ти! Стояти!
+2752	ex_sld3_ch_go_find_02	Прочесати район!
+2753	ex_sld3_ch_coverme_02	Загороджувальний вогонь!
+2754	ex_eng3_spotplr_al_06	Хто ти такий?
+2755	ex_reb2_greet_plyer_01	Гей!
+2756	ex_reb2_greet_plyer_02	Як справи?
+2757	ex_reb2_greet_plyer_03	Радий тебе бачити
+2758	ex_reb2_greet_plyer_04	Що нового?
+2759	ex_reb2_greet_plyer_05	Про тебе тут таке кажуть.
+2760	ex_reb1_greet_plyer_01	Гей!
+2761	ex_reb1_greet_plyer_02	Як справи?
+2762	ex_reb1_greet_plyer_03	Як справи, чортяко?
+2763	ex_reb1_greet_plyer_04	Як справуньки?
+2764	ex_reb1_greet_plyer_05	На тебе вся надія!
+2765	ex_reb1_gt_hideout_01	Прикриваю!
+2766	ex_reb1_expl_stuck_01	Допоможіть!
+2767	ex_reb1_command_fw_06	Наступаємо!
+2768	ex_reb1_incom_gren_05	Гей, стережися!
+2769	ex_reb1_idle_cough_05	Ой, як усе набридло!
+2770	ex_reb1_hit_respns_01	Я поранений!
+2771	ex_reb1_hit_respns_02	Мене зачепило!
+2772	ex_reb1_hit_respns_03	Я влип!
+2773	ex_reb1_hit_respns_04	Мене зачепило!
+2774	ex_reb1_hit_respns_05	Поранений!
+2775	vo_city_3_rbl3_lost_karch	Командувачу Кук, говорить Гансен. Втратили Карча й Міллера, але підібрали новачка, на якого варто глянути.
+2776	vo_city_3_rbl3_were_history	Якби не він, нам із Міллзом була б кришка. Цей його костюм...
+2777	vo_city_3_cooke_my_comm	Не треба, Гансене. Просто повідом йому мою командну частоту.
+2778	vo_city_3_cooke_change_plan	Плани змінилися. Веди свій загін до будівлі Військової адміністрації. Пройдете в метро тунелями. Будьте обережні - в парку кулемети. Сподіваюся, ви впораєтеся.
+2779	vo_city_3_rbl3_something_big	Будівля адміністрації Крона? Ото буде колотнеча...
+2780	vo_city_3_rbl3_together_guys	Збираємося, хлопці. Ідемо через парк.
+2781	vo_city_3_rbl3_new_ringer	Зараз наш герой їх відволіче, і шлях вільний. Не помирати, хлопці!
+2782	vo_city_3_rbl4_now_never	Тепер або ніколи...
+2783	vo_city_3_rbl4_lets_go	Ходімо, поспішай!
+2784	vo_city_3_rbl3_show_us	Солдате, покажи, на що здатен!
+2785	vo_city_3_rbl4_lead_way	Веди нас, хлопче!
+2786	vo_city_3_rbl3_waiting_for	А ти чого стоїш?!
+2787	vo_city_3_rbl3_more_coming_gate	Чорт! Наступ біля воріт! Ми тримаємо позицію, ви відходите. Марш, марш!
+2788	vo_city_3_rbl4_cover_you_move	Ми прикриємо, рухайся!
+2789	vo_city_3_rbl3_go_hurry	Пішов! Швидко!
+2790	vo_city_3_rbl4_get_outta_here	Забирайся звідти! Жвавіше, чоловіче!
+2791	vo_city_3_pol3_gunfires_dying	Стрілянина стихає. Здається, ми їх дістали.
+2792	vo_city_3_pol1_cant_believe_they	І вистачило ж у них нахабства сюди сунутися.
+2793	vo_city_3_pol3_wanna_die_fast	Хочуть здохнути швидко - ми це влаштуємо!
+2794	vo_city_3_rbl3_commander_we_need	Командире! Потрібне підкріплення, південний бік парку!!!
+2795	vo_city_3_cooke_all_we_got	Ваш загін - усе, що в нас є! Тримайтеся як-небудь!
+2796	vo_city_3_rbl3_sir_were_holding	Сер, ми тримаємося, але Міллзові плече прошили...
+2797	vo_city_3_cooke_just_keep_breathing	Не дай йому померти. І відбивай атаки!
+2798	vo_city_3_rbl3_position_secured	Контроль встановлено, сер, лишилося кілька осередків...
+2799	vo_city_3_cooke_good_hold_that	Чудово, синку. Утримуй цю позицію. Ви там усі живі?
+2800	vo_city_3_rbl3_just_new_guy	Це новий хлопець, сер.
+2801	vo_city_3_pol2_call_for_backup	Чорт! Клич наших!
+2802	vo_city_3_pol4_need_backup_now	Патруль, сектор 4, потрібне підкріплення!
+2803	vo_city_3_pol1_you_are_surrounded	Ти оточений! Кидай зброю!
+2804	vo_city_3_rbl3_heads_up_recon	Увага! Розвідка каже, до вас великий гість. Бережіть себе.
+2805	vo_city_3_rbl3_got_ambushed	Командире, ми потрапили в засідку, але загалом упоралися. Новий хлопець усюди проходить, як ніж крізь масло, просто неймовірно, сер!
+2806	vo_city_3_cooke_take_care_hansen	Зрозумів. Бережи своїх людей, Гансене, вони нам знадобляться.
+2807	vo_city_3_cooke_youre_solo	Схоже, синку, тобі доведеться діяти самотужки. Сподіваюся, Гансен у тобі не помилився. Іди через метро; щойно дістанешся до Військової адміністрації, виходь на зв'язок. Удачі.
+2808	vo_skscr_1_rbl6_sentry_stay_quiet	Тихо, Вартовий! Патрулює.
+2809	vo_skscr_1_rbl6_the_suit_guy	А, чоловік у костюмі... Чув, чув.
+2810	vo_skscr_1_rbl6_waiting_for_backup	Я чекав підкріплення. Еммерсон хотів прорватися, але не зміг. Він був найшвидший...
+2811	vo_skscr_1_rbl6_just_sit_tight	А я кажу, сидимо тихо й чекаємо підтримки. Може, з флангу візьмемо, типу...
+2812	vo_skscr_1_rbl6_i_can_tell	Я знаю, що ти задумав... Кинь, не варто.
+2813	vo_skscr_1_rbl6_wanna_end_up	...якщо не хочеш піти слідом за Еммерсоном...
+2814	vo_skscr_1_cooke_great_you_made	Чудово. Тепер слухай: треба дістатися до будівлі адміністрації. Час іде. Крон уже стратив одного з наших інформаторів...
+2815	vo_skscr_1_cooke_great_you_made2	Мій чоловік зумів проникнути в базу даних з розробки зброї. Забери дані, поки канал не перекрили!
+2816	vo_skscr_1_cooke_contact_me_when	Дістанешся до сервера - зв'яжися зі мною. До того на зв'язок не виходь.
+2817	vo_skscr_1_rbl3_talked_to_cooke	Говорив із Куком, тепер ми з тобою.
+2818	vo_skscr_1_rbl2_can_t_believe	Невже сам підеш? Це навіть для Кука занадто...
+2819	vo_skscr_1_rbl3_entrance_around	Вхід за рогом. Розважимося!
+2820	vo_skscr_1_rbl3_in_position	Ми на позиції, одразу за вами!
+2821	vo_skscr_1_rbl3_wherenever	Щойно будеш готовий.
+2822	vo_skscr_1_rbl3_let_s_go	Ану, звалимося їм на голови!
+2823	vo_skscr_1_rbl3_come_on_move	Вперед, ворушись!
+2824	vo_skscr_1_rbl2_were_losing_time	Ми гаємо час!
+2825	vo_skscr_1_rbl2_need_to_move	Час рухатися!
+2826	vo_skscr_1_rbl2_lets_do_this	Ну, з богом!
+2827	vo_skscr_1_rbl5_got_you_covered	Ми тебе прикриваємо, ясно?
+2828	vo_skscr_1_rbl5_what_you_waiting	Гей, замріявся?
+2829	vo_skscr_1_rbl5_need_to_go	Час іти. Час!
+2830	vo_skscr_1_rbl3_into_that_building	Вхід у будівлю - через гараж. Ми окопаємося й затримаємо їх. Пішов, марш!
+2831	vo_skscr_1_rbl5_whats_hold_up	Чому затримка? Давай сюди!
+2832	vo_skscr_1_rbl5_get_moving_cant	Швидше! Ми не зможемо їх довго стримувати!
+2833	vo_skscr_1_rbl3_cooke_will_have	Кук нас живцем з'їсть, якщо ми не доставимо тебе он у той будинок. Ну, ходімо!
+2834	vo_skscr_1_autovo_act	Увімкнено.
+2835	vo_skscr_1_autovo_deact	Вимкнено.
+2836	vo_skscr_2_pol3_use_truck_turrets	Кулемет на вантажівці! Швидко!
+2837	vo_skscr_2_autovo_crane_in_motion	Увага. Працює кран, будьте обережні.
+2838	vo_skscr_2_wrk1_should_do_it	Має спрацювати, вмикай.
+2839	vo_skscr_2_wrk2_roger_that	Зрозумів.
+2840	vo_skscr_2_wrk1_ok_almost_finished	Так... Майже все.
+2841	vo_skscr_2_wrk1_ahhh_security	Аааа! Охорона! Охорона!
+2842	vo_skscr_2_autovo_def_sys_offline	Системи захисту вимкнено, доступ до котельні відкрито.
+2843	vo_skscr_2_rbl3_gonna_be_sick	Охоронець... Мене зараз знудить.
+2844	vo_skscr_2_pol2_shut_up_not_another	Замовкни! Стули пельку, кому сказано!
+2845	vo_skscr_2_rbl1_gotta_get_out	Випустіть мене! Будь ласка!
+2846	vo_skscr_2_pol4_sit_down_shut_up	Сядь і замовкни! Жити набридло?!
+2847	vo_skscr_2_rbl5_incoherent_babble	(нерозбірливе бурмотіння)
+2848	vo_skscr_2_pol1_come_on_you	Ану повиступай мені ще!
+2849	vo_skscr_2_rbl6_your_fault_admit	Зізнайся, це ти винен!
+2850	vo_skscr_2_rbl3_what_you_doing_stop	Ти що робиш?! Стій!
+2851	vo_skscr_2_rbl6_you_did_this	Твоїх рук справа! Не викручуйся!
+2852	vo_skscr_2_rbl4_who_s_there	Хто там?
+2853	vo_skscr_2_pol1_security_breach	Тривога! Клич усіх!
+2854	vo_skscr_2_pol2_im_on_it	Є!
+2855	vo_skscr_2_pol2_have_an_intruder	У тюремному секторі порушник. Повторюю, порушник. Оточити периметр!!!
+2856	vo_skscr_2_pol3_im_in_control_room	Я в диспетчерській. Ми замкнені... поруч автоматичні кулемети...
+2857	vo_skscr_2_pol4_copy_that_im	Зрозумів. За кулеметом, біля ліфта. Живим він не піде.
+2858	vo_skscr_2_autovo_security_sys_act	Системи захисту ввімкнено.
+2859	vo_skscr_2_autovo_security_sys_deact	Системи захисту вимкнено.
+2860	vo_skscr_2_pol4_did_u_get_him	Ти його зняв?
+2861	vo_skscr_2_pol4_i_said_did	Гей, ти його зняв чи ні?!
+2862	vo_skscr_2_pol4_shit	Чорт...
+2863	vo_skscr_3_sam_pinging_remote	Зафіксовано активність сервера в межах виявлення.
+2864	vo_skscr_3_cooke_i_copy	Зрозумів тебе. Наш покійний інформатор повідомив, що через цей сервер можна отримати дані з розробки зброї. Вони досі зберігаються в застарілій системі, хлопець якраз намагався завадити модернізації. Це його й згубило.
+2865	vo_skscr_3_autovo_unauthorized	Увага. Несанкціонований доступ. Негайно повідомити службу безпеки.
+2866	vo_skscr_3_cooke_our_only_shot	У нас був лише один шанс отримати ці дані... Центральний комп'ютер на верхньому поверсі, але там усе  зашифровано. Чорта з два ми їх тепер отримаємо...
+2867	vo_skscr_3_cooke_just_intercepted	Ми щойно перехопили переговори противника. Вони знають, що ти всередині. Вибирайся на дах, ми летимо по тебе!
+2868	vo_skscr_3_sam_system_located	Виявлено систему. Починаю аналіз методів шифрування.
+2869	vo_skscr_3_cooke_recon_reporting	Розвідка доповідає, що на дах висадилися війська. Перекривають усі входи. Тебе шукають. Будь обережний.
+2870	vo_skscr_3_autovo_elevator_out_of_service	Цей ліфт вийшов з ладу. Заради вашої безпеки утримайтеся від користування несправним ліфтом.
+2871	ex_sld2_btl_cnt_gr_04	Відкрити вогонь!
+2872	ex_sld3_hearyou_al_03	Хто там?
+2873	ex_sld2_ch_stayalrt_02	Дивіться навсібіч.
+2874	vo_skscr_4_cooke_read_your	Я засік твої координати. А тепер - до роботи. Ми не зможемо приземлитися, поки весь дах не буде під контролем!
+2875	vo_skscr_4_cooke_hansen_kidding	Гансен у тобі не помилився. І як тобі тільки це вдається? Давай, швидше, час спливає!
+2876	vo_skscr_4_cooke_too_much_gunfire	Ми під обстрілом! Вогневі точки на сусідніх дахах! Займися ними! Швидше!
+2877	vo_skscr_4_cooke_good_shot	Чудовий постріл. Ще три.
+2878	vo_skscr_4_cooke_only_2	Лишилося дві вогневі точки! Продовжуй!
+2879	vo_skscr_4_cooke_only_1_more	Прекрасно. Лишилася остання.
+2880	vo_skscr_4_cooke_great_job	Чудово. По периметру все чисто. Тепер тобі треба піднятися вище й знайти маяк. Увімкни його - тоді ми зможемо тебе побачити.
+2881	vo_skscr_4_cooke_turn_on_beacon	Вмикай маяк! Майданчика зовсім не видно!
+2882	vo_skscr_4_cooke_great_we_have	Чудово, ми тебе бачимо. А тепер - швидко нагору!
+2883	vo_skscr_4_cooke_we_have_visual	Ми тебе бачимо!
+2884	vo_skscr_4_cooke_get_in_here	Сюди! Давай, давай, давай!
+2885	vo_zr_1_cooke_thought_we_did	Я думав, що ми тебе втратили. Сподіваюся, цього не станеться і ми щасливо зустрінемося.
+2886	vo_zr_1_cooke_looks_like	Схоже, ти вирішив приготувати нам сюрприз. Відтоді, як ти тут з'явився, цей твій костюм почав завантажувати в нашу систему до біса інформації!
+2887	vo_zr_1_rbl2_uh_sir	Е.. Сер! Подивіться на це!
+2888	vo_zr_1_cooke_what_s_the_problem	Гей, у чому проблема?
+2889	vo_zr_1_rbl2_no_problem	Жодних проблем, сер, жодних! Просто... пам'ятаєте, тоді... його костюм сам зламав мою систему й завантажив усі дані?
+2890	vo_zr_1_cooke_yeah_so	Так, ну і?..
+2891	vo_zr_1_rbl2_that_suit_somehow	Отже... в пам'яті костюма повна копія мережі Крона. Зламано всі шифровані файли, відео з камер безпеки, усі проєкти й розробки. Уся мережа, цілком.
+2892	vo_zr_1_cooke_alright_just_relax	Гаразд, розслабся.
+2893	vo_zr_1_rbl2_holy_shit	От лайно... дивіться, секретне тюремне досьє...
+2894	vo_zr_1_cooke_wait_what_are	Гей, що ти задумав?
+2895	vo_zr_1_rbl2_delta_battalion	Сер, батальйон \"Дельта\", можливо, ще тримається!
+2896	vo_zr_1_cooke_wait_what	Стривай, стривай... Що?
+2897	vo_zr_1_rbl2_on_this_roster	Вони всі в цьому списку, тому їх і не стратили!!!
+2898	vo_zr_1_cooke_where_is_it	Так... куди далі?
+2899	vo_zr_1_rbl2_just_outside_nome	В'язниця неподалік від Нома, поруч із трудовим табором.
+2900	vo_zr_1_cooke_where_it_crashed	Так... Правильно... Ось тут він і розбився.
+2901	vo_zr_1_rbl2_this_is_impossible	Сер, так не буває. Тобто на нинішньому рівні технологій таке неможливо... ніяк. Але все-таки... Він це зробив.
+2902	vo_zr_1_rbl2_got_krone	Це змінює справу. Тепер ми притиснемо Крона як слід!
+2903	vo_zr_1_cooke_who_exactly	Послухай, хлопче... хто ти такий?
+2904	vo_zr_1_rbl6_air_mines	Повітряні міни прямо по курсу!
+2905	vo_zepcomp_alarm_mine	Тривога на мінному полі. Тривога на мінному полі. Усім зайняти бойові пости.
+2906	vo_zr_1_cooke_take_the_wheel	Беру керування на себе!
+2907	vo_zr_1_cooke_get_on_deck	Давай на палубу! Іди до правого кулемета! Живо!
+2908	vo_zr_1_cooke_on_deck_dammit	На палубу, чорт тебе забирай!
+2909	vo_zr_1_cooke_we_need_your	Нам потрібна твоя допомога! Поспішай!
+2910	vo_zr_1_cooke_get_up_there	Сюди!!!
+2911	vo_zr_1_rbl2_get_up_on	Лізь на борт, швидше!
+2912	vo_zr_1_rbl2_you_gotta_move	Давай, іди, швидко!
+2913	vo_zr_1_rbl2_get_out_there	Давай звідти, швидко!
+2914	vo_zr_1_rbl3_no_time	Немає часу. Жвавіше!
+2915	vo_zr_1_rbl3_get_on_turret	Давай до кулемета! Швидко!
+2916	vo_zr_1_rbl3_around_long	Ворушися, хлопче!
+2917	vo_zr_1_rbl6_go_now	Вперед, марш!
+2918	vo_zr_1_rbl6_help_us_defend	Допоможи! Захищай дирижабль!
+2919	vo_zr_1_rbl6_soldier_we_need	Солдате, потрібна допомога!
+2920	vo_zr_1_cooke_front_turret	Давай до носової гармати! Збивай міни, поки вони не розвернулися! Швидше!
+2921	vo_zr_1_cooke_shoot_mines	Стріляйте по мінах, поки вони не набрали швидкість!
+2922	vo_zr_1_cooke_aron_hit_something	Ти будеш стріляти чи ні? Тільки заважаєш!
+2923	vo_zr_1_cooke_look_alive_bomber	Ворушіться! Бомбардувальник прямо по курсу! Міни!
+2924	vo_zr_1_cooke_another_bomber	Ще бомбовоз!
+2925	vo_zr_1_cooke_dammit_more_mines	Чорт! Вони знову скинули міни! Тримайтеся!
+2926	vo_zr_1_cooke_destroyers_incoming	Бачу два винищувачі!
+2927	vo_zr_1_cooke_lost_aron_wing	Ми втратили Арона. Займи його місце! Його кулемет потужніший! Швидше!
+2928	vo_zr_1_cooke_man_big_turret_right	Що ти там копирсаєшся, чорт забирай?! До кулемета \"Джекгаммер\", на праве крило!
+2929	vo_zr_1_cooke_hurry_up_jackhammer	Ворушися, солдате! Давай до \"Джекгаммера\"!
+2930	vo_zr_1_cooke_enemy_left	Противник ліворуч!
+2931	vo_zr_1_cooke_attack_right2	Праворуч! Праворуч!
+2932	vo_zr_1_cooke_attack_left	Атака ліворуч!
+2933	vo_zr_1_cooke_attack_straight_ahead	Противник прямо по курсу!
+2934	vo_zr_1_cooke_my_god_all_hands	Господи... Увага всім! Приготуватися до бою!
+2935	vo_zr_1_cooke_destroyers_ahead_fire	Увага всім! Прямо по курсу - винищувачі! Вогонь!
+2936	vo_zepcomp_right_engine_breached	Правий двигун пошкоджено.
+2937	vo_zepcomp_right_engine_no_funct	Увага! Відмова правого двигуна!
+2938	vo_zepcomp_ship_80_funct	Пошкодження фюзеляжу - 20%.
+2939	vo_zr_1_cooke_80_funct	Не розслаблятися! Якщо ми не відіб'ємо атаку, дирижабль довго не протримається!
+2940	vo_zepcomp_left_engine_breached	Лівий двигун пошкоджено.
+2941	vo_zepcomp_left_engine_no_funct	Увага! Відмова лівого двигуна!
+2942	vo_zepcomp_ship_70_funct	Пошкодження фюзеляжу - 30%.
+2943	vo_zr_1_cooke_70_funct	Дирижабль ще тримається! Не здаватися, хлопці! Проб'ємося!
+2944	vo_zepcomp_right_stab_breached	Правий стабілізатор пошкоджено.
+2945	vo_zepcomp_right_stab_no_funct	Увага! Відмова правого стабілізатора!
+2946	vo_zepcomp_ship_60_funct	Пошкодження фюзеляжу - 40%.
+2947	vo_zr_1_cooke_60_funct	Прокляття! Наші втрати зростають!
+2948	vo_zepcomp_left_stab_breached	Лівий стабілізатор пошкоджено.
+2949	vo_zepcomp_left_stab_no_funct	Увага! Відмова лівого стабілізатора!
+2950	vo_zepcomp_ship_50_funct	Пошкодження фюзеляжу - 50%.
+2951	vo_zr_1_cooke_50_funct	Потужність 50%! Швидше, інакше нам не вибратися!
+2952	vo_zepcomp_rear_rudder_malfunct	Відмова керма напрямку.
+2953	vo_zepcomp_ship_40_funct	Пошкодження фюзеляжу - 60%.
+2954	vo_zr_1_cooke_40_funct	У нас серйозні пошкодження, довго не протримаємося!
+2955	vo_zepcomp_leak_in_hull	Критичне пошкодження обшивки.
+2956	vo_zepcomp_ship_30_funct	Пошкодження фюзеляжу - 70%.
+2957	vo_zepcomp_ship_20_funct	Пошкодження фюзеляжу - 80%.
+2958	vo_zr_1_cooke_20_funct	Плювати на сигнал тривоги! Це наказ! Продовжувати бій!
+2959	vo_zepcomp_ship_funct_below	Увага! Критичні пошкодження фюзеляжу. Негайно залишити борт.
+2960	vo_zr_1_cooke_10_funct	Ще трохи! Давай, тримайся!
+2961	vo_zepcomp_airframe_int_failing	Загроза пошкодження фюзеляжу.
+2962	vo_zepcomp_airframe_int_failure	Фюзеляж пошкоджено.
+2963	vo_zepcomp_airframe_int_malf	Цілісність фюзеляжу порушено.
+2964	vo_zepcomp_airframe_int_stabilizing	Увага! Відновлення цілісності фюзеляжу.
+2965	vo_zepcomp_airframe_int_stable	Фюзеляж у нормі.
+2966	vo_zepcomp_airframe_int_restored	Цілісність фюзеляжу відновлено.
+2967	vo_zr_1_cooke_son_of_bitch	Сучий син... Ну чого ти чекаєш, ми тут як на долоні!
+2968	vo_zr_1_cooke_delta_battalion	Ви маєте розшукати солдатів батальйону \"Дельта\". Їхній дирижабль збили кілька місяців тому. Ми думали, що Крон уже давно їх стратив, але завдяки тобі дізналися, що вони у в'язниці. Ти маєш їх визволити.
+2969	vo_zr_1_cooke_delta_battalion2	Якщо зважити на те, що я знаю про тебе й твій скафандр, проблем у тебе не буде...
+2970	vo_zr_1_cooke_nichols_ross	Ви з Ніколасом і Россом вирушите вниз, у каньйони. Планер зараз в ангарі. Як приземлишся, повідом, а так - дотримуйся мовчання. Спробую відвести звідси ворогів. Удачі!
+2971	vo_zr_1_rbl3_ok_boys	Ну, хлопці, тримайтеся міцніше. Буде трясти!
+2972	vo_zcs_1_rbl3_get_ready	Готуйся, по нас уже йдуть.
+2973	vo_zcs_1_rbl4_shit_on_quads	О, чорт... схоже, вони на колесах...
+2974	vo_zcs_1_cooke_good_starting_point	Найкраще почати з місця катастрофи дирижабля \"Дельти\". За нашими даними, Магістрат укріпив цей район і перетворив на свою базу.
+2975	vo_sam_explosive_materials	Вибухові речовини в межах виявлення.
+2976	vo_zcs_2_cooke_have_your_location	Я зрозумів, де ти. Схоже, Крон хотів надійно сховати цю в'язницю... але ми знаємо, що вона неподалік від місця катастрофи.
+2977	vo_zcs_2_cooke_have_your_location2	Візьми під контроль місце катастрофи, поки противник не викликав підкріплення. Будеш на місці - вийди на зв'язок.
+2978	vo_zcs_2_cooke_prison_supply_route	Ми виявили дорогу, якою до в'язниці підвозять припаси. Вона проходить повз місце катастрофи. Знайди її: рейками можна дістатися до в'язниці. Удачі!
+2979	vo_zcs_2_sam_malfunction	Збі... Збій системи...
+2980	vo_zcs_3_sam_prison_located	Виявлено потрібний об'єкт. Продовжуйте виконання завдання.
+2981	vo_zcs_3_rbl1_aaagh_1	ААА!!!
+2982	vo_zcs_3_rbl2_aaagh_2	ААА!!!
+2983	vo_zcs_3_rbl3_aaagh_3	ААА!!!
+2984	vo_zcs_3_rbl4_aaagh_4	ААА!!!
+2985	vo_zcs_3_rbl5_aaagh_5	ААА!!!
+2986	vo_zcs_3_rbl6_aaagh_6	ААА!!!
+2987	vo_zcs_3_rbl4_aaagh_7	ААА!!!
+2988	vo_zcs_3_rbl2_aaagh_8	ААА!!!
+2989	vo_zcs_3_rbl5_aaagh_9	ААА!!!
+2990	vo_zcs_3_rbl3_aaagh_10	ААА!!!
+2991	vo_zcs_3_rbl1_hey_who	Гей! Хто це?
+2992	vo_zcs_3_rbl2_whos_out	Хто там?
+2993	vo_zcs_3_rbl3_theyre_gonna	Вони нас уб'ють!
+2994	vo_zcs_3_rbl4_get_us_outta	Витягни нас звідси!
+2995	vo_zcs_3_rbl5_is_that_you	Кук? Це ви?
+2996	vo_zcs_3_rbl6_theyre_coming	Вони йдуть по нас!
+2997	vo_zcs_3_rbl1_whos_shooting	Хто стріляє?
+2998	vo_zcs_3_rbl2_help_get_us	Допоможіть! Витягніть нас!
+2999	vo_zcs_3_rbl3_execute_us	Вони хочуть нас стратити!
+3000	vo_zcs_3_rbl4_found_us	Схоже, нас знайшли.
+3001	vo_zcs_3_rbl5_over_here	Сюди!
+3002	vo_zcs_3_rbl6_come_on_help	Гей, сюди, допоможи!
+3003	vo_zcs_3_rbl1_someone_out	Там хтось є!
+3004	vo_zcs_3_rbl2_i_hear_him	Я його чую!
+3005	vo_zcs_3_rbl3_are_we_rescued	Ми врятовані?!
+3006	vo_zcs_3_rbl4_hes_goin_right	Іде прямо до них!
+3007	vo_zcs_3_rbl5_get_em	Так! Так їх! Бий їх!
+3008	vo_zcs_3_rbl6_take_em_all	Витягай усіх!
+3009	vo_zcs_3_rbl1_you_better_hurry	Поспішай!

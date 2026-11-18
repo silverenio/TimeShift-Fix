@@ -1,0 +1,628 @@
+1639	UI_LOADING_SCR_HINT_37	Керуючи квадроциклом і стріляючи з кулемета, не забувайте про хроноконтроль.
+1640	UI_LOADING_SCR_HINT_38	Зіткнувшись із групою супротивників, спробуйте кинути в одного з них гранату-липучку.
+1641	UI_LOADING_SCR_HINT_39	За допомогою хронозсуву можна ухилятися від гранат-липучок.
+1642	UI_LOADING_SCR_HINT_40	У стражів у квантових костюмах неможливо викрасти зброю. Навіть не намагайтеся.
+1643	UI_LOADING_SCR_HINT_41	Бета-спорядження захищає вас від БУДЬ-ЯКИХ ефектів інверсії часу - і позитивних, і негативних.
+1644	UI_LOADING_SCR_HINT_42	Інверсія часу не поверне вам витрачені набої та гранати.
+1645	GAME_PLAYER_JOINED	Гравець {STRING} приєднався до гри
+1646	GAME_PLAYER_DISCONNECTED	Гравець {STRING} вийшов
+1647	GAME_PLAYER_KILLED	Гравець {STRING} загинув
+1648	GAME_PLAYER_SUICIDE_DEAFULT	Гравець {STRING} убив себе
+1649	GAME_PLAYER_FRAGGED_DEFAULT1	Гравця {STRING} убив гравець {STRING}
+1653	GAME_PLAYER_JOINED_TEAM	Гравець {STRING} приєднався до гри {STRING}
+1654	GAME_YOU_JOINED_TEAM	Ви приєдналися до гри {STRING}
+1655	GAME_PLAYER_LEFT_TEAM	Гравець {STRING} вийшов із гри {STRING}
+1656	GAME_PLAYER_KILLED_KING	Гравець {STRING} убив короля
+1657	GAME_PLAYER_CHANGED_NAME	Гравець {STRING} змінив ім'я на \"{STRING}\"
+1658	GAME_PLAYER_SPECTATE	Гравець {STRING} став глядачем
+1659	GAME_PLAYER_IS_READY	Гравець {STRING} готовий
+1660	GAME_PLAYER_IS_NOT_READY	Гравець {STRING} не готовий
+1661	GAME_PLAYER_CAN_NOT_SPECTATE	Ви не можете стати глядачем. \nГлядачів забагато.
+1662	GAME_VOTE_ALREADY_STARTED	Голосування вже триває!
+1663	GAME_PLAYER_VOTED_YES	Гравець {STRING} проголосував \"За\" (%d / %d)
+1664	GAME_PLAYER_VOTED_NO	Гравець {STRING} проголосував \"Проти\" (%d / %d)
+1665	GAME_PLAYER_KICKED	Гравця {STRING} виключено з гри
+1666	GAME_PLAYER_KILLED_BY	Вас убив гравець {STRING}
+1667	GAME_PLAYER_KING_KILLER	Ви вбили короля!
+1668	GAME_PLAYER_LEADS	Лідирує гравець {STRING}
+1669	GAME_TEAM_TIED	Гравець {STRING} наздогнав лідера
+1670	GAME_TEAM_LEADS	Лідирує гравець {STRING}
+1671	GAME_PLAYER_IS_KING	Гравець {STRING} - король часу!
+1672	GAME_PLAYER_IS_NOT_KING	Гравець {STRING} - більше не король!
+1673	GAME_GOT_RED_FLAG	Гравець {STRING} узяв прапор червоних!
+1674	GAME_GOT_BLUE_FLAG	Гравець {STRING} узяв прапор синіх!
+1675	GAME_RETRIEVE_RED_FLAG	Гравець {STRING} повернув прапор червоних!
+1676	GAME_RETRIEVE_BLUE_FLAG	Гравець {STRING} повернув прапор синіх!
+1677	GAME_CAPTURED_RED_FLAG	Гравець {STRING} захопив прапор червоних!
+1678	GAME_CAPTURED_BLUE_FLAG	Гравець {STRING} захопив прапор синіх!
+1679	GAME_DROPPED_RED_FLAG	Гравець {STRING} кинув прапор червоних!
+1680	GAME_DROPPED_BLUE_FLAG	Гравець {STRING} кинув прапор синіх!
+1681	GAME_RESTORED_RED_FLAG	Прапор червоних повернуто
+1682	GAME_RESTORED_BLUE_FLAG	Прапор синіх повернуто
+1683	GAME_RED_TEAM_WON	Перемогла команда червоних
+1684	GAME_BLUE_TEAM_WON	Перемогла команда синіх
+1685	GAME_PLAYER_WON	Переміг гравець {STRING}
+1686	GAME_MINUTES_LEFT	Залишилося {STRING} хв.
+1687	GAME_SECONDS_LEFT	Залишилося {STRING} с.
+1688	GAME_ONE_MINUTE_LEFT	Залишилася хвилина
+1689	GAME_ONE_SECOND_LEFT	Залишилася 1 секунда
+1690	GAME_MP_ROUND_STARTS_IN	{STRING} с. до початку раунду
+1691	GAME_MP_GAME_STARTS_IN	{STRING} с. до початку гри
+1693	GAME_PLAYER_KILLER	Ви вбили гравця {STRING}
+1695	GAME_MP_DESC_WARMUP	Підготовка
+1696	GAME_MP_DESC_ROUND_ENDED	Раунд закінчено
+1697	GAME_MP_DESC_ROUND_STARTS	Початок раунду...
+1698	GAME_MP_DESC_GAME_STARTS	Початок гри...
+1699	GAME_MP_DESC_WAITNG	Гра не почнеться\nЗамало учасників
+1700	GAME_MP_DESC_WAITING_FOR_PLAYERS	Для початку гри потрібно\nще щонайменше {STRING} гравців
+1701	GAME_MP_DESC_WAITING_FOR_ONE_PLAYER	Для початку гри потрібен\nще один гравець
+1702	GAME_MP_DESC_NOT_READY	Виберіть пункт \"ГОТОВИЙ\",\nщоб завершити підготовку
+1703	GAME_MP_DESC_RED_TEAM_IS_EMPTY	Початок гри неможливий:\nу команді червоних немає гравців
+1704	GAME_MP_DESC_BLUE_TEAM_IS_EMPTY	Початок гри неможливий:\nу команді синіх немає гравців
+1705	GAME_MP_DESC_WAIT_JOIN	Очікування\nзакінчення завантаження
+1706	GAME_PLAYER_YOUR_SCORE	Ваш рахунок:
+1707	GAME_PLAYER_LEAD	Ви лідируєте
+1708	GAME_MP_ADVANCES_DOUBLE_KILL	Дві жертви {PARAM}
+1709	GAME_MP_ADVANCES_HAT_TRICK	Три жертви {PARAM}
+1710	GAME_MP_ADVANCES_QUADRA_KILL	Чотири жертви {PARAM}
+1711	GAME_MP_ADVANCES_FURY_KILL	МАСОВЕ ВБИВСТВО {PARAM}
+1712	GAME_MP_ADVANCES_END_DOUBLE_KILL	Гравець {STRING} убив двох {PARAM}
+1713	GAME_MP_ADVANCES_END_HAT_TRICK	Гравець {STRING} убив трьох {PARAM}
+1714	GAME_MP_ADVANCES_END_QUADRA_KILL	Гравець {STRING} убив чотирьох {PARAM}
+1715	GAME_MP_ADVANCES_END_FURY_KILL	Гравець {STRING} вчинив МАСОВЕ ВБИВСТВО {PARAM}
+1716	GAME_MP_ADVANCES_MASTER_OF_KILL	Гравець {STRING} влаштував криваву різанину!
+1717	GAME_MP_ADVANCES_KILLING_RAGE	Гравець {STRING} - берсерк!
+1718	GAME_MP_ADVANCES_UNTOUCHABLE	Гравець {STRING} - НЕДОТОРКАННИЙ!
+1719	GAME_MP_ADVANCES_MASS_MURDERER	Гравець {STRING} - СЕРІЙНИЙ ВБИВЦЯ!
+1720	GAME_MP_ADVANCES_GRIM_REAPER	Гравець {STRING} - ВТІЛЕННЯ СМЕРТІ!
+1721	GAME_MP_ADVANCES_MASTER_OF_KILL_ICON	Кривава різанина {PARAM}
+1722	GAME_MP_ADVANCES_KILLING_RAGE_ICON	Берсерк {PARAM}
+1723	GAME_MP_ADVANCES_UNTOUCHABLE_ICON	НЕДОТОРКАННИЙ {PARAM}
+1724	GAME_MP_ADVANCES_MASS_MURDERER_ICON	СЕРІЙНИЙ ВБИВЦЯ {PARAM}
+1725	GAME_MP_ADVANCES_GRIM_REAPER_ICON	ВТІЛЕННЯ СМЕРТІ {PARAM}
+1726	GAME_MP_ADVANCES_SPREE	{STRING} здійснив серію з {STRING} убивств {PARAM}
+1730	GAME_MP_TYPE_DM	Кожен за себе (класика)
+1731	GAME_MP_TYPE_TDM	Командний бій (класика)
+1732	GAME_MP_TYPE_KOT	Король часу (класика)
+1733	GAME_MP_TYPE_STM	Катастрофа (класика)
+1734	GAME_MP_TYPE_TA	Арена (класика)
+1735	GAME_MP_TYPE_LMS	Виживання (класика)
+1736	GAME_MP_TYPE_CTF	Захоплення прапора (класика)
+1737	GAME_MP_TYPE_1V1	Дуель (класика)
+1738	GAME_MP_MODE_DM_FULL	Кожен за себе
+1739	GAME_MP_MODE_DM_ABB	КЗС
+1740	GAME_MP_MODE_TDM_FULL	Командний бій
+1741	GAME_MP_MODE_TDM_ABB	КМБ
+1742	GAME_MP_MODE_KOT_FULL	Король часу
+1743	GAME_MP_MODE_KOT_ABB	КЧ
+1744	GAME_MP_MODE_STM_FULL	Катастрофа
+1745	GAME_MP_MODE_STM_ABB	К
+1746	GAME_MP_MODE_WARMUP_FULL	Підготовка
+1747	GAME_MP_MODE_ROUND_SWITCH_FULL	Зміна раундів
+1748	GAME_MP_MODE_CTF_FULL	Захоплення прапора
+1749	GAME_MP_MODE_CTF_ABB	ЗП
+1750	GAME_MP_MODE_1V1_FULL	Дуель
+1751	GAME_MP_MODE_1V1_ABB	Д
+1752	GAME_MP_MODE_LMS_FULL	Виживання
+1753	GAME_MP_MODE_TA_FULL	Арена
+1754	GAME_MP_MODE_LMS_ABB	ВЖ
+1755	GAME_MP_MODE_TA_ABB	АР
+1756	GAME_MP_MODE_ROCKET_ARENA	Арена: ракети
+1757	GAME_MP_MODE_SNIPER_ARENA	Арена: снайпери
+1758	GAME_MP_MODE_STEEL_SKIN	Сталева шкіра
+1759	GAME_MP_MODE_ONE_SHOT_ONE_KILL	Один постріл - один труп
+1760	GAME_MP_MODE_SLOW_TO_KILL	Смерть у часі
+1761	GAME_MP_MODE_VAMPIRE	Вампір
+1762	GAME_MP_MODE_ATHLETIC	Атлети
+1763	GAME_MP_MODE_LOW_GRAVITATION	Низька гравітація
+1764	GAME_MP_MODE_ROCKET_ARENA_DESCRIPTION	Жодних засідок, жодного бігу. Єдина зброя - ПРК \"Бладгаунд\".
+1765	GAME_MP_MODE_SNIPER_ARENA_DESCRIPTION	Перевірте, який ви снайпер. Єдина зброя - гвинтівка \"Ехо\".
+1766	GAME_MP_MODE_STEEL_SKIN_DESCRIPTION	Гравці менш уразливі для зброї.
+1767	GAME_MP_MODE_ONE_SHOT_ONE_KILL_DESCRIPTION	Будь-який супротивник гине від одного пострілу. Як і ви самі.
+1768	GAME_MP_MODE_SLOW_TO_KILL_DESCRIPTION	Творіть дива хроноконтролю, заманюючи супротивників у пастки. Убивати можна лише тих, хто перебуває в полі часу.
+1769	GAME_MP_MODE_VAMPIRE_DESCRIPTION	Ви - вампір. Щоб вижити, вам треба вбивати.
+1770	GAME_MP_MODE_ATHLETIC_DESCRIPTION	Підвищення швидкості бігу та висоти стрибків.
+1771	GAME_MP_MODE_LOW_GRAVITATION_DESCRIPTION	Стрибати вище, падати м'якше, грати веселіше.
+1772	GAME_ts2_city_part01	Прибуття
+1773	GAME_ts2_city_part02	Повернення
+1774	GAME_ts2_city_part03	Свіжа кров
+1775	GAME_ts2_skyscraper_part1	Проникнення
+1776	GAME_ts2_skyscraper_part2	Перший поверх
+1777	GAME_ts2_skyscraper_part3	Пограбування
+1778	GAME_ts2_skyscraper_part4	Втеча
+1779	GAME_ts2_zepride1_part01	Вороже небо
+1780	GAME_ts2_zepcrashsite_part01	Краще пізно...
+1781	GAME_ts2_zepcrashsite_part02	Слабке місце
+1782	GAME_ts2_zepcrashsite_part03	Звільнення
+1783	GAME_ts2_guardfactory_part01	Лабораторії
+1784	GAME_ts2_guardfactory_part02	Знову на заводі
+1785	GAME_ts2_guardfactory_part03	Доопрацювання
+1786	GAME_ts2_guardfactory_part04	Диверсія
+1787	GAME_ts2_guardfactory_part05	Відхід
+1788	GAME_ts2_summeroutdoor_part01	На дорозі
+1789	GAME_ts2_summeroutdoor_part02	Вторгнення
+1790	GAME_ts2_zep_factory_part1	Проїзд
+1791	GAME_ts2_zep_factory_part2	Непрохані гості
+1792	GAME_ts2_zep_factory_part3	Труба
+1793	GAME_ts2_zep_factory_part4	Ремонтники
+1794	GAME_ts2_zepride2_part01	У дорозі
+1795	GAME_ts2_cityfinal_part01	Наслідки
+1796	GAME_ts2_city_mission	Район \"Альфа\" (місто)
+1797	GAME_ts2_skyscraper_mission	Цитадель (хмарочос)
+1798	GAME_ts2_zepride1_mission	Бій у небесах (дирижабль 1)
+1799	GAME_ts2_zepcrashsite_mission	Забуті (місце катастрофи)
+1800	GAME_ts2_guardfactory_mission	Збройовий завод (завод стражів)
+1801	GAME_ts2_summeroutdoor_mission	Чужа територія (відкрита місцевість)
+1802	GAME_ts2_zep_factory_mission	Штурм ангара (завод дирижаблів)
+1803	GAME_ts2_zepride2_mission	Зліт (дирижабль 2)
+1804	GAME_ts2_cityfinal_mission	Повернення в район \"Альфа\" (місто, фінал)
+1805	GAME_MULT_multiplayer2	Сутичка на даху (mp1)
+1806	GAME_MULT_multiplayer12	Збій даних (mp2)
+1807	GAME_MULT_multiplayer5	Зала війни (mp3)
+1808	GAME_MULT_multiplayer9	Шахта часу (mp4)
+1809	GAME_MULT_multiplayer11	Святилище (mp5)
+1810	GAME_MULT_multiplayer4	Окопи (mp6)
+1811	GAME_MULT_multiplayer3	Вітер смерті (mp7)
+1812	GAME_MULT_multiplayer13	Вежа влади (mp8)
+1813	GAME_MULT_multiplayer8	База зберігання (mp9)
+1814	GAME_MULT_multiplayer7	Сніг і лід (mp10)
+1815	GAME_MULT_multiplayer10	Покинутий склад (mp11)
+1816	GAME_MULT_multiplayer6	Технологія (mp12)
+1817	GAME_MULT_multiplayer14	Вибух (mp13)
+1818	GAME_MULT_multiplayer1	Антена (mp14)
+1833	GAME_MULTIPLAYER_DESC_1	Жорстока битва в кабіні летючого дирижабля.
+1834	GAME_MULTIPLAYER_DESC_2	Бій на дахах будівлі Військової адміністрації.
+1835	GAME_MULTIPLAYER_DESC_3	Непередбачуваний бій у величезній аеродинамічній трубі.
+1836	GAME_MULTIPLAYER_DESC_4	Службовий вхід на збройовий завод надійно захищений від будь-якої загрози.
+1837	GAME_MULTIPLAYER_DESC_5	Динамічний бій у підземних паливних резервуарах.
+1838	GAME_MULTIPLAYER_DESC_6	Штурм застав Магістрату, замаскованих у каньйонах.
+1839	GAME_MULTIPLAYER_DESC_7	Облога бази Магістрату в засніженій тундрі.
+1840	GAME_MULTIPLAYER_DESC_8	У цьому арсеналі знайдеться зброя будь-якого калібру.
+1841	GAME_MULTIPLAYER_DESC_9	Експериментальний центр із пультом керування часом у головній залі.
+1842	GAME_MULTIPLAYER_DESC_10	Бій на покинутому складі. Залиште трупи своїх ворогів гнити серед іржавих контейнерів!
+1843	GAME_MULTIPLAYER_DESC_11	У цій залі чудова акустика. Насолодіться відлунням передсмертних криків своїх ворогів!
+1844	GAME_MULTIPLAYER_DESC_12	Бій у комп'ютерному центрі Магістрату за контроль над секретними файлами.
+1845	GAME_MULTIPLAYER_DESC_13	Кривава сутичка на ретрансляторній станції.
+1846	GAME_MULTIPLAYER_DESC_14	Бій на промисловій вентиляційній станції.
+1847	UI_NET_ERR_FAILED_AUTH	Помилка авторизації. Реєстраційний номер недійсний або вже використовується.
+1848	UI_NET_ERR_BROWSER_CREATE_TIMEOUT	Час очікування вичерпано
+1849	UI_NET_ERR_SESSION_SEARCH_FAIL	Гру не знайдено
+1850	UI_NET_ERR_JOIN_STARTED_RANKED	Приєднання неможливе: рейтингова гра вже почалася
+1851	UI_CANT_JOIN	Приєднання неможливе
+1852	UI_NET_ERR_CONNECTION_DENIED	З'єднання заборонено
+1853	UI_NET_ERR_CONNECTION_LOST	З'єднання із сервером гри розірвано
+1854	UI_NET_ERR_CLOSED_BY_THE_HOST	Сервер завершив роботу.
+1856	UI_NET_ERR_NETWORK_LOST	З'єднання з мережею розірвано
+1857	UI_NET_ERR_INVITE_SEARCH_FAIL	Гру не знайдено
+1858	UI_NET_ERR_DRV_INIT_TIMEOUT	Помилка ініціалізації мережі
+1859	UI_NET_ERR_DUPLICATE_PROFILE	Збіг облікових записів
+1860	UI_NET_ERR_INVALID_HANDSHAKE	Помилка приєднання
+1861	UI_NET_ERR_UNABLE_TO_ADD_SERVER	Не вдалося зареєструвати створену гру
+1862	UI_NET_ERR_ARBITRATION_FAILED	Помилка зв'язку з Xbox LIVE
+1863	UI_NET_ERR_FATAL	Критична помилка
+1864	UI_NET_ERR_BACKEND_NOT_AVAILABLE	Служба GameSpy недоступна
+1865	UI_NET_ERR_HOST_UNREACHABLE	Сервер недоступний
+1866	UI_NET_ERR_SERVER_REJECTED	Сервер заборонив з'єднання
+1867	UI_NET_ERR_INVALID_SERVER	Сервер недоступний
+1868	UI_NET_ERR_SERVER_UNAVAILABLE	Сервер недоступний
+1869	UI_NET_ERR_SERVER_CREATE_TIMEOUT	Не вдалося запустити сервер
+1870	UI_NET_ERR_SERVER_STOP_TIMEOUT	Час очікування вичерпано
+1871	UI_NET_ERR_SERVER_INVALID_PASSWORD	Неправильний пароль
+1872	UI_NET_SRV_BACKEND_NOT_AVAILABLE	Служба пошуку недоступна
+1873	UI_NET_ERR_NEGOTIATION_ERROR	Помилка взаємодії
+1874	UI_NET_ERR_HOST_ADDRESS_FAIL	Помилка мережі
+1875	UI_NET_ERR_NETWORK_ERROR	Помилка мережі
+1876	UI_NET_ERR_UNABLE_TO_RESOLVE_ADDRESS	Помилка мережі
+1877	UI_NET_ERR_BCAST_SEND_FAIL	Помилка мережі.
+1878	UI_NET_ERR_BCAST_SOCKET_FAIL_CREATE	Помилка мережі.
+1879	UI_NET_ERR_UNABLE_TO_CONNECT_NAT	Сервер не відповідає. Перевірте параметри брандмауера.
+1880	UI_NET_ERR_OUT_OF_MEMORY	Недостатньо пам'яті
+1881	UI_NET_ERR_INCOMPATIBLE_VERSION	На сервері використовується інша версія гри
+1882	UI_NET_ERR_OUT_OF_CONNECTIONS	Немає доступних з'єднань.
+1883	UI_NET_ERR_SOCKET_ERROR	Помилка сокета
+1884	UI_NET_ERR_SOCKET_UNAVAILABLE	Сокет недоступний
+1885	UI_NET_ERR_PLAYER_LIMIT	У грі немає вільних місць
+1886	UI_NET_ERR_UNABLE_TO_CONNECT	Не вдалося встановити зв'язок із сервером
+1887	UI_NET_ERR_CONNECT_TIMEOUT	Не вдалося встановити зв'язок із сервером
+1888	UI_NET_ERR_UNABLE_TO_START_SERVER	Не вдалося запустити сервер
+1889	UI_NET_ERR_DUPLICATE_ADDRESS	Тимчасова невідома помилка мережі
+1890	UI_NET_ERR_GEN_NONCE_FAIL	Тимчасова невідома помилка мережі
+1891	UI_NET_ERR_GENERIC	Тимчасова невідома помилка мережі
+1892	UI_NET_ERR_INTERNAL_ERROR	Тимчасова невідома помилка мережі
+1893	UI_NET_ERR_LISTENER_FAIL_CREATE	Тимчасова невідома помилка мережі
+1894	UI_NET_ERR_UNKNOWN	Тимчасова невідома помилка мережі
+1895	UI_NET_ERR_UNKNOWN_REASON	Тимчасова невідома помилка мережі
+1896	UI_NET_STATUS_UNKNOWN	Тимчасова невідома помилка мережі
+1897	UI_NET_ERR_XHV_FAIL_CREATE	Помилка ініціалізації голосового зв'язку
+1898	UI_NET_ERR_BANNED_UID	Адміністратор сервера заблокував вас
+1900	UI_CREDITS_HEADER_1_1	Розробка гри та оригінальна ідея:
+1902	UI_CREDITS_HEADER_1_3	Керівник проєкту:
+1904	UI_CREDITS_HEADER_1_5	Провідний програміст:
+1906	UI_CREDITS_HEADER_2_1	Художники:
+1907	UI_CREDITS_STRING_2_2	Dmitry \"OLD\" Kholodov - художній керівник
+1908	UI_CREDITS_STRING_2_3	Petr Kudryashov - головний фахівець із дизайну рівнів
+1909	UI_CREDITS_STRING_2_4	Anton Lomakin - провідний художник зі спецефектів, дизайнер зброї
+1910	UI_CREDITS_STRING_2_5	Alexander Myala - провідний аніматор
+1911	UI_CREDITS_STRING_2_6	Sergey Boginsky - провідний фахівець зі створення відеороликів
+1912	UI_CREDITS_STRING_2_7	Evgeny \"Fixxxer\" Davydenko - провідний технічний художник
+1913	UI_CREDITS_STRING_2_8	Vitaly Anikin - провідний художник з ескізів
+1914	UI_CREDITS_STRING_2_9	Elena Bondareva - менеджер із залучення художників-підрядників
+1915	UI_CREDITS_STRING_2_10	Fedor Guilmoutdinov - старший художник рівнів
+1916	UI_CREDITS_STRING_2_11	Yury Chernysh - старший художник рівнів
+1917	UI_CREDITS_STRING_2_12	Vladimir Tretiakov - старший художник з епізодів
+1918	UI_CREDITS_STRING_2_13	Andrey Kholodov - художник з епізодів, технічний художник
+1919	UI_CREDITS_STRING_2_14	Dmitry Volkov - художник з епізодів, дизайнер зброї
+1920	UI_CREDITS_STRING_2_15	Pavel Baryshnikov - художник рівнів
+1921	UI_CREDITS_STRING_2_16	Vladimir Mitasov - художник рівнів
+1922	UI_CREDITS_STRING_2_17	Tatyana Pushkareva - мультиплікатор
+1923	UI_CREDITS_STRING_2_18	Eugeniy Fokin - мультиплікатор
+1924	UI_CREDITS_STRING_2_19	Elena Lesakova - художник зі спецефектів
+1925	UI_CREDITS_STRING_2_20	Olga Cheremisova - старший художник з освітлення
+1926	UI_CREDITS_STRING_2_21	Andrey Kalukin - художник зі світлових ефектів
+1927	UI_CREDITS_STRING_2_22	Valentin Sergeev - старший технічний художник
+1928	UI_CREDITS_STRING_2_23	Elena Tarnovskaya - провідний художник із текстур
+1929	UI_CREDITS_STRING_2_24	Veronika Koshnenkova - художник із текстур
+1930	UI_CREDITS_STRING_2_25	Alexander Kuznetsov - художник із текстур
+1931	UI_CREDITS_STRING_2_26	Anna Starchenkova - художник із текстур, додаткова обробка відео
+1932	UI_CREDITS_STRING_2_27	Eugeniy Dybchinsky - технічний художник
+1933	UI_CREDITS_STRING_2_28	Vladimir Nenov - художник з ескізів
+1934	UI_CREDITS_STRING_2_29	Artyom Shumnik - автор ескізів, художник із текстур
+1935	UI_CREDITS_STRING_2_30	Anton Tretyakov - художник з ескізів
+1936	UI_CREDITS_STRING_2_31	Grigory Gladskikh - молодший художник з ескізів
+1937	UI_CREDITS_STRING_2_32	Ilya Avakov - помічник художника з ескізів
+1938	UI_CREDITS_STRING_2_33	Nadezhda Oryol - додаткові текстури
+1939	UI_CREDITS_HEADER_3_1	Програмування:
+1940	UI_CREDITS_STRING_3_2	Andrey Grigoriev - провідний програміст, координатор з інтеграції
+1941	UI_CREDITS_STRING_3_3	Sergey Mironov - провідний програміст ШІ
+1942	UI_CREDITS_STRING_3_4	Victor Streltsov - провідний програміст з технологій та інструментів
+1943	UI_CREDITS_STRING_3_5	Pavel Kuznetsov - провідний програміст фізики гри
+1944	UI_CREDITS_STRING_3_6	Stanislav Zainchkovsky - провідний програміст режиму колективної гри
+1945	UI_CREDITS_STRING_3_7	Roman Lebedev - старший програміст ядра
+1946	UI_CREDITS_STRING_3_8	Ruslan Vizgalin - старший програміст мультиплікації
+1947	UI_CREDITS_STRING_3_9	Denis Sladkov - гуру шейдерів
+1948	UI_CREDITS_STRING_3_10	Alexander Skolunov - старший програміст графічного ядра
+1949	UI_CREDITS_STRING_3_11	Alexey Bezgodov - програміст графічного ядра
+1950	UI_CREDITS_STRING_3_12	Evgeny Cimbalyuk - старший програміст звуку
+1951	UI_CREDITS_STRING_3_13	Mikhail Goroshkov - старший програміст інтерфейсу, експерт із конфігурацій
+1952	UI_CREDITS_STRING_3_14	Pavel \"Askold\" Rusin - старший програміст колективної гри,
+1953	UI_CREDITS_STRING_3_15	дизайнер колективної гри
+1954	UI_CREDITS_STRING_3_16	Sergey Avdeyev - старший програміст-інтегратор
+1955	UI_CREDITS_STRING_3_17	Alexey Ivanov - програміст-інтегратор
+1956	UI_CREDITS_STRING_3_18	Denis Kravtsov - старший програміст інтерфейсу
+1957	UI_CREDITS_STRING_3_19	Artyom Palvelev - програміст (ігрові системи)
+1958	UI_CREDITS_STRING_3_20	Vasiliy Vishnevetskiy - програміст інструментарію, інтегратор інтерфейсу
+1959	UI_CREDITS_STRING_3_21	Aleksei Shutov- програміст ШІ
+1960	UI_CREDITS_STRING_3_22	Mikhail Rybalkin - молодший програміст
+1961	UI_CREDITS_STRING_3_23	Mikhail Kozhevnikov - молодший програміст
+1962	UI_CREDITS_STRING_3_24	Pavel Safronov - молодший програміст
+1963	UI_CREDITS_STRING_3_25	Andrey Horikov - фахівець із додаткової інтеграції гри
+1964	UI_CREDITS_STRING_3_26	Petr Malkin - фахівець із додаткової інтеграції гри
+1965	UI_CREDITS_STRING_3_27	Alexey Vlasov - фахівець із додаткового програмування шейдерів
+1966	UI_CREDITS_STRING_3_28	Iliya Romonov - додатковий програміст ШІ
+1967	UI_CREDITS_HEADER_4_1	Обробка звуку:
+1968	UI_CREDITS_STRING_4_2	Pavel Grachev - провідний інженер зі звуку
+1969	UI_CREDITS_STRING_4_3	Dmitriy Milyavskiy - молодший інженер зі звуку
+1970	UI_CREDITS_HEADER_5_1	Автори сценарію, дизайнери гри:
+1971	UI_CREDITS_STRING_5_2	Sergey Larionov - провідний сценарист, додатковий дизайнер
+1972	UI_CREDITS_STRING_5_3	Alexander Larionov - старший сценарист, додатковий дизайнер
+1973	UI_CREDITS_STRING_5_4	Sergey \"Stalker\" Krayniy - старший сценарист, додатковий дизайнер
+1974	UI_CREDITS_STRING_5_5	Alexander Torbin - старший сценарист, додатковий дизайнер
+1975	UI_CREDITS_STRING_5_6	Nikolay Akimov - сценарист
+1976	UI_CREDITS_STRING_5_7	Andrey Grumad - сценарист
+1977	UI_CREDITS_STRING_5_8	George Belyaev - сценарист
+1978	UI_CREDITS_STRING_5_9	Kirill Dyshkant - сценарист колективної гри
+1979	UI_CREDITS_STRING_5_10	Evgeniy Yahin - сценарист колективної гри
+1980	UI_CREDITS_STRING_5_11	Mikhail Filatov - додатковий сценарист
+1981	UI_CREDITS_HEADER_6_1	Внутрішня служба контролю якості:
+1982	UI_CREDITS_STRING_6_2	Kirill ''Cyrel'' Morozov - провідний фахівець із контролю якості та збирання
+1983	UI_CREDITS_STRING_6_3	Ivan Yakovlev - старший тестувальник
+1984	UI_CREDITS_STRING_6_4	Mikhail Davydenko - тестувальник
+1985	UI_CREDITS_STRING_6_5	Filipp Ivanov - тестувальник
+1986	UI_CREDITS_HEADER_7_1	Підтримка:
+1987	UI_CREDITS_STRING_7_2	Vladimir Chernysh - генеральний директор офісу в СПб
+1988	UI_CREDITS_STRING_7_3	Rick Raymo - директор із змісту гри
+1989	UI_CREDITS_STRING_7_4	Anna Naleushkina - співпродюсер
+1990	UI_CREDITS_STRING_7_5	Ben Serviss - співпродюсер
+1991	UI_CREDITS_STRING_7_6	Victoria Gusakova - асистент співпродюсера
+1992	UI_CREDITS_STRING_7_7	Sergey Tuchkin - адміністратор мережі
+1993	UI_CREDITS_STRING_7_8	Victor Stupko - адміністратор мережі
+1994	UI_CREDITS_STRING_7_9	Maria Korobkina - фахівець з облікових записів
+1995	UI_CREDITS_STRING_7_10	Igor Herzev - редактор
+1996	UI_CREDITS_SAM_7_11	/привіт
+1998	UI_CREDITS_HEADER_8_1	Розробка продукту:
+1999	UI_CREDITS_STRING_8_2	Kyle \"Pezman\" Peschel - старший продюсер
+2000	UI_CREDITS_STRING_8_3	Michael Cabison - співпродюсер
+2001	UI_CREDITS_STRING_8_4	James Bonti - співпродюсер
+2002	UI_CREDITS_STRING_8_5	Martin Tremblay - президент, міжнародні студії
+2003	UI_CREDITS_STRING_8_6	Mario Coculuzzi - старший віцепрезидент, виробництво
+2004	UI_CREDITS_STRING_8_7	Chris Miller - віцепрезидент, творчий напрям
+2005	UI_CREDITS_STRING_8_8	Brian Leake - старший технічний директор
+2006	UI_CREDITS_STRING_8_9	Scott Hawkins - виконавчий продюсер
+2007	UI_CREDITS_STRING_8_10	Mark James - технічний директор
+2008	UI_CREDITS_STRING_8_11	Asen Kovachev - технічний директор
+2009	UI_CREDITS_STRING_8_12	David Wheeler - директор з інформаційного наповнення
+2010	UI_CREDITS_STRING_8_13	Ryan French - співпродюсер
+2011	UI_CREDITS_STRING_8_14	Michael Caradonna - співпродюсер з питань Інтернету
+2012	UI_CREDITS_HEADER_9_1	Збут, маркетинг і зв'язки з громадськістю:
+2013	UI_CREDITS_STRING_9_2	Cindy Cook - виконавчий віцепрезидент, провідний фахівець
+2014	UI_CREDITS_STRING_9_3	зі стратегії, маркетолог
+2015	UI_CREDITS_STRING_9_4	Pascal Brochier - виконавчий віцепрезидент, фахівець із продажів
+2016	UI_CREDITS_STRING_9_5	Al Simone - старший віцепрезидент, глобальний маркетинг
+2017	UI_CREDITS_STRING_9_6	Matthew Geyer - директор, маркетинг
+2018	UI_CREDITS_STRING_9_7	Erik Reynolds - директор, зв'язки з громадськістю
+2019	UI_CREDITS_STRING_9_8	Ed Lin - бренд-менеджер
+2020	UI_CREDITS_STRING_9_9	Damian Garcia - асистент бренд-менеджера
+2021	UI_CREDITS_HEADER_10_1	Творча служба
+2022	UI_CREDITS_STRING_10_2	Michael Bannon - творчий керівник
+2023	UI_CREDITS_STRING_10_3	Caroline Wu - інспектор робочих груп
+2024	UI_CREDITS_STRING_10_4	Anthony Rietta - менеджер із виробництва
+2025	UI_CREDITS_STRING_10_5	Joey Campos - художник-дизайнер
+2026	UI_CREDITS_STRING_10_6	Hector Lopez - художник
+2027	UI_CREDITS_STRING_10_7	Nathan Gruppman - старший художник-дизайнер
+2028	UI_CREDITS_HEADER_11_1	Юридична служба:
+2029	UI_CREDITS_STRING_11_2	James Riordan - штатний юрисконсульт
+2030	UI_CREDITS_STRING_11_3	Lynda Do - старший юридичний працівник
+2031	UI_CREDITS_STRING_11_4	Pam Teller - помічник юриста
+2032	UI_CREDITS_HEADER_12_1	Випуск на консолях:
+2033	UI_CREDITS_STRING_12_2	Angelina Coley - директор із випуску на консолях
+2034	UI_CREDITS_STRING_12_3	Cathy Truong - координатор, фахівець із маркетингових матеріалів (консолі)
+2035	UI_CREDITS_SAM_12_4	/підключення
+2036	UI_CREDITS_HEADER_13_1	Контроль якості та підтримка:
+2037	UI_CREDITS_STRING_13_2	Samer Raad - старший керівник, контроль якості
+2038	UI_CREDITS_STRING_13_3	Anna Booth - офіс-менеджер, підтримка студії
+2039	UI_CREDITS_STRING_13_4	Nuria Andres - асистент адміністратора, підтримка студії
+2040	UI_CREDITS_STRING_13_5	Michael Gonzales - старший менеджер із контролю якості
+2041	UI_CREDITS_STRING_13_6	Lester Broas - менеджер із контролю якості
+2042	UI_CREDITS_STRING_13_7	William Guerrero - менеджер із контролю якості
+2043	UI_CREDITS_STRING_13_8	Brian Wrightson - керівник проєкту
+2044	UI_CREDITS_STRING_13_9	Roy Espinosa - керівник проєкту
+2045	UI_CREDITS_STRING_13_10	Jesse Delgado - лідер проєкту
+2046	UI_CREDITS_STRING_13_11	Nick Madonna - локальний керівник
+2047	UI_CREDITS_STRING_13_12	Christian Gomez - тестувальник
+2048	UI_CREDITS_STRING_13_13	Don Carroll - тестувальник
+2049	UI_CREDITS_STRING_13_14	Chris Castellaw - тестувальник
+2050	UI_CREDITS_STRING_13_15	Arklan Uth Oslin - тестувальник
+2051	UI_CREDITS_STRING_13_16	Rob Donovan - тестувальник
+2052	UI_CREDITS_STRING_13_17	Michael Becker - тестувальник
+2053	UI_CREDITS_STRING_13_18	Kervin Camarce - тестувальник
+2054	UI_CREDITS_STRING_13_19	Adam Carpenter - тестувальник
+2055	UI_CREDITS_STRING_13_20	Kylan Coats - тестувальник
+2056	UI_CREDITS_STRING_13_21	Jason Colombetti - тестувальник
+2057	UI_CREDITS_STRING_13_22	David Dubenko - тестувальник
+2058	UI_CREDITS_STRING_13_23	Zivel Duenas - тестувальник
+2059	UI_CREDITS_STRING_13_24	Michael Fuller - тестувальник
+2060	UI_CREDITS_STRING_13_25	Justin Green - тестувальник
+2061	UI_CREDITS_STRING_13_26	Chris Ho - тестувальник
+2062	UI_CREDITS_STRING_13_27	Jen Johnson - тестувальник
+2063	UI_CREDITS_STRING_13_28	Warren Kaye - тестувальник
+2064	UI_CREDITS_STRING_13_29	David Kim - тестувальник
+2065	UI_CREDITS_STRING_13_30	Richard Ledesma - тестувальник
+2066	UI_CREDITS_STRING_13_31	Richard Lopez - тестувальник
+2067	UI_CREDITS_STRING_13_32	William Lowther - тестувальник
+2068	UI_CREDITS_STRING_13_33	Christopher McCue - тестувальник
+2069	UI_CREDITS_STRING_13_34	Francisco Merino - тестувальник
+2070	UI_CREDITS_STRING_13_35	Carlos Moran - тестувальник
+2071	UI_CREDITS_STRING_13_36	Jeff Montray - тестувальник
+2072	UI_CREDITS_STRING_13_37	Charlie Oun - тестувальник
+2073	UI_CREDITS_STRING_13_38	Miguel Alexandro Peña - тестувальник
+2074	UI_CREDITS_STRING_13_39	Sok Phuy - Тестувальник
+2075	UI_CREDITS_STRING_13_40	Jose Ramirez - тестувальник
+2076	UI_CREDITS_STRING_13_41	Brandon Roberts - тестувальник
+2077	UI_CREDITS_STRING_13_42	Daniel Rodriguez - тестувальник
+2078	UI_CREDITS_STRING_13_43	Steven K. A. Rodriguez - тестувальник
+2079	UI_CREDITS_STRING_13_44	Zachary Shaffer - тестувальник
+2080	UI_CREDITS_STRING_13_45	Tabitha Smith - тестувальник
+2081	UI_CREDITS_STRING_13_46	Tracy Swineford - тестувальник
+2082	UI_CREDITS_STRING_13_47	Mark Vazquez - тестувальник
+2083	UI_CREDITS_STRING_13_48	David Watters - тестувальник
+2084	UI_CREDITS_STRING_13_49	Jonathan Wavell - тестувальник
+2085	UI_CREDITS_STRING_13_50	Dustyn Woropay - тестувальник
+2086	UI_CREDITS_STRING_13_51	Marron Young - тестувальник
+2087	UI_CREDITS_STRING_13_52	Grant Bryson - менеджер із технічних вимог
+2088	UI_CREDITS_STRING_13_53	Joseph Olivas - старший інспектор
+2089	UI_CREDITS_STRING_13_54	Jose Beltran - інспектор
+2090	UI_CREDITS_STRING_13_55	Ali Raza - інспектор
+2091	UI_CREDITS_STRING_13_56	Richard Tom - співробітник відділу технічних вимог
+2092	UI_CREDITS_STRING_13_57	Dustin Carter - співробітник відділу технічних вимог
+2093	UI_CREDITS_STRING_13_58	Tom Craven - співробітник відділу технічних вимог
+2094	UI_CREDITS_STRING_13_59	Jessica Eckstein - співробітник відділу технічних вимог
+2095	UI_CREDITS_STRING_13_60	Paco Erskine - співробітник відділу технічних вимог
+2096	UI_CREDITS_STRING_13_61	Robert Gardner - співробітник відділу технічних вимог
+2097	UI_CREDITS_STRING_13_62	Chris Gyselinck - співробітник відділу технічних вимог
+2098	UI_CREDITS_STRING_13_63	Jeremy Hibnick - співробітник відділу технічних вимог
+2099	UI_CREDITS_STRING_13_64	Nigel Johnson - співробітник відділу технічних вимог
+2100	UI_CREDITS_STRING_13_65	Brian Jones - співробітник відділу технічних вимог
+2101	UI_CREDITS_STRING_13_66	Lauren Kamieniecki - співробітник відділу технічних вимог
+2102	UI_CREDITS_STRING_13_67	Christopher Lane - співробітник відділу технічних вимог
+2103	UI_CREDITS_STRING_13_68	Raymond Lee - співробітник відділу технічних вимог
+2104	UI_CREDITS_STRING_13_69	Geoffrey Mason - співробітник відділу технічних вимог
+2105	UI_CREDITS_STRING_13_70	Josh Mast - співробітник відділу технічних вимог
+2106	UI_CREDITS_STRING_13_71	Lana McCarthy - співробітник відділу технічних вимог
+2107	UI_CREDITS_STRING_13_72	Ryan Meloncon - співробітник відділу технічних вимог
+2108	UI_CREDITS_STRING_13_73	Christopher Nelson - співробітник відділу технічних вимог
+2109	UI_CREDITS_STRING_13_74	Shannon Olexiewicz - співробітник відділу технічних вимог
+2110	UI_CREDITS_STRING_13_75	Eloy Palacios - співробітник відділу технічних вимог
+2111	UI_CREDITS_STRING_13_76	Eric Pietro - співробітник відділу технічних вимог
+2112	UI_CREDITS_STRING_13_77	Joshua Singleton - співробітник відділу технічних вимог
+2113	UI_CREDITS_STRING_13_78	John Tittel - співробітник відділу технічних вимог
+2114	UI_CREDITS_STRING_13_79	Gary Washington - співробітник відділу технічних вимог
+2115	UI_CREDITS_STRING_13_80	Altheria Weaver - співробітник відділу технічних вимог
+2116	UI_CREDITS_STRING_13_81	Robert Fleischacker - інспектор відділу консолей
+2117	UI_CREDITS_STRING_13_82	Austin Kienzle - співробітник відділу тестування консолей
+2118	UI_CREDITS_STRING_13_83	Farid Kazimi - співробітник відділу тестування консолей
+2119	UI_CREDITS_STRING_13_84	Robert Fenoglio - співробітник відділу тестування консолей
+2120	UI_CREDITS_STRING_13_85	Marcus Quinn - інспектор контролю якості
+2121	UI_CREDITS_STRING_13_86	James Pasque - координатор із контролю якості
+2122	UI_CREDITS_STRING_13_87	Afolabi Akibola - інспектор лабораторії мастерингу
+2123	UI_CREDITS_STRING_13_88	Chris Miller - інспектор лабораторії мастерингу
+2124	UI_CREDITS_STRING_13_89	Tyree Deramus - інженер лабораторії мастерингу
+2125	UI_CREDITS_STRING_13_90	Brad Graber - інженер лабораторії мастерингу
+2126	UI_CREDITS_STRING_13_91	Jose Hernandez - інженер лабораторії мастерингу
+2127	UI_CREDITS_STRING_13_92	Gene Shaw - інженер лабораторії мастерингу
+2128	UI_CREDITS_STRING_13_93	Alvin Broussard - інженер лабораторії мастерингу
+2129	UI_CREDITS_STRING_13_94	John St. John - інженер лабораторії мастерингу
+2130	UI_CREDITS_STRING_13_95	Shawn Lomas - технік із контролю якості
+2131	UI_CREDITS_STRING_13_96	Mark Smith - технічний фахівець відділу контролю якості
+2132	UI_CREDITS_STRING_13_97	Jett Castaneda - технічний фахівець відділу контролю якості
+2137	UI_CREDITS_SAM_13_102	/ініціалізація програми запуску
+2138	UI_CREDITS_HEADER_14_1	Медіапродукція:
+2139	UI_CREDITS_STRING_14_2	Jim Carey - директор із медіапродукції
+2140	UI_CREDITS_STRING_14_3	Eric Weiss - добір акторів і голос за кадром
+2141	UI_CREDITS_STRING_14_4	Mike Patterson - інженер із голосу за кадром
+2142	UI_CREDITS_STRING_14_5	Amy Allison - координатор із голосу за кадром
+2143	UI_CREDITS_STRING_14_6	Andrea Toyias - координатор із голосу за кадром
+2144	UI_CREDITS_STRING_14_7	Stuart Allison - редактор
+2145	UI_CREDITS_STRING_14_8	Anita Crouch - редактор
+2146	UI_CREDITS_STRING_14_9	Tonya Stumphauzer - редактор
+2147	UI_CREDITS_STRING_14_10	Blake Hill - фахівець із зображень
+2148	UI_CREDITS_STRING_14_11	Kevin Hill - фахівець із зображень
+2149	UI_CREDITS_HEADER_15_1	Фільтрація та додаткові звуки:
+2150	UI_CREDITS_STRING_15_2	Iain Ross - директор, Radical Audio Department
+2151	UI_CREDITS_STRING_15_3	Roman Tomazin - звукорежисер
+2152	UI_CREDITS_STRING_15_4	Rob Bridgett - звукорежисер
+2153	UI_CREDITS_STRING_15_5	Andy Teal - звукорежисер
+2154	UI_CREDITS_STRING_15_6	Lin Gardiner - старший звукооператор
+2155	UI_CREDITS_STRING_15_7	Nicole Pinto - координатор виробництва
+2156	UI_CREDITS_HEADER_16_1	Додаткова графіка, програмування:
+2157	UI_CREDITS_STRING_16_2	Ed Kay - технічний дизайнер гри
+2158	UI_CREDITS_STRING_16_3	Rob Wilson - програміст
+2159	UI_CREDITS_STRING_16_4	Aaron Pulkka - старший керівник, зовнішні розробки
+2160	UI_CREDITS_STRING_16_5	Ed Trillo - художній керівник, зовнішні розробки
+2161	UI_CREDITS_STRING_16_6	Dexter Yu - асистент із виробництва, зовнішні розробки
+2162	UI_CREDITS_STRING_16_7	Ryan T. Sammartino - технічний директор
+2163	UI_CREDITS_STRING_16_8	Mark Atkinson \"CodeMafia\" - оптимізація для PC
+2164	UI_CREDITS_STRING_16_9	Brett Patterson, Chen-Po \"Firelight\" - програмування звуку
+2165	UI_CREDITS_STRING_16_10	Andrew Bowell, Marc Omorain \"Havok\" - підтримка фізичної моделі
+2166	UI_CREDITS_STRING_16_11	James Randolph - автор ескізів
+2167	UI_CREDITS_STRING_16_12	Camille Kuo - автор ескізів
+2168	UI_CREDITS_STRING_16_13	Greg Kujda - автор ескізів
+2169	UI_CREDITS_STRING_16_14	Richard Zagala - старший художник
+2170	UI_CREDITS_STRING_16_15	Justin Caldicott - програміст звуку
+2171	UI_CREDITS_STRING_16_16	Gene Shaw - мультимедіа
+2172	UI_CREDITS_STRING_16_17	Channa De Silva - мультимедіа
+2173	UI_CREDITS_STRING_16_18	David Asadourian - мультимедіа
+2174	UI_CREDITS_SAM_16_19	/завантаження системи
+2175	UI_CREDITS_HEADER_17_1	Міжнародний відділ:
+2176	UI_CREDITS_STRING_17_2	Chloe Rothwell - віцепрезидент, міжнародний маркетинг
+2177	UI_CREDITS_STRING_17_3	Deana Erickson - міжнародний координатор торгових марок
+2178	UI_CREDITS_STRING_17_4	Thomas Seris - менеджер із міжнародного маркетингу
+2179	UI_CREDITS_STRING_17_5	Xochilt Balzola Widmann - виконавчий віцепрезидент із продажів (Європа)
+2180	UI_CREDITS_STRING_17_6	Erika Thiong-Soui-Ho - менеджер із постачання
+2181	UI_CREDITS_STRING_17_7	Annick Decrop - керівник видання
+2182	UI_CREDITS_STRING_17_8	Eric Chatelet - координатор видання в Європі
+2183	UI_CREDITS_STRING_17_9	Fabien Tisle - заступник директора з оперативних питань
+2184	UI_CREDITS_STRING_17_10	Emmanuel Dresch - менеджер із юридичних питань
+2185	UI_CREDITS_STRING_17_11	Gregoire Gabalda - дослідження ринку
+2186	UI_CREDITS_STRING_17_12	Colin Brown - генеральний менеджер, Австралія
+2187	UI_CREDITS_STRING_17_13	Arbie Artinian - менеджер продукту, Австралія
+2188	UI_CREDITS_STRING_17_14	Benoit Boutte - генеральний менеджер, Італія
+2189	UI_CREDITS_STRING_17_15	Sara Cantoni - менеджер із маркетингу, Італія
+2190	UI_CREDITS_STRING_17_16	Stefano Bertuzzo - менеджер продукту, Італія
+2191	UI_CREDITS_STRING_17_17	Simone Isella - менеджер зі зв'язків із громадськістю, Італія
+2192	UI_CREDITS_STRING_17_18	Frederic Hosteins - генеральний менеджер, Іспанія
+2193	UI_CREDITS_STRING_17_19	Emilie Pujol - менеджер із маркетингу (Іспанія)
+2194	UI_CREDITS_STRING_17_20	Alejandro Fernandez - менеджер продукту, Іспанія
+2195	UI_CREDITS_STRING_17_21	Sara Fernandez - менеджер зі зв'язків із громадськістю, Іспанія
+2196	UI_CREDITS_STRING_17_22	Jeroen Smit - генеральний менеджер, Бенілюкс
+2197	UI_CREDITS_STRING_17_23	Olivier Spaargaren - менеджер із маркетингу, Бенілюкс
+2198	UI_CREDITS_STRING_17_24	George Georgiou - менеджер із маркетингу, Велика Британія
+2199	UI_CREDITS_STRING_17_25	Scott Wood - старший менеджер продукту, Велика Британія
+2200	UI_CREDITS_STRING_17_26	Cat Channon - старший менеджер зі зв'язків із громадськістю, Велика Британія
+2201	UI_CREDITS_STRING_17_27	Jonnie Bryant - менеджер зі зв'язків із громадськістю, Велика Британія
+2202	UI_CREDITS_STRING_17_28	Julie Chalmette - генеральний менеджер, Франція
+2203	UI_CREDITS_STRING_17_29	Thomas Painçon - менеджер із маркетингу, Франція
+2204	UI_CREDITS_STRING_17_30	Olivier Reocreux - менеджер продукту, Франція
+2205	UI_CREDITS_STRING_17_31	Clément Debetz - менеджер зі зв'язків із громадськістю, Франція
+2206	UI_CREDITS_STRING_17_32	Frank Weber - менеджер із маркетингу, Німеччина
+2207	UI_CREDITS_STRING_17_33	Robert Häusler - менеджер продукту, Німеччина
+2208	UI_CREDITS_STRING_17_34	Tim Ende-Styra - менеджер зі зв'язків із громадськістю (Німеччина)
+2209	UI_CREDITS_STRING_17_35	Camilla Anger - генеральний менеджер, Скандинавія
+2210	UI_CREDITS_STRING_17_36	John Hall - менеджер із маркетингу та продажів, Скандинавія
+2211	UI_CREDITS_STRING_17_37	Jonas Christensen - менеджер продукту, Скандинавія
+2212	UI_CREDITS_STRING_17_38	Tom Lindgren - менеджер зі зв'язків із громадськістю, Скандинавія
+2213	UI_CREDITS_SAM_17_39	/завдання виконано
+2214	UI_CREDITS_HEADER_18_1	Відділ локалізації:
+2232	UI_CREDITS_HEADER_19_1	Ролі озвучували:
+2233	UI_CREDITS_STRING_19_2	Франція: Evocati - Hifi-Génie
+2234	UI_CREDITS_STRING_19_3	Німеччина: DAS TEAM/locaTRANS
+2235	UI_CREDITS_STRING_19_4	Італія: Jinglebell Communication s.r.l.
+2236	UI_CREDITS_STRING_19_5	Іспанія: GameLoc Localisation Services, S.L.
+2237	UI_CREDITS_HEADER_20_1	Музичний супровід:
+2238	UI_CREDITS_STRING_20_2	Композитори: Rebecca Kneubuhl, Gabriel Mann
+2239	UI_CREDITS_STRING_20_3	Гітара: Steve Mazur
+2240	UI_CREDITS_STRING_20_4	Вокал: Rebecca Kneubuhl, Gabriel Mann
+2242	UI_CREDITS_HEADER_21	Сюжет і сценарій:
+2243	UI_CREDITS_STRING_21_1	Автор - Michael McCormick Hall
+2244	UI_CREDITS_HEADER_22	Актори озвучення:
+2245	UI_CREDITS_STRING_22_1	Vlad Kopp - командир Мейсон Кук, чоловічий комп'ютерний голос
+2246	UI_CREDITS_STRING_22_2	Rudolf Pankov - доктор Ейден Крон
+2247	UI_CREDITS_STRING_22_3	Elena Solovyova - доктор Марісса Фостер, репортерка, костюм
+2248	UI_CREDITS_STRING_22_4	Andrey Barkhudarov - доктор Натан Такер, повстанець, інженер
+2249	UI_CREDITS_STRING_22_5	Alexandr Novikov - боєць Крона, інженер
+2250	UI_CREDITS_STRING_22_6	Alexandr Gruzdev - солдат із реакт. ранцем, бійці груп \"Вихор\", \"Полум'я\" і \"Шторм\"
+2251	UI_CREDITS_STRING_22_7	Sergey Burunov - страж, повстанець
+2252	UI_CREDITS_STRING_22_8	Ruslan Ignatov - страж, поліцейський
+2253	UI_CREDITS_STRING_22_9	Denis Bespaliy - повстанець, боєць Крона
+2254	UI_CREDITS_STRING_22_10	Diomid Vinogradov - повстанець
+2255	UI_CREDITS_STRING_22_11	Viktor Motyzlevskiy - повстанець
+2256	UI_CREDITS_STRING_22_12	Iliya Hvostikov - поліцейський, повстанець, боєць Крона
+2257	UI_CREDITS_STRING_22_13	Nikolay Ivanov - поліцейський, боєць Крона, голос
+2258	UI_CREDITS_STRING_22_14	Egor Vavilov - поліцейський, боєць Крона
+2259	UI_CREDITS_STRING_22_15	Ivan Pokhmelkin - інженер
+2260	UI_CREDITS_STRING_22_16	Andrew Kishino - поліцейський
+2261	UI_CREDITS_STRING_22_17	Kevin Glikmann - боєць Крона
+2262	UI_CREDITS_STRING_22_18	Jake Eberle - боєць Крона
+2263	UI_CREDITS_STRING_22_19	Sean Donnellan - боєць Крона
+2264	UI_CREDITS_STRING_22_20	Tim Harrison - інженер
+2265	UI_CREDITS_STRING_22_21	David Markus - інженер
+2266	UI_CREDITS_STRING_22_22	Keith Ferguson - інженер
+2267	UI_CREDITS_SAM_22_23	/сканування даних
+2268	UI_CREDITS_HEADER_23	Оцифрування рухів - House of Moves:
+2269	UI_CREDITS_STRING_23_1	Scott Gagain - виконавчий продюсер
+2270	UI_CREDITS_STRING_23_2	Gary Roberts - віцепрезидент із виробництва
+2271	UI_CREDITS_STRING_23_3	Chris Bellaci - менеджер із виробництва
+2272	UI_CREDITS_STRING_23_4	Amy Calcote - технічний продюсер
+2273	UI_CREDITS_STRING_23_5	Greta Anderson - співпродюсер
+2274	UI_CREDITS_STRING_23_6	Jenny Villagomez - асистент із виробництва
+2275	UI_CREDITS_STRING_23_7	Sean Stanek - інспектор
+2276	UI_CREDITS_STRING_23_8	Andre Lopez - оператор оцифрування
+2277	UI_CREDITS_STRING_23_9	Andre Petrossian - провідний контролер якості, режисер
+2278	UI_CREDITS_STRING_23_10	Vince Argentine - асистент із контролю якості
+2279	UI_CREDITS_STRING_23_11	Tricia Barrett - координатор сценарію, оператор
+2280	UI_CREDITS_STRING_23_12	Nikola Dupkanic - провідний фахівець із відео
+2281	UI_CREDITS_STRING_23_13	Chris Robbins - актор
+2282	UI_CREDITS_STRING_23_14	Kevin Cassidy - актор
+2284	UI_CREDITS_STRING_24_1	Anton Vereschagin - керівник студії
+2285	UI_CREDITS_STRING_24_2	Maria Linzbach - художник із текстур
+2286	UI_CREDITS_STRING_24_3	Vitaly Tev - фахівець із моделювання рівнів
+2287	UI_CREDITS_STRING_24_4	Vasily Dovbysh - художник із текстур
+2288	UI_CREDITS_STRING_24_5	Maxim Nezvanov - продюсер
+2289	UI_CREDITS_STRING_24_6	Sergey Nikolaev - провідний мультиплікатор
+2290	UI_CREDITS_STRING_24_7	Oleg Fomenko - мультиплікатор
+2291	UI_CREDITS_STRING_24_8	Arseny Turgulaynen - мультиплікатор
+2292	UI_CREDITS_STRING_24_9	Ira Sazonova - фахівець із 3D-моделювання
+2293	UI_CREDITS_STRING_24_10	Georg Medovnikov - фахівець із 3D-моделювання
+2294	UI_CREDITS_STRING_24_11	Oleg Muranov - фахівець із 3D-моделювання
+2295	UI_CREDITS_STRING_24_12	Tatyana Sarana - 3D-художник
+2297	UI_CREDITS_STRING_25_1	Pavel Elyashevich - менеджер студії
+2298	UI_CREDITS_STRING_25_2	Yaroslav Anufriev - 3D-художник, мультиплікатор
+2299	UI_CREDITS_STRING_25_3	Nadezhda Napolova - 3D-художник
+2300	UI_CREDITS_STRING_25_4	Maxim Lulukin - 3D-художник
+2301	UI_CREDITS_STRING_25_5	Vladimir Zolin - 3D-художник
+2302	UI_CREDITS_STRING_25_6	Ilya Izmailov - асистент менеджера
+2311	UI_CREDITS_STRING_27_1	Boris Blagoy - 3D-художник
+2312	UI_CREDITS_STRING_27_2	Kovalenko Yuriy - 3D-художник
+2313	UI_CREDITS_STRING_27_3	Sergey Chudakorov - 3D-художник
+2314	UI_CREDITS_STRING_27_4	Alexey Rubel - 3D-художник
+2316	UI_CREDITS_STRING_28_1	Denis Markelov  - менеджер студії
+2317	UI_CREDITS_STRING_28_2	Alexey Durov - художній керівник
+2318	UI_CREDITS_STRING_28_3	Sergey Maximov - провідний художник
+2319	UI_CREDITS_HEADER_29	Відео - main road|post:
+2329	UI_CREDITS_STRING_29_10	Відео - додатково:
+2339	UI_CREDITS_SAM_29_20	/список майже закінчено
+2340	UI_CREDITS_HEADER_30	Особлива подяка:
+2341	UI_CREDITS_STRING_30_1	Нашим родинам і друзям,
+2342	UI_CREDITS_STRING_30_2	Gary і Roberta Karch, Ricci Rukavina, Dean Martinetti,
+2376	UI_CREDITS_SAM_30_36	/отримання нових координат
+2378	UI_CREDITS_STRING_31_2	© 2007 Sierra Entertainment, Inc. Усі права захищено.
+2379	UI_CREDITS_STRING_31_3	Дизайн і розробка - Saber Interactive.

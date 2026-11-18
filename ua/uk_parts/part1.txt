@@ -1,0 +1,1020 @@
+0	UI_ACCEPT	ПРИЙНЯТИ
+1	UI_BACK	НАЗАД
+2	UI_OK	ОК
+3	UI_CANCEL	СКАСУВАТИ
+4	UI_YES	ТАК
+5	UI_NO	НІ
+6	UI_SYES	Так
+7	UI_SNO	Ні
+8	UI_ON	УВІМК.
+9	UI_OFF	ВИМК.
+10	UI_SON	Увімк.
+11	UI_SOFF	Вимк.
+14	UI_S_VERY_LOW	Мін.
+15	UI_S_LOW	Низьк.
+16	UI_S_MEDIUM	Серед.
+17	UI_S_NORMAL	Норм.
+18	UI_S_HIGH	Висок.
+19	UI_S_VERY_HIGH	Макс.
+20	UI_LOW	НИЗЬК.
+21	UI_MEDIUM	СЕРЕД.
+22	UI_HIGH	ВИСОК.
+23	UI_UNLIMITED	Необмеж.
+24	UI_S_FULL	Макс.
+25	UI_S_SLOW	Повільно
+26	UI_S_FAST	Швидко
+27	UI_S_VERY_FAST	Дуже швидко
+28	UI_S_INSTANT	Миттєво
+33	UI_S_STANDARD	Стандарт
+34	UI_LOADING	Завантаження
+35	UI_SHADER_PROCESSING	Обробка шейдерів
+36	UI_TEXTURES_RELOADING	Завантаження текстур
+37	UI_DEFAULT_MO_GAME_NAME	Гра TimeShift
+38	UI_S_REGEN_SLOW	Повільна регенерація
+39	UI_S_REGEN_NORMAL	Норм. регенерація
+40	UI_S_REGEN_FAST	Швидка регенерація
+41	UI_S_REGEN_VERY_FAST	Дуже швидка регенерація
+42	UI_S_DECR	Зменшення
+43	UI_S_DECR_FAST	Швидке зменшення
+44	UI_RENAME	ПЕРЕЙМЕНУВАТИ
+45	UI_DELETE	СТЕРТИ
+46	UI_EDIT	ЗМІНИТИ
+47	UI_VIEW_EDIT	ЗМІНИТИ
+48	UI_ADD	ДОДАТИ
+49	UI_REMOVE	ВИДАЛИТИ
+50	UI_NEW	СТВОРИТИ
+51	UI_S_GOOD	Висок.
+52	UI_S_BEST	Макс.
+53	UI_S_NONE	Немає
+54	UI_S_AVERAGE	Серед.
+55	UI_S_ADVANCED	Додатково
+56	UI_S_DEFAULT	За замовчуванням
+57	UI_S_DISABLE	Вимкнути
+58	UI_S_ENABLE	Увімкнути
+59	UI_S_RED	Червоний
+60	UI_S_BLUE	Синій
+61	UI_ESRB_NOTICE	Зауваження ESRB: вміст колективної гри може не відповідати віковому рейтингу
+62	UI_S_MAX	Макс.
+63	UI_S_MIN	Мін.
+64	UI_S_SOME	Серед.
+65	UI_VERSION	Версія {STRING}.{STRING}
+68	UI_BTN_CREATE	СТВОРИТИ
+69	UI_BTN_ACCEPT	ПРИЙНЯТИ
+70	UI_BTN_JOIN	ПРИЄДНАТИСЯ
+71	UI_BTN_LOAD	ЗАВАНТАЖИТИ
+72	UI_BTN_SAVE	ЗБЕРЕГТИ
+73	UI_BTN_REFRESH	ОНОВИТИ
+74	UI_BTN_DELETE	ВИДАЛИТИ
+75	UI_BTN_KEYBOARD	НАЛАШТУВАННЯ КЕРУВАННЯ
+76	UI_BTN_RESET	ВІДНОВИТИ
+77	UI_BTN_DEFAULT	ЗА ЗАМОВЧУВАННЯМ
+78	UI_BTN_BACK	НАЗАД
+79	UI_BTN_SINGLE_PLAYER	ОДИН ГРАВЕЦЬ
+80	UI_BTN_MULTIPLAYER	МЕРЕЖА
+81	UI_BTN_MULTIPLAYER_ONLINE	ІНТЕРНЕТ
+82	UI_BTN_MULTIPLAYER_LAN	ЛОКАЛЬНА МЕРЕЖА
+83	UI_BTN_RESUME_GAME	ПРОДОВЖИТИ ГРУ
+84	UI_BTN_QUIT	ВИХІД
+85	UI_BTN_STOP_GAME	ВИХІД З ГРИ
+86	UI_BTN_STOP_GAME_DEMO	ВИХІД З ДЕМОВЕРСІЇ
+87	UI_BTN_CHANGE_TEAM	ЗМІНА КОМАНДИ
+88	UI_BTN_SERVER_INFO	ВІДОМОСТІ ПРО СЕРВЕР
+89	UI_BTN_TO_SPECTATE	ГЛЯДАЧ
+90	UI_BTN_TO_JOIN_GAME	ПРИЄДНАТИСЯ
+91	UI_BTN_SPECTATE	РЕЖИМ ГЛЯДАЧА
+92	UI_BTN_READY	ГОТОВИЙ
+93	UI_BTN_NOT_READY	НЕ ГОТОВИЙ
+94	UI_BTN_OPTIONS	НАЛАШТУВАННЯ
+95	UI_BTN_CONTROLS	КЕРУВАННЯ
+96	UI_BTN_JOYSTICK	ДЖОЙСТИК
+97	UI_BTN_PLAYERS_MENU	ГРАВЦІ
+98	UI_BTN_KEYBOARD_CONTROLS	КЛАВІАТУРА
+99	UI_BTN_MOUSE_CONTROLS	МИША
+100	UI_BTN_RESTART_LEVEL	ПОЧАТИ ЗНОВУ
+101	UI_BTN_CREDITS	ТИТРИ
+102	UI_BTN_NEWGAME	НОВА ГРА
+103	UI_BTN_DIFFICULTI_1	Новачок
+104	UI_BTN_DIFFICULTI_2	Боєць
+105	UI_BTN_DIFFICULTI_3	Ветеран
+106	UI_BTN_LOAD_GAME	ЗАВАНТАЖИТИ ГРУ
+107	UI_BTN_SAVE_GAME	ЗБЕРЕГТИ ГРУ
+108	UI_BTN_VIDEO_OPTION	ЗОБРАЖЕННЯ
+109	UI_BTN_AUDIO_OPTION	ЗВУК
+110	UI_BTN_GAME_OPTION	ГРА
+111	UI_BTN_CANCEL	СКАСУВАТИ
+112	UI_BTN_NEXT	ДАЛІ
+113	UI_BTN_TRY_ANOTHER	ІНШЕ
+114	UI_BTN_LAN_SERVER	СТВОРИТИ
+115	UI_BTN_LAN_CLIENT	ЛОКАЛЬНА МЕРЕЖА
+116	UI_BTN_IP_CLIENT	ІНТЕРНЕТ
+117	UI_BTN_JOIN_GAME	ПРИЄДНАТИСЯ
+118	UI_LBL_ONLINE_MODE	Гра через Інтернет
+119	UI_LBL_LAN_MODE	Гра по локальній мережі
+120	UI_BTN_DIRECT_CONNECT	ПРЯМЕ З'ЄДНАННЯ
+121	UI_BTN_QUIT_TO_MAIN	ВИХІД У ГОЛОВНЕ МЕНЮ
+122	UI_BTN_QUIT_TO_INGAME	ВИХІД У МЕНЮ ПАУЗИ
+123	UI_BTN_DEFAULTS	ЗА ЗАМОВЧУВАННЯМ
+124	UI_BTN_PRESET_OPTIONS	ШАБЛОНИ
+125	UI_BTN_LOAD_LEVEL	ПОВТОР ЕПІЗОДУ
+126	UI_BTN_LOAD_QUICK	ШВИДКЕ ЗАВАНТАЖЕННЯ
+127	UI_BTN_RETRY	ПОВТОР
+128	UI_SAVE_GAME_NEW	НОВИЙ ФАЙЛ ЗБЕРЕЖЕННЯ
+129	UI_SAVE_GAME_AUTO	Автозбереження
+130	UI_SAVE_GAME_QUICK	Швидке збереження
+131	UI_SAVE_GAME_NO_IMAGE	БЕЗ ЗОБРАЖЕННЯ
+132	UI_MANUALSAVE	Збереження користувача
+133	UI_UNKNOWNSAVE	Невідомий тип
+134	UI_PROFILE_CREATE	СТВОРИТИ НОВИЙ
+135	UI_PROFILE_CURRENT	Поточний обліковий запис
+136	UI_BTN_PROFILES	ОБЛІКОВІ ЗАПИСИ
+137	UI_BTN_AUTOUPDATE	ОНОВЛЕННЯ
+138	UI_BTN_CONTENT	ПРИЗИ
+139	UI_BTN_RANKED_GAME	РЕЙТИНГОВА ГРА
+140	UI_BTN_NONRANKED_GAME	ЗВИЧАЙНА ГРА
+141	UI_BTN_DOWNLOADABLE_CONTENT	ДОД. МАТЕРІАЛИ
+142	UI_BTN_VIEW	ПЕРЕГЛЯД
+143	UI_BTN_SORT	СОРТУВАННЯ
+144	UI_BTN_FRIENDS	СПИСОК ЗНАЙОМИХ
+145	UI_BTN_LOG_OUT	ВИХІД
+146	UI_BTN_FRIENDS_LIST	СПИСОК ЗНАЙОМИХ
+147	UI_BTN_LIVE_QUICK	ШВИДКИЙ ПОШУК
+148	UI_BTN_LIVE_OPTI	ІНША ГРА
+150	UI_BTN_SYS_LINK	ЗВ'ЯЗОК СИСТЕМ
+151	UI_BTN_SEARCH	ПОШУК
+152	UI_LBL_AVAILABLE	ДОСТУПНО
+153	UI_LBL_ACTIVE	АДМІНІСТРАТОР
+154	UI_ADVCTRL_MOUSE_SENS	Чутливість миші
+155	UI_ADVCTRL_MOUSE_CURSOR	Тип приціла
+156	UI_ADVCTRL_MOUSE_CURSOR_THIN	Вузький
+157	UI_ADVCTRL_MOUSE_CURSOR_THICK	Широкий
+158	UI_ADVCTRL_INVERSE_MOUSE	Інверсія миші
+159	UI_INVERSE_Y	Вісь Y
+160	UI_VAL_NORMAL	Стандарт
+161	UI_VAL_INVERTED	Інверсія
+162	UI_BTN_REPLAY_DEMO	ПОЧАТИ ДЕМОНСТРАЦІЮ ЗНОВУ
+163	UI_BTN_MODIFIERS	МОЇ ШАБЛОНИ
+164	UI_BTN_WEAPONS	ОЗБРОЄННЯ...
+165	UI_BTN_PLAYER_SETTINGS	ЗДОРОВ'Я...
+166	UI_BTN_PHYSICS	ФІЗИКА...
+167	UI_BTN_BONUSES	ПРИЗИ...
+168	UI_BTN_GAME_SETTINGS	ПЕРСОНАЖ...
+169	UI_BTN_WARMUP_SETTINGS	ПІДГОТОВКА...
+170	UI_BTN_WEAPONS_SETTINGS	ЗБРОЯ...
+171	UI_BTN_ROUNDS_SETTINGS	РАУНД...
+172	UI_BTN_ITEMS_SETTINGS	ПРЕДМЕТ...
+173	UI_GAME_MODE	Режим гри:
+174	UI_GAME_MODE_SELECT	Режим гри
+175	UI_BTN_MISC_SETTINGS	РІЗНЕ...
+176	UI_BTN_ARMOR_SETTINGS	ЗАХИСТ...
+177	UI_BTN_TIME_SETTINGS	ЕНЕРГІЯ...
+178	UI_BTN_VIDEO_OPTIMAL	АВТОВИЗНАЧЕННЯ
+179	UI_BTN_VIDEO_FASTEST	ШВИДКІСТЬ
+180	UI_BTN_VIDEO_AVARAGE	БАЛАНС
+181	UI_BTN_VIDEO_HIGHQUALITY	ЯКІСТЬ
+182	UI_BTN_VIDEO_BESTQUALITY	НАЙВИЩА ЯКІСТЬ
+183	UI_BTN_SAVE_AS	ЗБЕРЕГТИ ЯК
+184	UI_BTN_PLAY_DEMO	ЗАПУСК ДЕМОВЕРСІЇ
+185	UI_BTN_ACTIVATE	УВІМКНУТИ
+186	UI_BTN_DEACTIVATE	ВИМКНУТИ
+187	UI_BTN_SWITCH	ПЕРЕМКНУТИ
+188	UI_BTN_STORAGE	НАКОПИЧУВАЧ ДАНИХ
+189	UI_BTN_CONTINUE	ПРОДОВЖИТИ
+190	UI_BTN_LEADERBOARDS	ТАБЛИЦІ РЕЙТИНГІВ
+191	UI_BTN_TRUE_SKILL	РЕЙТИНГ TrueSkill™
+192	UI_BTN_KILLS	ПЕРЕМОГИ / ПОРАЗКИ
+193	UI_BTN_QUICK_KILLS	МИТТЄВІ ВБИВСТВА
+194	UI_BTN_KILL_SPREE	СЕРІЇ ЖЕРТВ
+195	UI_BTN_GAMERCARD	КАРТКА ГРАВЦЯ
+196	UI_BTN_LEADER_FRIENDS	ЗНАЙОМІ
+197	UI_BTN_LEADER_ALL	УСІ ГРАВЦІ
+198	UI_BTN_GO_TO_TOP	ВГОРУ
+199	UI_BTN_LEADER_DESCRIPTION	ПЕРЕГЛЯД ОПИСУ
+200	UI_BTN_SELECT	ВИБРАТИ
+201	UI_LDB_SELECT_MODE	Вибір режиму гри
+202	UI_LDB_SELECT_DURATION	Вибір періоду
+203	UI_LDB_ALL	Усі дані
+204	UI_LDB_MONTH	Минулий місяць
+205	UI_LDB_WEEK	Минулий тиждень
+206	UI_BTN_UNLOCK	ОТРИМАТИ ДОСТУП
+207	UI_BTN_DELETE_GAME	ВИДАЛИТИ ЗБЕР. ГРИ
+208	UI_COL_RANK	Рейтинг
+210	UI_COL_SKILL	Рейтинг TrueSkill™
+211	UI_COL_GAMES_PLAYED	Усього ігор
+212	UI_COL_KILLS	Жертви
+213	UI_COL_HEADSHOTS	Жертви (постріл у голову)
+214	UI_COL_DEATHS	Смерті
+215	UI_COL_TEAMKILLS	Вбивства своїх
+216	UI_COL_SUICIDES	Самогубства
+217	UI_COL_DOUBLE	Вбивства двох
+218	UI_COL_HATTRICK	Вбивства трьох
+219	UI_COL_QUADRA	Вбивства чотирьох
+220	UI_COL_FURY	Масові вбивства
+221	UI_COL_MASTER	Кривава різанина
+222	UI_COL_RAGE	Берсерк
+223	UI_COL_UNTOUCH	Недоторканний
+224	UI_COL_MURDER	Серійний вбивця
+225	UI_COL_REAPER	Втілення смерті
+228	UI_KEY_SYMBOLS	Символи
+230	UI_KEY_SPACE	Пробіл
+231	UI_KEY_LEFT	Стрілка ліворуч
+232	UI_KEY_RIGHT	Стрілка праворуч
+233	UI_FRAME_CREATE_GAME	Параметри ігрового процесу
+234	UI_FRAME_SAVE_GAME	Збереження
+235	UI_FRAME_JOIN_GAME	Приєднання: Інтернет
+236	UI_FRAME_JOIN_GAME_LAN	Приєднання: локальна мережа
+237	UI_FRAME_DIRECT_CONNECT	Пряме з'єднання
+238	UI_FRAME_LOAD_GAME	Завантаження гри
+239	UI_FRAME_LOAD_LEVEL	Перегляд епізоду
+240	UI_FRAME_OPTIONS_AUDIO	Параметри звуку
+241	UI_FRAME_OPTIONS_CONTROLS	Параметри керування
+242	UI_FRAME_OPTIONS_MOUSE	Параметри миші
+243	UI_FRAME_OPTIONS_GAME	Параметри гри
+244	UI_FRAME_OPTIONS_VIDEO	Параметри зображення
+245	UI_FRAME_PROFILE	Зміна облікового запису
+246	UI_FRAME_JOIN_OPTIONS	Параметри Optimatch
+247	UI_FRAME_JOIN_INFO	Відомості про сервер
+248	UI_FRAME_MODIFIERS	Шаблон сервера
+249	UI_FRAME_OBJECTIVES	Завдання
+250	UI_FRAME_MULTISTATS	Статистика колективних ігор
+251	UI_FRAME_OPTIONS_MULTI	Параметри колективної гри
+252	UI_FRAME_GAME_TYPES	Режим гри
+253	UI_FRAME_HOST_MODIFIERS	Шаблон
+254	UI_FRAME_MODIFIER_WEAPONS	Модифікатор зброї
+255	UI_FRAME_MODIFIER_PLAYER	Модифікатор здоров'я
+256	UI_FRAME_MODIFIER_PHYSICS	Модифікатор фізики
+257	UI_FRAME_MODIFIER_BONUS	Модифікатор призів
+258	UI_FRAME_GAME_SETTINGS	Параметри персонажа
+259	UI_FRAME_WARMUP_SETTINGS	Параметри підготовки
+260	UI_FRAME_WEAPONS_SETTINGS	Параметри зброї
+261	UI_FRAME_ROUNDS_SETTINGS	Параметри раундів
+262	UI_FRAME_ITEMS_SETTINGS	Параметри предметів
+263	UI_FRAME_MODIFIERS_LIST	Список шаблонів
+264	UI_FRAME_MODIFIER_RENAME	Перейменувати шаблон
+265	UI_FRAME_MODIFIER_DELETE	Видалити шаблон
+266	UI_FRAME_MODIFIER_CREATE	Створити шаблон
+267	UI_FRAME_MISC_SETTINGS	Інші параметри
+268	UI_FRAME_MODIFIER_ARMOR	Модифікатор захисту
+269	UI_FRAME_MODIFIER_TIME	Модифікатор енергії
+270	UI_FRAME_KEY_REASSIGN	Інша клавіша
+271	UI_FRAME_OPTIONS_FRAME	Налаштування
+272	UI_FRAME_SINGLE_PLAYER	Один гравець
+273	UI_FRAME_NEW_GAME	Нова гра
+274	UI_FRAME_MULTIPLAYER	Мережа
+275	UI_FRAME_PATCH	Оновлення
+276	UI_FRAME_DEDICATED_PASSWORD	Пароль виділеного сервера
+277	UI_FRAME_CONTENT	Призові матеріали
+278	UI_FRAME_SERVER_CONTROL	Команди сервера
+279	UI_FRAME_PLAYER_CONTROL	Команди гравця
+280	UI_FRAME_SERVER_MAP	Карта сервера
+281	UI_FRAME_SERVER_GAME_TYPE	Параметри ігрового процесу
+282	UI_FRAME_SERVER_VOTING	Голосування на сервері
+283	UI_FRAME_SERVER_DETAILS	Докладніше про сервер
+284	UI_FRAME_LEADERBOARD_SELECT	Вибір таблиці рейтингу
+285	UI_FRAME_LEADERBOARD_VIEW	Перегляд таблиці рейтингу
+286	UI_FRAME_LEADERBOARD_SELECT_GAME	Вибір режиму гри
+287	UI_FRAME_LEADERBOARD_KILLS_DEATHS	Перемоги / Поразки
+288	UI_FRAME_LEADERBOARD_QUICK_KILLS	Миттєві вбивства
+289	UI_FRAME_LEADERBOARD_KILLING_SPREES	Серії жертв
+290	UI_FRAME_LEADERBOARD_DESCRIPTION	Опис
+291	UI_MSGCAP_QUIT	ВИХІД
+292	UI_MSGTEXT_QUIT_ACK	Вийти з гри?
+293	UI_ASK_MULTI_QUIT	Вийти з колективної гри?
+294	UI_ASK_SERVER_MULTI_QUIT	До вашого сервера підключені користувачі. Вийти з колективної гри та вимкнути сервер?
+295	UI_MSGCAP_STOP_GAME	ВИЙТИ З ГРИ
+296	UI_MSGTEXT_STOP_GAME_ACK	Вийти з гри?
+297	UI_MSG_CHANGES_NOT_SAVED	Внесені вами зміни не буде збережено. Продовжити?
+298	UI_RESTART_CONFIRM	Почати проходження епізоду знову? Незбережені ігрові досягнення буде втрачено.
+299	UI_MSG_SETTINGS_SAVE_FAILED	Не вдалося зберегти параметри користувача. Накопичувач даних з обліковим записом недоступний або переповнений. Виберіть інший обліковий запис або звільніть місце на цьому накопичувачі.
+301	UI_MSG_VIDEO_DEPRECATED_DRIVER	Сумісність гри зі встановленим драйвером відеокарти не гарантується. Радимо оновити драйвер відеокарти.
+302	UI_MSG_DISK_REJECTED	Диск не прийнято або його неможливо прочитати. Переконайтеся, що диск у дисководі.
+303	UI_FAILED_VKEYBOARD	Не вдалося завантажити екранну клавіатуру.
+304	UI_OBJECTIVES_EMPTY	Невиконаних завдань немає.
+305	UI_OBJECTIVES_NEW	{PARAM} Нове завдання.
+306	UI_OBJECTIVES_FAILED	{PARAM} Завдання провалено.
+307	UI_OBJECTIVES_COMPLETE	{PARAM} Завдання виконано.
+308	UI_OBJECTIVES_UPDATED	Завдання змінилося.
+309	UI_OBJECTIVES_WARNING	*УВАГА!*
+310	UI_OBJECTIVES_BREACH	Прорив просторово-часового континууму.
+311	UI_OBJECTIVES_NO_TRIKE	Квадроциклів більше немає.
+312	UI_VIDEO_COLOR_ADJUSMENT	Регулювання кольору
+313	UI_VIDEO_CONTRAST	Контрастність
+314	UI_VIDEO_BRIGHTNESS	Яскравість
+315	UI_VIDEO_OPT_2	Роздільність
+316	UI_VIDEO_OPT_3	Гама
+317	UI_VIDEO_OPT_SATURATION	Насиченість
+318	UI_VIDEO_OPT_12	Синхронізація
+319	UI_VIDEO_LIGHTING	Модель освітлення
+320	UI_VIDEO_WATER	Вода
+321	UI_VIDEO_OPT_TREE	Ефекти дерев
+322	UI_VIDEO_FOG	Туман
+323	UI_VIDEO_ANTIALIASING	Згладжування
+324	UI_VIDEO_RES_CHANGE_BEGIN	Зміна роздільності може тривати досить довго.\nПродовжити?
+325	UI_VIDEO_RES_CHANGE_WARNING	Застосування змінених вами параметрів може тривати деякий час.\nПродовжити?
+326	UI_VIDEO_CALIBRATED	Параметри зображення оптимізовано.\nЩоб внести зміни, виберіть пункт меню \"Налаштування/Зображення\".
+327	UI_VIDEO_RES_CHANGE_BEGIN_CAP	ЗМІНА РОЗДІЛЬНОСТІ
+328	UI_VIDEO_RES_CHANGE_END	Зберегти ці параметри?
+329	UI_VIDEO_RES_CHANGE_END_CAP	РОЗДІЛЬНІСТЬ ЗМІНЕНО
+330	UI_VIDEO_SHADOWS	Якість тіней
+331	UI_VIDEO_SELECT	Конфігурація
+332	UI_VIDEO_DEFAULTS	За замовчуванням
+333	UI_VIDEO_VIDEO	Зображення
+334	UI_VIDEO_TEXTURE	Текстури
+335	UI_VIDEO_RENDERING	Візуалізація
+336	UI_VIDEO_OPT_MATERIAL	Якість текстур
+337	UI_VIDEO_OPT_ANTIALIASING	Згладжування
+338	UI_VIDEO_OPT_TEXRESOLUTION	Роздільність текстур
+339	UI_VIDEO_OPT_ANISOTROPIC	Анізотропна фільтрація
+340	UI_VIDEO_OPT_MIPMAPFILTER	Фільтр. множ. відобр.
+341	UI_VIDEO_OPT_DETAILTEX	Дод. текстури
+342	UI_VIDEO_OPT_SHADERMODEL	Версія шейдерів
+343	UI_VIDEO_OPT_SHADOWMAPQUAL	Якість карти тіней
+344	UI_VIDEO_OPT_SHADOWMAPRES	Роздільність карти тіней
+345	UI_VIDEO_OPT_SMOOTHSHADOW	Згладжування тіней
+348	UI_VIDEO_OPT_SOFTPARTICLES	Розмиття частинок
+349	UI_VIDEO_OPT_PARALLAXSHADOWS	Ефект паралаксу
+350	UI_VIDEO_OPT_SHADOWS	Тіні
+351	UI_VIDEO_OPT_PROJ_SHADOWS	Проєкційні тіні
+352	UI_VIDEO_OPT_FLARES	Відблиски
+353	UI_VIDEO_OPT_DECALS	Текстури пошкоджень
+354	UI_VIDEO_OPT_SPECULAR_MAP	Карта відбиттів
+355	UI_VIDEO_OPT_REFLECTIONS	Моделювання відбиттів
+356	UI_VIDEO_OPT_DISTORTION	Ефекти спотворення
+357	UI_VIDEO_OPT_HDR	Якість HDR
+358	UI_VIDEO_OPT_DOF	Ефекти різкості
+359	UI_VIDEO_OPT_PARALLAX	Карта паралаксу
+360	UI_VIDEO_OPT_SHATTER	Ефекти руйнування
+361	UI_VIDEO_OPT_DYNAMIC_LIGHTS	Динамічне освітлення
+362	UI_VIDEO_OPT_GRASS	Трава й уламки
+363	UI_VIDEO_BRIGHTNESS_HINT	Налаштуйте яскравість зображення так, щоб сірий квадрат став майже непомітним на чорному тлі. Після цього налаштуйте контрастність.
+364	UI_VIDEO_CONTRAST_HINT	Налаштуйте яскравість і контрастність зображення так, щоб сірий квадрат став майже непомітним на білому тлі.
+365	UI_VIDEO_BOX_CONTRAST_HINT	Відрегулюйте контрастність зображення.
+366	UI_VIDEO_BOX_GAMMA_HINT	Відрегулюйте колірну гаму зображення.
+367	UI_VIDEO_OPT_2_HINT	Підвищення значення цього параметра може знизити продуктивність гри.
+368	UI_VIDEO_OPT_12_HINT	Синхронізація зміни кадрів зі зворотним ходом променя вертикальної розгортки.  Вимкнення функції дає змогу підвищити частоту кадрів.
+369	UI_VIDEO_OPT_3_HINT	Регулювання колірної гами зображення.
+370	UI_VIDEO_ANTIALIASING_HINT	Регулювання ступеня згладжування країв тривимірних об'єктів. Підвищення значення цього параметра може знизити продуктивність гри.
+371	UI_VIDEO_OPT_MATERIAL_HINT	Підвищення значення цього параметра може знизити продуктивність гри.
+372	UI_VIDEO_OPT_ANTIALIASING_HINT	Регулювання ступеня згладжування країв тривимірних об'єктів. Підвищення значення цього параметра може знизити продуктивність гри.
+373	UI_VIDEO_OPT_TEXRESOLUTION_HINT	Регулювання якості текстур.
+374	UI_VIDEO_OPT_ANISOTROPIC_HINT	Підвищення якості текстур коштом продуктивності гри.
+375	UI_VIDEO_OPT_MIPMAPFILTER_HINT	Увімкнення та вимкнення контролю якості текстур.
+376	UI_VIDEO_OPT_DETAILTEX_HINT	Регулювання відображення нерівностей поверхні для об'єктів, що перебувають близько до гравця.
+377	UI_VIDEO_OPT_SHADERMODEL_HINT	Вибір версії шейдерів, що використовується в грі.
+378	UI_VIDEO_OPT_SHADOWMAPQUAL_HINT	Регулювання кількості об'єктів, що відкидають тіні. Підвищення значення цього параметра може знизити продуктивність гри.
+379	UI_VIDEO_OPT_SHADOWMAPRES_HINT	Регулювання роздільності карти тіней. Підвищення значення цього параметра може знизити продуктивність гри.
+380	UI_VIDEO_OPT_SMOOTHSHADOW_HINT	Підвищення якості зображення. Увімкнення цієї функції може знизити продуктивність гри.
+381	UI_VIDEO_OPT_SOFTPARTICLES_HINT	Підвищення якості зображення. Увімкнення цієї функції може знизити продуктивність гри. Потрібна остання версія драйверів.
+382	UI_VIDEO_OPT_TREE_HINT	Підвищення якості зображення дерев
+383	UI_VIDEO_OPT_PARALLAXSHADOWS_HINT	Підвищення якості зображення. Увімкнення цієї функції може знизити продуктивність гри.
+384	UI_VIDEO_OPT_SHADOWS_HINT	Увімкнення та вимкнення показу тіней від об'єктів і персонажів.
+385	UI_VIDEO_OPT_FLARES_HINT	Увімкнення та вимкнення показу відблисків.
+386	UI_VIDEO_OPT_DECALS_HINT	Відображення слідів від вибухів, плям крові тощо.
+387	UI_VIDEO_OPT_SPECULAR_MAP_HINT	Регулювання відбиття світла на різних поверхнях.
+388	UI_VIDEO_OPT_REFLECTIONS_HINT	Регулювання показу води та динамічних відбиттів.
+389	UI_VIDEO_OPT_DISTORTION_HINT	Увімкнення та вимкнення піксельних ефектів спотворення.
+390	UI_VIDEO_OPT_HDR_HINT	Розширений динамічний діапазон освітлення, що підвищує реалістичність зображення.
+391	UI_VIDEO_OPT_DOF_HINT	Увімкнення та вимкнення ефектів різкості.
+392	UI_VIDEO_OPT_PARALLAX_HINT	Підвищення якості текстур об'єктів (разом із параметром \"Якість текстур\").
+393	UI_VIDEO_OPT_SHATTER_HINT	Кількість і деталізація уламків під час руйнування.
+394	UI_VIDEO_OPT_SATURATION_HINT	Регулювання насиченості кольору.
+395	UI_VIDEO_OPT_DYNAMIC_LIGHTS_HINT	Увімкнення та вимкнення динамічного освітлення.
+396	UI_VIDEO_OPT_GRASS_HINT	Відображення трави та уламків.
+397	UI_GAMEOPT_SELECT	Налаштування
+398	UI_GAMEOPT_HUD	Індикатори
+399	UI_GAMEOPT_GAME	Гра
+400	UI_GAMEOPT_HIDEHUD	Індикатори
+401	UI_GAMEOPT_TIME_SHORTCUTS	Екран хроноконтролю
+402	UI_GAMEOPT_TIME_SHORTCUTS_TIME	Затримка екрана хроноконтролю
+403	UI_GAMEOPT_SUBTITLES	Субтитри
+404	UI_GAMEOPT_BLOOD	Показ крові
+405	UI_GAMEOPT_TIME_HINTS	Поради
+406	UI_GAMEOPT_AIM_ASSIST	Допомога в прицілюванні
+407	UI_GAMEOPT_CROUCH_TOGGLE	Альт. присідання
+408	UI_GAMEOPT_AUTOSWITCH	Автовибір зброї
+409	UI_GAMEOPT_WEAPONBAR	Панель зброї
+410	UI_GAMEOPT_CAMERASHAKE	Коливання камери
+411	UI_GAMEOPT_SCREEN_FLASHES	Спалахи
+412	UI_GAMEOPT_FOV	Поле зору
+413	UI_GAMEOPT_VIBRATION	Вібрація
+415	UI_GAMEOPT_AUTOCENTER	Автоцентрування
+416	UI_GAMEOPT_HIDEHUD_HINT	Відображення індикаторів
+417	UI_GAMEOPT_TIME_SHORTCUTS_HINT	Відображення екрана хроноконтролю
+418	UI_GAMEOPT_TIME_SHORTCUTS_TIME_HINT	Затримка перед появою екрана хроноконтролю.
+419	UI_GAMEOPT_SUBTITLES_HINT	Відображення субтитрів
+420	UI_GAMEOPT_BLOOD_HINT	Відображення крові
+421	UI_GAMEOPT_TIME_HINTS_HINT	Увімкнення та вимкнення порад щодо керування та ігрового процесу.
+422	UI_GAMEOPT_AUTOSWITCH_HINT	Якщо цей параметр увімкнено, нова зброя вибирається автоматично.
+423	UI_GAMEOPT_WEAPONBAR_HINT	На панелі зброї відображаються відомості про вибрану зброю та боєприпаси.
+424	UI_GAMEOPT_CAMERASHAKE_HINT	Коливання камери під час поранення персонажа
+425	UI_GAMEOPT_SCREEN_FLASHES_HINT	Спалахи під час поранення персонажа.
+426	UI_GAMEOPT_FOV_HINT	Регулювання поля зору.
+427	UI_INIVERSE_Y_HINT	Зміна системи керування оглядом за допомогою контролера Xbox 360.
+428	UI_INIVERSE_Y_HINT_PS3	Інверсія керування оглядом по вертикалі за допомогою контролера.
+429	UI_GAMEOPT_VIBRATION_HINT	Увімкнення та вимкнення вібрації.
+430	UI_GAMEOPT_SENS	Чутливість
+431	UI_GAMEOPT_SENS_TIP	Регулювання чутливості джойстика.
+432	UI_GAMEOPT_AUTOCENTER_HINT	Автоцентрування поля зору.
+433	UI_ADVCTRL_MOUSE_SENS_HINT	Чутливість миші
+434	UI_ADVCTRL_MOUSE_CURSOR_HINT	Тип курсору
+435	UI_ADVCTRL_INVERSE_MOUSE_HINT	Інверсія миші
+436	UI_GAMEOPT_AIM_ASSIST_HINT	Увімкнення та вимкнення допомоги в прицілюванні.
+437	UI_GAMEOPT_CROUCH_TOGGLE_HINT	Не потрібно утримувати джойстик під час присідання.
+438	UI_GAMEOPT_CROUCH_TOGGLE_HINT_PS3	Не потрібно утримувати джойстик під час присідання.
+439	UI_GAMEOPT_CROUCH_TOGGLE_HINT_PC	Не потрібно утримувати клавішу під час присідання.
+440	UI_GAMEOPT_SENSOR_MELEE	Датчик рухів
+441	UI_GAMEOPT_SENSOR_MELEE_HINT	Використання датчика рухів для керування рукопашним боєм
+442	UI_GAME_DATA_PROCESSING	Копіювання ігрових даних...
+443	UI_GAME_DATA_LOADING_FAILED	Недостатньо вільного місця на жорсткому диску. Для збереження нових даних потрібно щонайменше 1 ГБ додаткового місця. Вийдіть із гри, звільніть місце та перезапустіть гру.
+444	UI_GAME_CHARACTERS_SUPPORT	Деякі символи локальних або мережевих псевдонімів можуть не підтримуватися.
+446	UI_SINFO_CFG_SUBTITLE	Користувацька конфігурація
+447	UI_SINFO_CFG_DETAILS	Значення параметрів та інша користувацька інформація
+448	UI_SINFO_SAVE_TITLE	Збережена гра TimeShift
+449	UI_SINFO_SAVE_SUBTITLE_AUTO	Автозбереження
+450	UI_SINFO_SAVE_SUBTITLE_MANUAL	Збереження користувача
+451	UI_CREATE_SERVER_LOCATION	РОЗТАШУВАННЯ
+452	UI_CREATE_SERVER_MAXPLAYERS	МАКС. ГРАВЦІВ:
+453	UI_CREATE_SERVER_MODE	РЕЖИМ ГРИ:
+454	UI_CREATE_SERVER_NAME	НАЗВА:
+455	UI_CREATE_SERVER_NETWORK	Тип сервера
+456	UI_CREATE_SERVER_LOCAL	Лок. мережа
+457	UI_CREATE_SERVER_INTERNET	Інтернет
+458	UI_CREATE_SERVER_MODIFIERS	Шаблони
+459	UI_CREATE_SERVER_COMM_SETTINGS	Параметри
+460	UI_CREATE_SERVER_MAP_LIST	Список карт
+462	UI_CANT_CREATE	Не вдалося створити сервер.
+463	UI_SERVER_NAME_BLANK	Введіть припустиму назву сервера.
+464	UI_PLAYER_NAME_BLANK	Введіть припустиме ім'я гравця.
+465	UI_DEDICATED_PASSWORD_BLANK	Введіть пароль для віддаленого доступу до виділеного сервера.
+466	UI_MODIFIER_NAME_BLANK	Введіть припустиму назву шаблону.
+467	UI_PROFILE_NAME_BLANK	Введіть припустиму назву облікового запису.
+468	UI_SERVER_STANDARD	Стандартний сервер
+469	UI_SERVER_LOCKED	Закритий сервер
+470	UI_SERVER_STATISTICS	Сервер зі статистикою
+471	UI_SERVER_DEDICATED	Виділений сервер
+472	UI_SERVER_DEDICATED_HINT	Використання системи як виділеного сервера для мережевих ігор.
+473	UI_SERVER_MODIFIED_STANDARD	Сервер зі стандартним шаблоном
+474	UI_SERVER_MODIFIED	Сервер з нестандартним шаблоном
+475	UI_BTN_RANKED_GAME_HINT	Рейтингова гра
+476	UI_BTN_NONRANKED_GAME_HINT	Звичайна гра
+477	UI_BTN_DOWNLOADABLE_CONTENT_HINT	Завантаження додаткових матеріалів
+478	UI_FRINEDS_HINT	Спілкування зі знайомими
+479	UI_PRIVILAGE_MILTI	Ваш обліковий запис Xbox LIVE не дозволяє брати участь у колективних іграх.
+480	UI_PRIVILEGE_LIVE	Ваш обліковий запис Xbox LIVE не дозволяє брати участь у колективних іграх.
+481	UI_MP_PRIVILEGE_PSN	Колективна гра недоступна для вашого облікового запису PLAYSTATION®Network через обмеження батьківського контролю.
+482	UI_PRIVILEGE_COMMUNICATE	Ваш обліковий запис Xbox LIVE не дозволяє спілкуватися з іншими гравцями.
+483	UI_PRIVILEGE_SP_GUEST	Користувачі гостьових облікових записів не можуть зберігати гру.
+484	UI_PRIVILEGE_LIVE_GUEST	Користувачі гостьових облікових записів не можуть грати через Xbox LIVE. Виберіть інший обліковий запис.
+485	UI_PRIVILEGE_SL_GUEST	Користувачі гостьових облікових записів не можуть брати участь у колективних іграх. Виберіть інший обліковий запис.
+486	UI_SERVER_NOT_FOUND	СЕРВЕРІВ НЕ ЗНАЙДЕНО
+487	UI_SERVER_SLOTS_HINT	Якщо є закриті комірки, адміністратор гри займає одну з них. Інакше він займає відкриту комірку.
+488	UI_SERVER_SLOTS_WARNING	Вибрана кількість гравців менша за поточне число учасників. Зміни не прийнято.
+489	UI_ADVSERV_MIN_PLAYERS_HINT	Мінімальна кількість учасників, потрібна для початку гри.
+490	UI_SERVER_MIN_SLOTS_WARNING	Мінімальна кількість учасників не може бути більшою за максимальну.
+491	UI_BTN_MAP_CHANGE	ЗМІНА КАРТИ
+492	UI_BTN_CHANGE_MODE	РЕЖИМ ГРИ
+493	UI_BTN_CHANGE_MODIFIER	ШАБЛОНИ
+494	UI_BTN_CHANGE_SETTINGS	ПАРАМЕТРИ ГРИ
+495	UI_BTN_KICK_PLAYER	АДМІНІСТРУВАННЯ
+496	UI_BTN_SERVER_DETAILS	ДОКЛАДНІШЕ
+497	UI_BTN_CURRENT_MODIFIERS	ПЕРЕГЛЯД ШАБЛОНУ
+498	UI_BTN_SERVER_VOTING	ГОЛОСУВАННЯ
+499	UI_SERVER_OPTIONS_SELECT	Параметри
+500	UI_BTN_KICK	ВИКЛЮЧИТИ
+501	UI_BTN_UNBAN	ЗНЯТИ БЛОК
+502	UI_BTN_BAN	ЗАБЛОКУВАТИ
+503	UI_MULTI_OPTIONS_CONTROL	Керування сервером
+504	UI_MULTI_OPTIONS_MAIN	Головне меню
+505	UI_MULTI_OPTIONS_MENU	Налаштування
+506	UI_BTN_RESTART_MAP	ЗНОВУ
+507	UI_CONFIRM_TEAM	Перейти до іншої команди?
+508	UI_CONFIRM_RESET_MAP	Потрібне повторне завантаження карти. Продовжити?
+509	UI_SRVLIST_MAXPLAYERS_1	МАКС.
+510	UI_SRVLIST_MAXPLAYERS_2	ГРАВЦІВ
+511	UI_SRVLIST_SERVERNAME_1	НАЗВА
+512	UI_SRVLIST_SERVERNAME_2	СЕРВЕРА
+513	UI_SRVLIST_GAMEMODE_1	РЕЖИМ
+514	UI_SRVLIST_GAMEMODE_2	ГРИ
+516	UI_SRVLIST_LOCATION_2	МІСЦЕ
+518	UI_SRVLIST_PING_2	ЗВ'ЯЗОК
+519	UI_SRVLIST_MAP	КАРТА
+520	UI_SRVLIST_MISC	РІЗНЕ
+521	UI_SRVLIST_CONNECTION	З'ЄДНАННЯ
+523	UI_SRVLIST_CONN_EXCELLENT	Відмінне
+524	UI_SRVLIST_CONN_GOOD	Добре
+525	UI_SRVLIST_CONN_AVERAGE	Середнє
+526	UI_SRVLIST_CONN_POOR	Погане
+527	UI_PATCH_AVAILABLE	Доступне чергове оновлення.
+528	UI_PATCH_AVAILABLE_ASK	Доступне чергове оновлення. Переглянути його зараз?
+529	UI_PATCH_UNAVAILABLE	Оновлень немає.
+530	UI_DOWNLOADS_UNAVAILABLE	Нових матеріалів немає.
+531	UI_PATCH_TITLE	Оновлення
+532	UI_PATCH_DOWNLOAD	Завантажити оновлення
+533	UI_PATCH_DOWNLOADING	Завантаження оновлення
+534	UI_PATCH_PROGRESS	Завантаження оновлення
+535	UI_PATCH_MANDATORY	Обов'язкове оновлення
+536	UI_PATCH_DOWNLOAD_OK	Завантаження оновлення завершено.
+537	UI_PATCH_DOWNLOAD_FAIL	Не вдалося завантажити оновлення.
+538	UI_PATCH_SHOW_FAILED	Не вдалося запустити браузер. Щоб завантажити оновлення, відвідайте веб-сайт:\n'{STRING}
+539	UI_CONTENT_SELECT	Тип матеріалів
+540	UI_CONTENT_VIDEO	Відео
+541	UI_CONTENT_MUSIC	Музика
+542	UI_CONTENT_SKETCH	Ескізи
+543	UI_CONTENT_MAIN_HINT	У міру проходження епізодів стають доступні нові матеріали.
+544	UI_CONTENT_FMV_01	Фінальний ролик
+545	UI_CONTENT_FMV_02	Гранична увага
+546	UI_CONTENT_FMV_03	Автоповернення
+547	UI_CONTENT_FMV_04	Початок моделювання
+548	UI_CONTENT_FMV_05	З випередженням
+549	UI_CONTENT_FMV_06	Зворотний хід
+550	UI_CONTENT_FMV_07	Резервна копія
+551	UI_CONTENT_FMV_08	Завершення моделювання
+552	UI_CONTENT_FMV_09	Ділові стосунки
+553	UI_CONTENT_FMV_10	Факти й теорії
+554	UI_CONTENT_FMV_11	Змовники
+555	UI_CONTENT_FMV_12	Пряма суперечність
+556	UI_CONTENT_FMV_13	Внутрішня загроза
+557	UI_CONTENT_FMV_14	Таємниці
+558	UI_CONTENT_FMV_15	Зближення
+559	UI_CONTENT_FMV_16	Останні накази
+560	UI_CONTENT_FMV_17	Хибний вибір
+561	UI_CONTENT_FMV_INTERVIEW_1	Інтерв'ю з Майклом Айронсайдом
+562	UI_CONTENT_FMV_INTERVIEW_2	Інтерв'ю з Ніком Чинлендом
+563	UI_CONTENT_FMV_INTERVIEW_3	Інтерв'ю з Деннісом Квейдом
+577	UI_CONTENT_AUDIO_14	Дах - фон
+578	UI_CONTENT_AUDIO_15	Дах - бій
+579	UI_CONTENT_AUDIO_16	Дирижабль - фон
+580	UI_CONTENT_AUDIO_17	Дирижабль - розвідка
+581	UI_CONTENT_AUDIO_18	Дирижабль - бій
+582	UI_CONTENT_AUDIO_19	Печери - фон
+583	UI_CONTENT_AUDIO_20	Печери - бій
+584	UI_CONTENT_AUDIO_21	Ліс - фон
+585	UI_CONTENT_AUDIO_22	Ліс - бій
+586	UI_CONTENT_AUDIO_23	Мотоцикл - фон
+587	UI_CONTENT_AUDIO_24	Мотоцикл - бій
+588	UI_CONTENT_AUDIO_25	Завод - фон
+589	UI_CONTENT_AUDIO_26	Завод - розвідка
+590	UI_CONTENT_AUDIO_27	Завод - бій
+591	UI_CONTENT_AUDIO_28	Складальний цех - фон
+592	UI_CONTENT_AUDIO_29	Складальний цех - розвідка
+593	UI_CONTENT_AUDIO_30	Складальний цех - бій
+594	UI_CONTENT_AUDIO_31	Двір - фон
+595	UI_CONTENT_AUDIO_32	Двір - бій
+596	UI_CONTENT_AUDIO_33	Урвище - фон
+597	UI_CONTENT_AUDIO_34	Урвище - бій
+598	UI_CONTENT_AUDIO_35	Печери Крона - фон
+599	UI_CONTENT_AUDIO_36	Печери Крона - бій
+600	UI_CONTENT_AUDIO_37	Штаб Крона - фон
+601	UI_CONTENT_AUDIO_38	Штаб Крона - розвідка
+602	UI_CONTENT_AUDIO_39	Штаб Крона - бій
+603	UI_CONTENT_AUDIO_40	Вашингтон - фон
+604	UI_CONTENT_AUDIO_41	Вашингтон - бій
+605	UI_CONTENT_UNLOCKED	Доступні нові матеріали!
+606	UI_CONTENT_SKETCH_0	1. Боєць групи \"Вихор\" (варіант 2)
+607	UI_CONTENT_SKETCH_1	2. Ескіз бійця
+608	UI_CONTENT_SKETCH_2	3. Шолом бійця
+609	UI_CONTENT_SKETCH_3	4. Боєць групи \"Шторм\"
+610	UI_CONTENT_SKETCH_4	5. Вартовий
+611	UI_CONTENT_SKETCH_5	6. Боєць групи \"Вихор\"
+612	UI_CONTENT_SKETCH_6	7. Шоломи бійців
+613	UI_CONTENT_SKETCH_7	8. Пістолет-кулемет \"Геєнна\"
+614	UI_CONTENT_SKETCH_8	9. Снайперська гвинтівка \"Ехо\"
+615	UI_CONTENT_SKETCH_9	10. Рій-граната
+616	UI_CONTENT_SKETCH_10	11. Карабін КМ2103
+617	UI_CONTENT_SKETCH_11	12. Плазмова установка
+618	UI_CONTENT_SKETCH_12	13. Крон-гармата
+619	UI_CONTENT_SKETCH_13	14. Розвідник
+620	UI_CONTENT_SKETCH_14	15. Квадроцикл
+621	UI_CONTENT_SKETCH_15	16. Військовий транспорт
+622	UI_CONTENT_SKETCH_16	17. Бета-спорядження
+623	UI_CONTENT_SKETCH_17	18. Патрульний робот
+624	UI_CONTENT_SKETCH_18	19. Десантний літак
+625	UI_CONTENT_SKETCH_19	20. Інженер
+626	UI_CONTENT_SKETCH_20	21. Пістолет KM-33
+627	UI_CONTENT_SKETCH_21	22. Автобус
+628	UI_CONTENT_SKETCH_22	23. Арбалет \"Громобій\"
+629	UI_CONTENT_SKETCH_23	24. Дробовик \"Град\"
+630	UI_CONTENT_SKETCH_24	25. Повстанці
+631	UI_CONTENT_SKETCH_25	26. Повстанці
+632	UI_CONTENT_SKETCH_26	27. Голова командира повстанців
+633	UI_CONTENT_SKETCH_27	28. Командир Кук
+634	UI_CONTENT_SKETCH_28	29. ПРК \"Бладгаунд\"
+635	UI_CONTENT_SKETCH_29	30. Солдат із реактивним ранцем
+636	UI_CONTENT_SKETCH_30	31. Кран
+637	UI_CONTENT_SKETCH_31	32. Голова бійця Крона
+638	UI_CONTENT_SKETCH_32	33. Доктор Марісса Фостер
+639	UI_CONTENT_SKETCH_33	34. Доктор Ейден Крон
+640	UI_CONTENT_SKETCH_34	35. Крон в альфа-спорядженні
+641	UI_CONTENT_SKETCH_35	36. Ніколас Крон
+642	UI_CONTENT_SKETCH_36	37. Доктор Натан Такер
+643	UI_CONTENT_SKETCH_37	38. Капрал поліції
+644	UI_CONTENT_SKETCH_38	39. Ескіз вогнегасника
+645	UI_CONTENT_SKETCH_39	41. Сержант поліції
+646	UI_CONTENT_SKETCH_40	41. База та об'єкт (\"Захоплення прапора\")
+647	UI_CONTENT_SKETCH_41	42. Обладнання епохи Крона
+648	UI_CONTENT_SKETCH_42	43. Книжкова полиця епохи Крона
+649	UI_CONTENT_SKETCH_43	44. Сейф епохи Крона
+650	UI_CONTENT_SKETCH_44	45. Кондиціонер епохи Крона
+651	UI_CONTENT_SKETCH_45	46. Обладнання епохи Крона
+652	UI_CONTENT_SKETCH_46	47. Комп'ютер епохи Крона
+653	UI_CONTENT_SKETCH_47	48. Рампа планера
+654	UI_CONTENT_SKETCH_48	49. Прибиральник
+655	UI_CONTENT_SKETCH_49	50. Ящики епохи Крона
+656	UI_CONTENT_SKETCH_50	51. Дерев'яні ящики
+657	UI_CONTENT_SKETCH_51	52. Ліхтарний стовп
+658	UI_CONTENT_SKETCH_52	53. Суперкомп'ютер епохи Крона
+659	UI_CONTENT_SKETCH_53	54. Гелікоптер
+660	UI_CONTENT_SKETCH_54	55. Контейнер зі зброєю
+661	UI_CONTENT_SKETCH_55	56. Контейнер
+662	UI_CONTENT_SKETCH_56	57. Військова база даних
+663	UI_CONTENT_SKETCH_57	58. Штурвал
+664	UI_CONTENT_SKETCH_58	59. Знак входу в метро
+665	UI_CONTENT_SKETCH_59	60. Турнікет епохи Крона
+666	UI_CONTENT_SKETCH_60	61. Квиткова каса епохи Крона
+667	UI_CONTENT_SKETCH_61	62. Торговий автомат
+668	UI_CONTENT_SKETCH_62	63. Світлофор
+669	UI_CONTENT_SKETCH_63	64. Вантажний кран
+670	UI_CONTENT_SKETCH_64	65. Ядро реактора
+671	UI_CONTENT_SKETCH_65	66. Вантажні контейнери
+672	UI_CONTENT_SKETCH_66	67. Статуя Крона
+673	UI_CONTENT_SKETCH_67	68. Гучномовець
+674	UI_CONTENT_SKETCH_68	69. Навантажувач
+675	UI_CONTENT_SKETCH_69	70. Посилена гарматна турель
+676	UI_CONTENT_SKETCH_70	71. Імпульсна гвинтівка
+677	UI_CONTENT_SKETCH_71	72. Граната-липучка
+678	UI_CONTENT_SKETCH_72	73. Повітряна міна
+679	UI_PLAYER_SETUP_CAP	ПАРАМЕТРИ КОЛЕКТИВНОЇ ГРИ
+680	UI_PLAYER_SETUP_PLAYERNAME	Ім'я гравця
+681	UI_PLAYER_SETUP_PASSWORD	Пароль
+682	UI_PLAYER_SETUP_CHARACTER	Персонаж
+683	UI_PLAYER_SETUP_CONNTYPE	З'єднання
+684	UI_SKIN	Колір
+685	UI_MODEL	Модель
+686	UI_SKIN_1	Бета-спорядження
+687	UI_SKIN_2	Боєць Крона
+688	UI_SKIN_3	Командир Кук
+689	UI_SKIN_4	Радист-повстанець
+690	UI_SKIN_5	Розвідник-повстанець
+691	UI_SKIN_6	Інженер-повстанець
+692	UI_SKIN_7	Боєць групи \"Шторм\"
+693	UI_SKIN_8	Інженер магістрату
+694	UI_SKIN_9	Капрал поліції
+695	UI_SKIN_MAIN_CHAR	Бета-спорядження
+696	UI_SKIN_JESSOPE	Кук
+697	UI_SKIN_QQ_STOP	Боєць групи \"Вихор\"
+698	UI_SKIN_QQ_SLOW	Боєць групи \"Полум'я\"
+699	UI_SKIN_SWAT	Боєць групи \"Шторм\"
+700	UI_SKIN_ENGINEER_1_1	Інженер 1
+701	UI_SKIN_ENGINEER_2_1	Інженер 2
+702	UI_SKIN_ENGINEER_3_2	Інженер 3
+703	UI_SKIN_ENGINEER_4_1	Інженер 4
+704	UI_SKIN_SOLDIER_2	Боєць Крона 1
+705	UI_SKIN_SOLDIER_5	Боєць Крона 2
+706	UI_SKIN_SOLDIER_6	Боєць Крона 3
+707	UI_SKIN_SOLDIER_7	Боєць Крона 4
+708	UI_SKIN_SOLDIER_2_1	Боєць Крона 5
+709	UI_SKIN_SOLDIER_2_2	Боєць Крона 6
+710	UI_SKIN_SOLDIER_2_5	Боєць Крона 7
+711	UI_SKIN_SOLDIER_2_6	Боєць Крона 8
+712	UI_SKIN_POLICE_1_2	Капрал поліції 1
+713	UI_SKIN_POLICE_1_3	Капрал поліції 2
+714	UI_SKIN_POLICE_1_4	Капрал поліції 3
+715	UI_SKIN_POLICE_1_9	Капрал поліції 4
+716	UI_SKIN_POLICE_2_1	Сержант поліції 1
+717	UI_SKIN_POLICE_2_2	Сержант поліції 2
+718	UI_SKIN_POLICE_2_4	Сержант поліції 3
+719	UI_SKIN_POLICE_2_6	Сержант поліції 4
+720	UI_SKIN_REBEL_1_3	Повстанець 1
+721	UI_SKIN_REBEL_1_5	Повстанець 2
+722	UI_SKIN_REBEL_2_3	Повстанець 3
+723	UI_SKIN_REBEL_2_4	Повстанець 4
+724	UI_SKIN_REBEL_3_1	Повстанець 5
+725	UI_SKIN_REBEL_3_3	Повстанець 6
+726	UI_SKIN_KRONE	Крон
+727	UI_VOICE_SET	Голос
+728	UI_VOICE_SET_HINT	Вибір голосу для реплік у колективній грі
+729	UI_VOICE_SET_MALE	Чоловічий
+730	UI_VOICE_SET_FEMALE	Жіночий
+731	UI_SKIN_COLOR_RED	Червоний
+732	UI_SKIN_COLOR_GREEN	Зелений
+733	UI_SKIN_COLOR_BLUE	Синій
+734	UI_MP_PHYSICS_ENABLE	Фізична модель
+735	UI_CONNECTION_1	Локальна мережа
+736	UI_CONNECTION_2	DSL 64 Кбіт
+737	UI_CONNECTION_3	DSL 128 Кбіт
+738	UI_CONNECTION_4	DSL 256 Кбіт
+739	UI_CONNECTION_5	DSL 512 Кбіт
+740	UI_CONNECTION_6	DSL 1024 Кбіт
+743	UI_CONNECTION_PARAM	{STRING} Кбіт
+744	UI_CONNECTION_BANDWIDTH_OUT	Вихідний трафік
+745	UI_CONNECTION_BANDWIDTH_IN	Вхідний трафік
+746	UI_CONNECTION_BANDWIDTH_OUT_HINT	Рекомендована кількість гравців: {STRING}
+748	UI_UNLOCK_MODEL	Введіть код доступу
+749	UI_UNLOCK_FAILURE	Не вдалося отримати доступ до моделі
+750	UI_UNLOCK_SUCCESS	Модель доступна!
+751	UI_ERROR	Помилка
+752	UI_ERR_SERVER_LIST_ERROR	Помилка перегляду
+753	UI_ERR_JOIN_GAME_ERROR	Помилка приєднання
+754	UI_ERR_SERVER_REGISTER_ERROR	Помилка сервера
+755	UI_ERR_SERVER_LIST_DISCONNECTED	З'єднання розірвано
+756	UI_ERR_CANT_START_CLIENT	Не вдалося запустити програму-клієнт
+757	UI_ERR_CANT_JOIN_SERVER	Не вдалося з'єднатися з сервером \n%S
+758	UI_ERR_CANT_START_SERVER	Неможливо запустити сервер
+759	UI_ERR_NETWORK_ERROR	Помилка мережі
+760	UI_ERR_GENERAL_ERROR	Загальна помилка
+761	UI_ERR_SERVER_LOST	З'єднання з сервером розірвано
+762	UI_ERR_NO_FREE_SLOTS	Усі комірки збереження зайняті. \nВидаліть частину збережених ігор і повторіть спробу.
+763	UI_ERR_CANT_LOAD_GAME	Не вдалося завантажити збережену гру \n%S
+764	UI_ERR_CANT_START_GAME	Не вдалося завантажити епізод \n%S
+765	UI_ERR_VIDEOCARD	Для запуску гри TimeShift потрібна GeForce3 або аналогічна відеокарта.
+766	UI_ERROR_KEY_UNDEFINED	Клавішу для команди {STRING} не призначено
+767	UI_ERROR_KEY_REDEFINED	Ця клавіша відповідає команді {STRING}. Змінити призначення?
+768	UI_SERVER_NO_PLACE	На сервері немає вільних комірок. Виберіть інший сервер.
+769	UI_WARN_SERVER_CLOSES	З'єднання з іншими гравцями буде розірвано. Завершити роботу сервера?
+770	UI_ERROR_SERVER_KICK	Вас виключено з гри
+771	UI_ERROR_SERVER_BANNED	Вам заборонено вхід на цей сервер
+772	UI_ERROR_SERVER_CLOSED	Сервер завершив роботу.
+774	UI_ERROR_SERVER_CLOSED_TIMEOUT	Гра недоступна.
+775	UI_ERROR_CONNECTION_LOST	З'єднання розірвано. Вихід у головне меню.
+776	UI_ERROR_SERVER_TIMEOUT	Увага: час очікування минув
+777	UI_ERROR_SERVER_TIMEOUT_TIME	Увага: пакети від сервера не надходять протягом {STRING} с.
+778	UI_ERROR_LIVE_LOGIN_FAILED	Щоб продовжити, увійдіть у систему Xbox LIVE.
+779	UI_ERROR_LIVE_LOGIN	Щоб продовжити, увійдіть у систему Xbox LIVE.
+780	UI_ERROR_LOGIN	Щоб продовжити, завантажте обліковий запис.
+781	UI_SERVER_WARNING_PLAYERS_MAX	Швидкість вашого з'єднання з Інтернетом дозволяє створювати ігри не більше ніж для {STRING} учасників. Більша кількість гравців може знизити продуктивність гри. Створити сервер?
+782	UI_SERVER_WARNING_CONNECTION	Швидкість з'єднання з вибраним сервером занадто мала. Можливе зниження продуктивності гри. Встановити з'єднання?
+783	UI_SERVER_WARNING_PHYSICS	Швидкість з'єднання з Інтернетом не дозволяє моделювати фізичні характеристики об'єктів (бочок тощо) без зниження продуктивності гри. Вимкнути фізичну модель?
+784	UI_DLC_LOAD_FAILED	Не вдалося завантажити епізод.
+785	UI_E_LOGON_NO_NETWORK_CONNECTION	З'єднання з мережею не виявлено.
+786	UI_E_LOGON_CANNOT_ACCESS_SERVICE	Немає доступу до Xbox LIVE. Повторіть спробу пізніше.
+787	UI_E_LOGON_UPDATE_REQUIRED	Потрібне оновлення системи. Оновіть консоль перед підключенням до Xbox LIVE.
+788	UI_E_LOGON_SERVERS_TOO_BUSY	Сервери Xbox LIVE перевантажені. Повторіть спробу пізніше.
+789	UI_E_LOGON_CONNECTION_LOST	З'єднання з мережею розірвано. Ви вийшли з Xbox LIVE.
+790	UI_E_LOGON_KICKED_BY_DUPLICATE_LOGON	Псевдонім уже використовується. Увійдіть у систему з іншим псевдонімом.
+791	UI_E_LOGON_INVALID_USER	Обліковий запис пошкоджено. Увійдіть у систему з іншим записом.
+792	UI_umLINK_LOST	З'єднання з мережею відсутнє. Перевірте з'єднання та повторіть спробу.
+793	UI_DEBUG_RELEASE_ERROR	Помилка з'єднання: несумісність версій гри (ви намагалися встановити зв'язок із неповною версією).
+794	UI_MP_ERR_UNKNOWN_MAP_SHORT	Невідомо
+795	UI_MP_ERR_UNKNOWN_MAP	Невідома дод. карта
+796	UI_ERR_DLC_ABSENT	У вас немає додаткових матеріалів, потрібних для гри на цій карті
+797	UI_ERR_DLC_DAMAGED	Файл із дод. матеріалами пошкоджено. Повторіть завантаження.
+798	UI_ERR_SERVER_VERSION	Конфлікт версій\n Версія сервера: {STRING}.{STRING} \nВерсія вашої гри: {STRING}.{STRING} \n Перейдіть у головне меню та оновіть гру
+799	UI_ERR_SERVER_VERSION_PS3	Конфлікт версій\nЗавантажте оновлення
+800	UI_HUD_SP_CAP	Статистика
+801	UI_HUD_SP_MAP_TIME	Час на карті:
+803	UI_HUD_SP_MAP_KILLS	Ворогів убито:
+804	UI_HUD_SP_MAP_KILLS_FMT	%i1 з %i2
+805	UI_HUD_SP_MAP_FAV_WEAPON	Улюблена зброя:
+806	UI_HUD_SP_MAP_ACCURACY	Точність:
+807	UI_HUD_SP_MAP_ACCURACY_FMT	%i1 з %i2 (%i3%%)
+808	UI_HUD_MP_PLAYER	Ім'я гравця
+809	UI_HUD_MP_PLAYER_XENON	Псевдонім
+810	UI_HUD_MP_PING	Зв'язок
+812	UI_HUD_MP_LATENCY	Затримка
+813	UI_HUD_MP_READY	Готовий
+814	UI_HUD_MP_NOT_READY	Не готовий
+815	UI_HUD_MP_KILLS	Жертви
+816	UI_HUD_MP_SCORE	Очки
+817	UI_HUD_MP_ROUND_SCORE	Очок за раунд
+818	UI_HUD_MP_TEAMKILLS	Вбивства своїх
+819	UI_HUD_MP_DEATHS	Смерті
+820	UI_HUD_MP_LIVES_LEFT	Залишилося життів
+821	UI_HUD_MP_SUICIDES	Самогубства
+822	UI_HUD_MP_TEAM_1	Команда червоних
+823	UI_HUD_MP_TEAM_2	Команда синіх
+824	UI_HUD_MP_YOUR_TEAM	Ваша команда
+825	UI_HUD_MP_TEAM_3	Глядачі: %i1 / %i2
+826	UI_HUD_MP_PLAYERS_TOTAL	Гравці: %i1 / %i3
+827	UI_HUD_MP_TOTAL_TH_TL	Залишок часу: %i1:%02i2.
+828	UI_HUD_MP_TOTAL_DM_FL	Ліміт жертв: %s. Ліміт часу: немає.
+829	UI_HUD_MP_TOTAL_DM_FLTL	Ліміт жертв: %s1. Ліміт часу: %i2:%02i3.
+830	UI_HUD_MP_YOUR_SCORE	Ваш рахунок:
+831	UI_HUD_PLAYERS	Гравці
+832	UI_HUD_SPECTATORS	Глядачі
+834	UI_HUD_GOD	БОГ
+836	UI_THINT_SLOW	Застосувати СПОВІЛЬНЕННЯ ЧАСУ
+837	UI_THINT_STOP	Застосувати ЗУПИНКУ ЧАСУ
+838	UI_THINT_REVERSE	Застосувати ІНВЕРСІЮ ЧАСУ
+839	UI_HUD_CONFIDENT	КОНФІДЕНЦІЙНО. ЛИШЕ ДЛЯ ПРЕСИ - НЕ ДЛЯ ПРОДАЖУ - 1/1/06
+840	WPN_0	БЕЗ ЗБРОЇ
+841	WPN_1	Пістолет КМ-33
+842	WPN_2	Громобій
+843	WPN_3	ЕМ-гармата
+844	WPN_4	Карабін КМ2103
+845	WPN_5	ПРК \"Бладгаунд\"
+846	WPN_6	Гвинтівка \"Ехо\"
+847	WPN_7	Дробовик \"Град\"
+848	WPN_8	ПП \"Геєнна\"
+849	WPN_9	Імпульсна гвинтівка
+850	WPN_10	Граната-липучка
+851	WPN_11	Рій-граната
+852	WPN_ENERGY_TURRET	Плазмова турель
+853	WPN_LITTLE_TURRET	Важкий кулемет
+854	WPN_AIR_MINES	Повітряні міни
+855	WPN_LAND_MINES	Міни-жаби
+856	WPN_DOUBLE_BARREL_TURRET	Кулемет \"Джекгаммер\"
+857	WPN_EXTRA_1	Анігілятор
+858	VHC_ZEPPELIN	Дирижабль
+859	VHC_LITTLE_ZEPPELIN	Військовий транспорт
+860	VHC_JET	Винищувач
+861	VHC_BOMBER	Бомбардувальник
+862	VHC_HELICOPTER	Гелікоптер
+863	VHC_TRIKE	Квадроцикл
+864	VHC_STEAM_TRUCK	Вантажівка
+865	OPP_SWAT	Боєць групи \"Шторм\"
+866	OPP_POLICE	Капрал поліції
+867	OPP_POLICECAP	Сержант поліції
+868	OPP_SOLDIER	Вартовий
+869	OPP_SCIENTIST	Інженер
+870	OPP_REBEL	Повстанці
+871	OPP_JESSOP	Мейсон Кук
+872	OPP_KRONE	Ейден Крон
+873	OPP_LIN	Доктор Марісса Фостер
+874	OPP_HGUARD	Боєць групи \"Грім\"
+875	OPP_QGUARD_SLOW	Боєць групи \"Полум'я\"
+876	OPP_QGUARD_STOP	Боєць групи \"Вихор\"
+877	UI_CTRL_OR	АБО
+878	UI_CTRL_NONE	НЕМАЄ
+879	UI_CTRL_CMD_MOVE_FORWARD	Уперед
+880	UI_CTRL_CMD_MOVE_BACKWARD	Назад
+881	UI_CTRL_CMD_STRAFE_LEFT	Крок ліворуч
+882	UI_CTRL_CMD_STRAFE_RIGHT	Крок праворуч
+883	UI_CTRL_CMD_ROTATE_LEFT	Погляд ліворуч
+884	UI_CTRL_CMD_ROTATE_RIGHT	Погляд праворуч
+885	UI_CTRL_CMD_LOOK_UP	Погляд угору
+886	UI_CTRL_CMD_LOOK_DOWN	Погляд униз
+887	UI_CTRL_CMD_MOVE_LEFT	Ліворуч
+888	UI_CTRL_CMD_MOVE_RIGHT	Праворуч
+889	UI_CTRL_CMD_ACCEL	Біг/ходьба
+890	UI_CTRL_CMD_JUMP	Стрибок
+891	UI_CTRL_CMD_CROUCH	Присідання
+892	UI_CTRL_CMD_USE	Використати
+893	UI_CTRL_CMD_USE_XENON	Використання/перезаряджання
+894	UI_CTRL_CMD_TEXT_CHAT	Спілкування
+895	UI_CTRL_CMD_TEAM_TEXT_CHAT	Повідомлення команді
+896	UI_CTRL_CMD_WPN_1	Перша зброя
+897	UI_CTRL_CMD_WPN_2	Друга зброя
+898	UI_CTRL_CMD_WPN_3	Третя зброя
+899	UI_CTRL_CMD_WPN_PREV	Попер. зброя
+900	UI_CTRL_CMD_WPN_NEXT	Наст. зброя
+901	UI_CTRL_CMD_FORCE_RECHARGE	Перезаряджання
+902	UI_CTRL_CMD_ACTIVATE_TIME_FREEZE	Зупинка часу
+903	UI_CTRL_CMD_ACTIVATE_TIME_REVERSAL	Інверсія часу
+904	UI_CTRL_CMD_ACTIVATE_SLOW_MOTION	Сповільнення часу
+905	UI_CTRL_CMD_TIME_CONTROL	Хроноконтроль (комп'ютер)
+906	UI_CTRL_CMD_ACTIVATE_TIME_AUTO	Хроноконтроль
+907	UI_CTRL_CMD_ACTIVATE_TIME_AUTO_PC	Хроноконтроль/хронощит
+908	UI_CTRL_CMD_ACTIVATE_TIME_SWITCH	Вибір ефекту хроноконтролю
+909	UI_CTRL_CMD_ACTIVATE_TIME_FREEZE_MP	Хронограната (зупинка)
+910	UI_CTRL_CMD_ACTIVATE_TIME_REVERSAL_MP	Хронограната (інверсія)
+911	UI_CTRL_CMD_ACTIVATE_SLOW_MOTION_MP	Хронограната (сповільнення)
+912	UI_CTRL_CMD_ACTIVATE_TIME_SHIELD_MP	Хронощит
+913	UI_CTRL_CMD_OBJECTIVES	Завдання
+914	UI_CTRL_CMD_SHOWFRAGS_DEMO	Завдання
+915	UI_CTRL_CMD_SHOWFRAGS	Завдання/Рахунок
+916	UI_CTRL_CMD_QUICKSAVE	Швидке збереження
+917	UI_CTRL_CMD_QUICKLOAD	Швидке завантаження
+918	UI_CTRL_CMD_TOGGLE_TEAM	Вибір команди
+919	UI_CTRL_CMD_SCREENSHOT	Знімок екрана
+920	UI_CTRL_CMD_PAUSE	Пауза
+921	UI_CTRL_CMD_LOOK_CENTER	Погляд по центру
+922	UI_CTRL_CMD_ATTACK_1	Вогонь
+923	UI_CTRL_CMD_ATTACK_2	Альт. вогонь
+924	UI_CTRL_CMD_ATTACK_3	Рукопашний бій
+925	UI_CTRL_CMD_THROW_GRENADE	Кидок гранати
+926	UI_CTRL_CMD_NEXT_GRENADE	Вибір гранати
+927	UI_CTRL_CMD_THROW_TIME_GRENADE	Хронограната
+928	UI_CTRL_CMD_NEXT_TIME_GRENADE	Наст. хронограната
+929	UI_CTRL_CMD_UI	Меню
+931	UI_CTRL_CMD_BIKE_BOOST	Прискорення
+932	UI_CTRL_CMD_BIKE_FORW	Газ
+933	UI_CTRL_CMD_BIKE_BACK	Задній хід
+934	UI_CTRL_CMD_MINIZOOM	Режим прицілювання
+935	UI_CTRL_CMD_UNUSED	Не використовується
+936	UI_CTRL_CMD_ACTIVATE_GREN_AUTO	Гранати
+937	UI_CTRL_CMD_ACTIVATE_GREN_STICKY	Граната-липучка
+938	UI_CTRL_CMD_ACTIVATE_GREN_WASP	Рій-граната
+939	UI_CTRL_CMD_ACTIVATE_GREN_MINE	Міна-жаба
+940	UI_CTRL_CMD_ACTIVATE_GREN_LASER_MINE	Лазерна міна
+941	UI_CTRL_CMD_ACTIVATE_TIME_CANCEL	Скасування
+942	"CTRL_MS 1"	ЛКМ
+943	"CTRL_MS 2"	ПКМ
+944	"CTRL_MS 3"	СКМ
+945	"CTRL_MS 4"	Кнопка миші 4
+946	"CTRL_MS 5"	Кнопка миші 5
+947	"CTRL_MS 6"	Кнопка миші 6
+948	"CTRL_MS 7"	Кнопка миші 7
+949	"CTRL_MS 8"	Кнопка миші 8
+950	"CTRL_MS Up"	Коліщатко прокрутки: угору
+951	"CTRL_MS Down"	Коліщатко прокрутки: униз
+952	"CTRL_MS Left"	Миша: ліворуч
+953	"CTRL_MS Right"	Миша: праворуч
+954	"CTRL_MS Forw"	Миша: угору
+955	"CTRL_MS Back"	Миша: униз
+956	CTRL_LB	ЛК
+957	CTRL_RB	ПК
+958	UI_CONTROLS_THUMBSTICKS	Конфігурація джойстика
+959	UI_CONTROLS_GENERAL	Загальне
+960	UI_CONTROLS_BUTTONS	Основні кнопки
+961	UI_CONTROLS_BUTTONS_ADVANCED	Додаткові кнопки
+962	UI_CONTROLS_BUTTONS_ADVANCED_TIME	Кнопки хроноконтролю
+963	UI_CONTROLS_BUTTONS_ADVANCED_GREN	Кнопки гранат
+964	UI_CONTROLS_BUTTONS_ADVANCED_TIME_DESC_1	Натисніть кнопку хроноконтролю, щоб застосувати ефект, вибраний комп'ютером
+965	UI_CONTROLS_BUTTONS_ADVANCED_TIME_DESC_1_PS3	Натисніть кнопку хроноконтролю, щоб застосувати ефект, вибраний комп'ютером
+966	UI_CONTROLS_BUTTONS_ADVANCED_TIME_DESC_2	Щоб вибрати ефект хроноконтролю вручну, натисніть кнопку хроноконтролю + {PARAM} {PARAM} {PARAM} {PARAM}
+967	UI_CONTROLS_BUTTONS_ADVANCED_TIME_DESC_2_PS3	Щоб вибрати ефект хроноконтролю вручну, натисніть кнопку хроноконтролю + {PARAM} {PARAM} {PARAM} {PARAM}
+968	UI_CONTROLS_BUTTONS_ADVANCED_GREN_DESC_1	Щоб кинути вибрану гранату, натисніть відповідну кнопку
+969	UI_CONTROLS_BUTTONS_ADVANCED_GREN_DESC_2	Щоб вибрати тип гранати, натисніть кнопку гранат + {PARAM} {PARAM} {PARAM} {PARAM}
+970	UI_CONTROLS_BUTTONS_ADVANCED_GREN_DESC_2_PS3	Щоб вибрати тип гранати, натисніть кнопку гранат + {PARAM} {PARAM} {PARAM} {PARAM}
+971	UI_CTRL_thumb_1	Стандартна
+972	UI_CTRL_thumb_2	Для лівші
+973	UI_CTRL_thumb_3	Змішана
+974	UI_CTRL_thumb_4	Змішана для лівші
+975	UI_CTRL_buttons_1	Стандартна
+976	UI_CTRL_buttons_2	Для лівші
+977	UI_CTRL_buttons_3	Інвертована
+978	UI_CTRL_buttons_4	Інвертована для лівші
+979	UI_CTRL_MOVE	Переміщення
+980	UI_CTRL_STRAFE	Крок убік
+981	UI_CTRL_LOOK	Огляд
+982	UI_CTRL_ROTATE	Поворот
+983	UI_CMD_SELECT	Група команд
+984	UI_CMD_MOVEMENT	Переміщення
+985	UI_CMD_COMBAT	Бій
+986	UI_CMD_ACTIONS	Дії
+987	UI_CMD_MISC	Різне
+988	CTRL_START	Кнопка START
+989	CTRL_START_PC	Кнопка Start
+990	CTRL_START_PS3	Кнопка Start
+991	CTRL_BACK	Кнопка BACK
+992	CTRL_BACK_PS3	Кнопка SELECT
+993	CTRL_DPAD_UP	Хрестовина вгору
+994	CTRL_DPAD_DOWN	Хрестовина вниз
+995	CTRL_DPAD_LEFT	Хрестовина ліворуч
+996	CTRL_DPAD_RIGHT	Хрестовина праворуч
+997	CTRL_THUMB_LEFT	Лівий джойстик
+998	CTRL_THUMB_LEFT_PS3	Кнопка L3
+999	CTRL_THUMB_RIGHT	Правий джойстик
+1000	CTRL_THUMB_RIGHT_PS3	Кнопка R3
+1001	CTRL_A_BUTTON	Кнопка А
+1002	CTRL_B_BUTTON	Кнопка B
+1003	CTRL_X_BUTTON	Кнопка X
+1004	CTRL_Y_BUTTON	Кнопка Y
+1005	CTRL_TRIGGER_LEFT	Лівий курок
+1006	CTRL_TRIGGER_RIGHT	Правий курок
+1007	CTRL_AXIS_LEFT_FORW	Лівий джойстик: уперед
+1008	CTRL_AXIS_LEFT_BACKW	Лівий джойстик: назад
+1009	CTRL_AXIS_LEFT_LEFT	Лівий джойстик: ліворуч
+1010	CTRL_AXIS_LEFT_RIGHT	Лівий джойстик: праворуч
+1011	CTRL_AXIS_RIGHT_FORW	Правий джойстик: уперед
+1012	CTRL_AXIS_RIGHT_BACKW	Правий джойстик: назад
+1013	CTRL_AXIS_RIGHT_LEFT	Правий джойстик: ліворуч
+1014	CTRL_AXIS_RIGHT_RIGHT	Правий джойстик: праворуч
+1015	CTRL_JOY_AXIS_1_FORW	Вісь 1: уперед
+1016	CTRL_JOY_AXIS_1_BACK	Вісь 1: назад
+1017	CTRL_JOY_AXIS_1_LEFT	Вісь 1: ліворуч
+1018	CTRL_JOY_AXIS_1_RIGHT	Вісь 1: праворуч
+1019	CTRL_JOY_AXIS_2_FORW	Вісь 2: уперед
+1020	CTRL_JOY_AXIS_2_BACK	Вісь 2: назад
+1021	CTRL_JOY_AXIS_2_LEFT	Вісь 2: ліворуч
+1022	CTRL_JOY_AXIS_2_RIGHT	Вісь 2: праворуч
+1023	CTRL_JOY_AXIS_3_FORW	Вісь 3: уперед
+1024	CTRL_JOY_AXIS_3_BACK	Вісь 3: назад
+1025	CTRL_JOY_AXIS_3_LEFT	Вісь 3: ліворуч
+1026	CTRL_JOY_AXIS_3_RIGHT	Вісь 3: праворуч
+1027	CTRL_ARROW_UP	Стрілка вгору
+1028	CTRL_ARROW_DOWN	Стрілка вниз
+1029	CTRL_ARROW_LEFT	Стрілка ліворуч
+1030	CTRL_ARROW_RIGHT	Стрілка праворуч
+1031	CTRL_ALT_LEFT	Лівий Alt
+1032	CTRL_ALT_RIGHT	Правий Alt
+1033	CTRL_SHIFT_RIGHT	Правий Shift
+1034	CTRL_SHIFT_LEFT	Лівий Shift
+1035	CTRL_CONTROL_RIGHT	Правий Ctrl
+1036	CTRL_CONTROL_LEFT	Лівий Ctrl
+1037	UI_CTRL_DEFAULTS_CAP	ЗА ЗАМОВЧУВАННЯМ
+1038	UI_CTRL_DEFAULTS_CONFIRM	Відновити команди \nкерування за замовчуванням?
+1039	UI_GAMEOPT_DEFAULTS_CONFIRM	Відновити параметри \nгри за замовчуванням?
+1040	UI_VIDEOOPT_DEFAULTS_CONFIRM	Відновити параметри \nзображення за замовчуванням?
+1041	UI_VIDEOOPT_DEFAULTS_CONFIRM_PC	Відновити параметри зображення за допомогою одного із шаблонів?
+1042	UI_VIDEO_DEFAULTS_CONFIRM	Налаштування параметрів зображення.
+1043	UI_VIDEO_DEFAULTS_CONFIRM_PC	Підтвердьте вибір
+1044	UI_AUDIO_DEFAULTS_CONFIRM	Відновити параметри \nзвуку за замовчуванням?
+1045	UI_MOUSE_DEFAULTS_CONFIRM	Відновити параметри \nмиші за замовчуванням?
+1046	UI_GAME_DELETE_CONFIRM	Видалити \nзбережену гру?
+1047	UI_PROFILE_DELETE_CONFIRM	Видалити \nобліковий запис?
+1048	UI_PROFILE_ADDED_OK	Обліковий запис створено.
+1049	UI_PROFILE_EXISTS_ERR	Не вдалося скопіювати обліковий запис.
+1050	UI_PROFILE_DIRECTORY_ERR	Помилка під час створення папки облікових записів.
+1051	UI_PROFILE_COPY_ERR	Помилка під час копіювання облікового запису за замовчуванням.
+1052	UI_PROFILE_ERR	Помилка під час створення облікового запису.
+1053	UI_PROFILE_FIRST	Створіть обліковий запис. Він потрібен для збереження даних про налаштування гри (зокрема колективної) і конфігурації команд керування.
+1054	UI_PROFILE_CREATE_CONFIRM	Введіть назву облікового запису.
+1055	UI_STOP_GAME_CONFIRM	Вийти з гри?
+1056	UI_EXIT_INVITE_CONFIRM	Завершити гру? Усі незбережені досягнення буде втрачено.
+1057	UI_EXIT_INVITE_CONFIRM_MP	Завершити гру?
+1058	UI_EXIT_INVITE_CAP	ПІДТВЕРДЬТЕ ВИХІД
+1059	UI_PROFILE_DELETE_ERR	Ви не можете видалити єдиний обліковий запис.
+1060	UI_DEFAULTS_CONFIRM_CAP	ПІДТВЕРДЬТЕ ОПЕРАЦІЮ
+1061	UI_PROFILE_DELETE_CONFIRM_CAP	ВИДАЛЕННЯ ОБЛІКОВОГО ЗАПИСУ
+1062	UI_PROFILE_CANT_DELETE	Не вдалося видалити обліковий запис. Можливо, папку цього запису відкрито в іншій програмі.
+1063	UI_EXIT_MAIN_CONFIRM	Перейти в головне меню? Усі незбережені досягнення буде втрачено.

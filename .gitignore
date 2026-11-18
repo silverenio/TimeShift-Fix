@@ -7,3 +7,12 @@
 README.txt
 logo.png
 steam_guide*.txt
+# game files / generated payloads (not redistributed)
+ua/patch.s3darc.orig
+ua/ru_lines.json
+ua/ru_parts/
+ua/_tmp*
+ua/terms.txt
+ua/__pycache__/
+installer/lang_*.bin
+installer/*.res
