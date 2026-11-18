@@ -3,3 +3,7 @@
 *.lib
 *.exp
 *.exe
+*.res
+README.txt
+logo.png
+steam_guide*.txt

@@ -10,13 +10,21 @@ No .exe patching: the Steam exe is DRM-protected and refuses to start if modifie
 
 ## Install
 
+**Easy way:** download `TimeShift-Fix-Installer.exe` from [Releases](../../releases/latest) and run it.
+It finds TimeShift in your Steam libraries and installs the fix. Run it again to uninstall.
+
+> The installer is not code-signed, so Windows SmartScreen may show "Windows protected your PC" →
+> click **More info → Run anyway**. Source code is in `installer/`.
+
+**Manual way:**
+
 1. Download `TimeShift-Fix.zip` from [Releases](../../releases/latest).
 2. Copy `dinput8.dll` to `<Steam>\steamapps\common\TimeShift\bin\` (next to `TimeShift.Exe`).
 3. Launch the game from Steam.
 
 ## Uninstall
 
-Delete `bin\dinput8.dll`.
+Run the installer again and choose **No = remove**, or delete `bin\dinput8.dll`.
 
 ## What it does
 
@@ -31,10 +39,9 @@ DirectInput calls are forwarded to the real Windows `dinput8.dll`.
 - Tested: Steam version, Windows 11, i7-14700KF (28 threads), RTX 3090.
 - During install Steam runs **GameSpy Comrade**, which tries to download .NET 1.1 from a dead link. Press Cancel — it is not needed.
 - The game is 32-bit (2 GB memory limit). 4K may crash in cutscenes or loading; if so, use 2560×1440. Avoid DXVK at 4K — it uses extra address space.
-- Some antivirus tools flag unknown DLLs. Full source is in `src/` — build it yourself with Visual Studio Build Tools (x86).
+- Some antivirus tools flag unknown DLLs. Full source is in `src/` — build it yourself with Visual Studio Build Tools: run `build.bat`.
 
-SHA-256 of `dinput8.dll` (v1.0):
-`275378b385a2cca735a43fc2564852c4a747f6488d0bbc7802ee339f4b1d8670`
+SHA-256: see the release notes.
 
 ## License
 
