@@ -5,4 +5,4 @@ cd /d "%~dp0src"
 cl /nologo /O2 /LD /MT dinput8.c /link /DEF:dinput8.def /OUT:dinput8.dll kernel32.lib || exit /b 1
 cd /d "%~dp0installer"
 rc /nologo /c65001 installer.rc || exit /b 1
-cl /nologo /O2 /MT /DUNICODE /D_UNICODE installer.c installer.res /Fe:TimeShift-Fix-Installer.exe /link /SUBSYSTEM:WINDOWS user32.lib advapi32.lib comdlg32.lib comctl32.lib || exit /b 1
+cl /nologo /O2 /MT /utf-8 /DUNICODE /D_UNICODE installer.c installer.res /Fe:TimeShift-Fix-Installer.exe /link /SUBSYSTEM:WINDOWS user32.lib advapi32.lib comdlg32.lib comctl32.lib || exit /b 1
