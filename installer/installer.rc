@@ -1,9 +1,10 @@
 #include <windows.h>
-101 RCDATA "..\src\dinput8.dll"
+1 ICON "../art/logo.ico"
+101 RCDATA "../src/dinput8.dll"
 1 RT_MANIFEST "installer.manifest"
 VS_VERSION_INFO VERSIONINFO
-FILEVERSION 1,0,0,0
-PRODUCTVERSION 1,0,0,0
+FILEVERSION 1,2,0,0
+PRODUCTVERSION 1,2,0,0
 BEGIN
   BLOCK "StringFileInfo"
   BEGIN
@@ -11,8 +12,8 @@ BEGIN
     BEGIN
       VALUE "FileDescription", "TimeShift Fix Installer"
       VALUE "ProductName", "TimeShift Fix"
-      VALUE "FileVersion", "1.0"
-      VALUE "ProductVersion", "1.0"
+      VALUE "FileVersion", "1.2"
+      VALUE "ProductVersion", "1.2"
       VALUE "LegalCopyright", "MIT License - github.com/silverenio/TimeShift-Fix"
     END
   END
