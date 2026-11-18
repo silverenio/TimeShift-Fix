@@ -9,7 +9,7 @@
 #include "resource.h"
 #include "pak_info.h"
 
-#define TITLE L"TimeShift Fix 2.1"
+#define TITLE L"TimeShift Fix 2.2"
 
 static wchar_t g_bin[MAX_PATH], g_pak[MAX_PATH], g_bak[MAX_PATH], g_dll[MAX_PATH];
 static HINSTANCE g_hi;

@@ -58,9 +58,11 @@ def patch_main_cyr(raw):
     # Э cell -> closed E (big 'e'): Е with its upper-right part taken from Р (closed bowl)
     make_glyph(d, (316, 172, 352), (208, 16), 36, 56,
                extra=[(216, 96, range(16, 36, 4), range(0, 32, 4))])
-    # э cell -> є: с + middle bar of е
-    make_glyph(d, (320, 420, 356), (256, 344), 36, 44,
-               extra=[(208, 264, range(12, 36, 4), range(16, 28, 4))])
+    # э cell -> є: с + middle bar of the uppercase Е (rows 16..28 of Е placed at rows 12..24)
+    make_glyph(d, (320, 420, 356), (256, 344), 36, 44)
+    for i, r in enumerate(range(16, 28, 4)):
+        for c in range(12, 36, 4):
+            put(d, 320 + c, 420 + 12 + 4 * i, blk(d, 208 + c, 16 + r))
     return bytes(d)
 
 
