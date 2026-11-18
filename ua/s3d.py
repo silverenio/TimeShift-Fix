@@ -26,9 +26,10 @@ def build_override(orig_path, out_path, overrides):
     """overrides: {entry_name: raw_bytes} -> appended to data, index updated. type 14 (strings) only."""
     a=read(orig_path); d=a['d']; idxoff=a['idxoff']
     data=bytearray(d[:idxoff])
-    for name,raw in overrides.items():
+    for key,raw in overrides.items():
+        name,typ=(key if isinstance(key,tuple) else (key,14))
         z=zlib.compress(raw,9); off=len(data); data+=z
-        e=[x for x in a['ents'] if x[0]==name and x[1]==14][0]
+        e=[x for x in a['ents'] if x[0]==name and x[1]==typ][0]
         e[2:6]=[off, zlib.crc32(raw)&0xffffffff, len(raw), len(z)]
     newidx=len(data)
     hdrpos=a['dataoff']-4

@@ -9,7 +9,7 @@ IDR_LANG_UK RCDATA "lang_uk.bin"
 
 IDD_MAIN DIALOGEX 0, 0, 260, 178
 STYLE DS_MODALFRAME | DS_CENTER | WS_POPUP | WS_CAPTION | WS_SYSMENU
-CAPTION "TimeShift Fix 2.0"
+CAPTION "TimeShift Fix 2.1"
 FONT 9, "Segoe UI"
 BEGIN
     LTEXT "Fixes startup crash on modern CPUs + driver warning.\nФікс запуску / Фикс запуска.", -1, 10, 8, 240, 20
@@ -27,8 +27,8 @@ BEGIN
 END
 
 VS_VERSION_INFO VERSIONINFO
-FILEVERSION 2,0,0,0
-PRODUCTVERSION 2,0,0,0
+FILEVERSION 2,1,0,0
+PRODUCTVERSION 2,1,0,0
 BEGIN
   BLOCK "StringFileInfo"
   BEGIN
@@ -36,8 +36,8 @@ BEGIN
     BEGIN
       VALUE "FileDescription", "TimeShift Fix Installer"
       VALUE "ProductName", "TimeShift Fix"
-      VALUE "FileVersion", "2.0"
-      VALUE "ProductVersion", "2.0"
+      VALUE "FileVersion", "2.1"
+      VALUE "ProductVersion", "2.1"
       VALUE "LegalCopyright", "MIT License - github.com/silverenio/TimeShift-Fix"
     END
   END

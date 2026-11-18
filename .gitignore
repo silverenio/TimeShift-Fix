@@ -16,3 +16,4 @@ ua/terms.txt
 ua/__pycache__/
 installer/lang_*.bin
 installer/*.res
+ua/*.tex

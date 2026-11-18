@@ -27,7 +27,7 @@ SmartScreen may warn because the exe is not code-signed: **More info → Run any
 ### How it works
 - A small proxy `dinput8.dll` makes the game see 4 CPU cores (the 2007 engine crashes with > 8 threads; CPU affinity does **not** help), reports a driver version the game accepts, and skips the driver warning with a 1-byte in-memory patch (only if the exact expected bytes are found). The Steam `TimeShift.Exe` is never modified — it is DRM-protected and refuses to start if changed.
 - Language: the Steam version already contains the official Russian text, but switching the game to Russian mode breaks startup. The installer instead points the game's English text entry in `preload\paks\patch.s3darc` to Russian or Ukrainian text. The original file is backed up as `patch.s3darc.tsfix_orig` and restored on uninstall.
-- Ukrainian: fan translation (≈3,900 lines). The game's font has no **і ї є ґ**, so they are shown as i, ï, е, г. The correct Ukrainian text is kept in `ua/uk_parts/`.
+- Ukrainian: fan translation (≈3,900 lines). The game's 8-bit text table has no **і ї є ґ**: і/ї use Latin i/ï, and **Є/є are real separate glyphs** built into the game font (the font's rounded Е serves as Є; a new closed Е and a new є are assembled from existing letter blocks, see `ua/font_patch.py`). Ґ is not needed in this text.
 
 ### Notes
 - Tested: Steam version, Windows 11, i7-14700KF (28 threads), RTX 3090.
@@ -52,7 +52,7 @@ SmartScreen may warn because the exe is not code-signed: **More info → Run any
 Якщо Windows SmartScreen попереджає (файл без цифрового підпису): **Докладніше → Усе одно запустити**.
 
 ### Важливо
-- У шрифті гри немає літер **і ї є ґ**, тому вони показуються як i, ï, е, г. Читається нормально; правильний текст збережено в `ua/uk_parts/`.
+- Літери **Є/є** намальовані в шрифті гри окремо від Е/е (ми дорисували шрифт). **і, ї** показуються латинськими i, ï — виглядають так само. Ґ у тексті гри не трапляється.
 - Оригінальні файли гри зберігаються й повертаються при видаленні. «Перевірити цілісність файлів» у Steam теж поверне англійську.
 
 ---
@@ -75,7 +75,7 @@ SmartScreen may warn because the exe is not code-signed: **More info → Run any
 ---
 
 ## Build from source
-Visual Studio Build Tools (x86) → `build.bat`. Language payloads are generated from your own game files with `ua/make_installer_data.py` (needs the original `patch.s3darc` from the Steam version; game files are not included in this repo).
+Visual Studio Build Tools (x86) → `build.bat`. Language payloads are generated from your own game files: `ua/extract_fonts.py <out.s3darc>`, then `ua/make_installer_data.py` (needs the original `patch.s3darc` from the Steam version; game files are not included in this repo).
 
 ## License
 Code: MIT. Ukrainian translation (`ua/uk_parts/`): free to use with credit. TimeShift © Sierra/Activision; this is an unofficial fan project.
